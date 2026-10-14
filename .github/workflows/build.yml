@@ -12,8 +12,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: build-slides
@@ -51,23 +49,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
           force_orphan: true
-      - uses: actions/configure-pages@v5
-        continue-on-error: true
-        id: pages
-      - if: steps.pages.outcome == 'success'
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-      - name: Cancel stuck Pages deployments
-        if: steps.pages.outcome == 'success'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          git fetch -q --depth=10 origin main || true
-          for sha in $(git log -8 --format=%H origin/main); do
-            gh api -X POST "repos/${{ github.repository }}/pages/deployments/$sha/cancel" >/dev/null 2>&1 && echo "cancelled $sha" || true
-          done
-      - if: steps.pages.outcome == 'success'
-        uses: actions/deploy-pages@v4
-        with:
-          timeout: 600000
