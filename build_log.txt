@@ -1,0 +1,8 @@
+slide 1: reused pixabay photo
+slide 2: reused pixabay photo
+slide 3: reused pixabay photo
+slide 4: reused pixabay photo
+slide 5: reused pixabay photo
+slide 6: app screenshot 0
+slide 6: app screenshot 0 (tr)
+rendered 04-is-it-working en+tr
