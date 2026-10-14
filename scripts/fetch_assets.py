@@ -17,10 +17,18 @@ UA = {"User-Agent": "isilda-slides/1.0 (+https://github.com/hdeniz06/isilda-slid
 _ov_dead = False
 
 
-def get_json(url, headers=None):
-    req = urllib.request.Request(url, headers={**UA, **(headers or {})})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
+def get_json(url, headers=None, tries=4):
+    import time, urllib.error
+    for k in range(tries):
+        req = urllib.request.Request(url, headers={**UA, **(headers or {})})
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and k < tries - 1:
+                time.sleep(int(e.headers.get("Retry-After") or 0) or 15 * (k + 1))
+                continue
+            raise
 
 
 def download(url, path):
@@ -35,7 +43,7 @@ def openverse_pick(query, used):
         return None
     """Keyless fallback: public-domain / CC0 photos via the Openverse API (no attribution needed)."""
     q = urllib.parse.urlencode({"q": query, "license": "cc0,pdm", "aspect_ratio": "tall",
-                                "size": "large", "category": "photograph", "page_size": 40})
+                                "size": "large", "category": "photograph", "page_size": 20})
     data = get_json(f"https://api.openverse.org/v1/images/?{q}")
     for p in data.get("results", []):
         pid = "ov-" + p["id"]
@@ -101,6 +109,8 @@ def main(content_path):
                 if not p and os.environ.get("PIXABAY_API_KEY"):
                     p = pixabay_pick(s["photo"], used, os.environ["PIXABAY_API_KEY"])
                 if not p:
+                    import time
+                    time.sleep(4)  # anonymous Openverse is rate limited
                     p = openverse_pick(s["photo"], used)
             except Exception as e:
                 print(f"slide {i}: photo search failed: {e}")
