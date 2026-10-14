@@ -42,5 +42,38 @@
    "type": "cta",
    "text": "Screenshot this and *stop guessing.*"
   }
- ]
+ ],
+ "tr": {
+  "title": "Cilt bakım sırası",
+  "caption": "Sıralama sandığından önemli #ciltbakımrutini #ciltbakımı #skincare #ciltbakimi",
+  "slides": [
+   {
+    "text": "Cilt bakım ürünlerini *yanlış sırayla* sürüyor olabilirsin"
+   },
+   {
+    "title": "Kural",
+    "body": "İnceden kalına. Önce su bazlılar, sonra krem ve yağlar."
+   },
+   {
+    "title": "*Sabah*",
+    "items": [
+     "Temizleyici",
+     "Serum (C vitamini burada iyi gider)",
+     "Nemlendirici",
+     "*Güneş kremi, hep en son*"
+    ]
+   },
+   {
+    "title": "*Akşam*",
+    "items": [
+     "Temizleyici",
+     "Bakım (retinol ya da asit, ikisi birden değil)",
+     "Nemlendirici"
+    ]
+   },
+   {
+    "text": "Ekran görüntüsü al, *tahmin etmeyi bırak.*"
+   }
+  ]
+ }
 }

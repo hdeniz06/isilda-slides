@@ -45,5 +45,40 @@
    "title": "Or scan your face in *Glowtrack* and skip the guessing.",
    "screenshot": 0
   }
- ]
+ ],
+ "tr": {
+  "title": "Cilt tipi testi",
+  "caption": "Çoğu kişi bunu yanlış biliyor #ciltbakımı #yağlıcilt #kurucilt #ciltbakimi",
+  "slides": [
+   {
+    "text": "Cilt tipini *tahmin etmeyi* bırak",
+    "sub": "30 dakikalık bir test var"
+   },
+   {
+    "title": "*Çıplak yüz* testi",
+    "items": [
+     "Nazik bir temizleyiciyle yıka",
+     "Kurula. *Hiçbir şey* sürme.",
+     "30 dakika bekle",
+     "T bölgene ve yanaklarına bak"
+    ]
+   },
+   {
+    "title": "Ne anlama geliyor?",
+    "items": [
+     "Her yer parlak → *yağlı*",
+     "Gergin veya pul pul → *kuru*",
+     "T bölgesi parlak, yanaklar normal → *karma*",
+     "Rahat → *normal*"
+    ]
+   },
+   {
+    "title": "Neden önemli?",
+    "body": "Çoğu rutin, *yanlış* cilt tipine göre kurulduğu için işe yaramaz."
+   },
+   {
+    "title": "Ya da *Işılda*'da yüzünü tarat, tahmin etmeyi bırak."
+   }
+  ]
+ }
 }

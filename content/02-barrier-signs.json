@@ -43,5 +43,39 @@
    "text": "Simple beats *complicated.*",
    "sub": "if it doesn't calm down, see a dermatologist"
   }
- ]
+ ],
+ "tr": {
+  "title": "Hasarlı cilt bariyerinin işaretleri",
+  "caption": "Cildin sana bir şey söylüyor olabilir #ciltbariyeri #ciltbakımı #hassascilt #skincare",
+  "slides": [
+   {
+    "text": "Cilt bariyerin *hasar görmüş* olabilir, eğer…"
+   },
+   {
+    "title": "İşaretler",
+    "items": [
+     "Ürünler sürünce *yakıyor*",
+     "Yüzünü yıkadıktan sonra *gerginlik*",
+     "Ani kızarıklık veya pul pul bölgeler",
+     "Hiç sivilce çıkmayan yerlerde sivilce"
+    ]
+   },
+   {
+    "title": "Genelde sebebi ne?",
+    "body": "Aynı anda çok fazla aktif içerik, fazla peeling, sert temizleyiciler veya sıcak su."
+   },
+   {
+    "title": "Nasıl *toparlanır*?",
+    "items": [
+     "Asit ve retinole bir süre ara ver",
+     "Nazik temizleyici, nemlendirici, güneş kremi. Bu kadar.",
+     "Ürünleri *tek tek* geri ekle"
+    ]
+   },
+   {
+    "text": "Basit olan *kazanır.*",
+    "sub": "geçmezse bir dermatoloğa görün"
+   }
+  ]
+ }
 }

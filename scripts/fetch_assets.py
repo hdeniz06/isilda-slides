@@ -98,9 +98,9 @@ def pexels_pick(query, used, key):
     return None
 
 
-def app_screenshots():
+def app_screenshots(country=None):
     a = BRAND["app_store"]
-    q = urllib.parse.urlencode({"bundleId": a["bundle_id"], "country": a["country"]})
+    q = urllib.parse.urlencode({"bundleId": a["bundle_id"], "country": country or a["country"]})
     res = get_json(f"https://itunes.apple.com/lookup?{q}")["results"]
     if not res:
         raise SystemExit("App not found on the App Store for " + a["bundle_id"])
@@ -119,8 +119,22 @@ def main(content_path):
 
     for i, s in enumerate(data["slides"], 1):
         if s.get("photo") and data.get("style", "photo") == "photo":
+            dst_photo = os.path.join(out, f"{i:02d}.jpg")
+            prev = next((v for v in hist.values() if v.get("slideshow") == sid and v.get("slide") == i and v.get("src")), None)
+            if prev:  # re-render: reuse the exact same photo
+                try:
+                    download(prev["src"], dst_photo)
+                    print(f"slide {i}: reused {prev['provider']} photo")
+                    continue_photo = True
+                except Exception as e:
+                    print(f"slide {i}: reuse failed ({e}), searching again")
+                    continue_photo = False
+            else:
+                continue_photo = False
             p = None
             try:
+                if continue_photo:
+                    raise StopIteration
                 if os.environ.get("PEXELS_API_KEY"):
                     r = pexels_pick(s["photo"], used, os.environ["PEXELS_API_KEY"])
                     if r:
@@ -132,20 +146,24 @@ def main(content_path):
                     import time
                     time.sleep(4)  # anonymous Openverse is rate limited
                     p = openverse_pick(s["photo"], used)
+            except StopIteration:
+                pass
             except Exception as e:
                 print(f"slide {i}: photo search failed: {e}")
-            if not p:
+            if continue_photo:
+                pass
+            elif not p:
                 print(f"slide {i}: no photo for '{s['photo']}', rendering without")
                 continue
-            try:
-                download(p["src"], os.path.join(out, f"{i:02d}.jpg"))
-            except Exception as e:
-                print(f"slide {i}: download failed: {e}")
-                continue
-            used.add(p["id"])
-            hist[p["id"]] = {"slideshow": sid, "query": s["photo"], "url": p["url"],
-                             "photographer": p["photographer"], "provider": p["provider"]}
-            print(f"slide {i}: {p['provider']} {p['id']} ({s['photo']})")
+            else:
+                try:
+                    download(p["src"], dst_photo)
+                    used.add(p["id"])
+                    hist[p["id"]] = {"slideshow": sid, "slide": i, "query": s["photo"], "src": p["src"],
+                                     "url": p["url"], "photographer": p["photographer"], "provider": p["provider"]}
+                    print(f"slide {i}: {p['provider']} {p['id']} ({s['photo']})")
+                except Exception as e:
+                    print(f"slide {i}: download failed: {e}")
         if s["type"] == "app":
             if shots is None:
                 try:
@@ -162,6 +180,15 @@ def main(content_path):
                 except Exception:
                     download(shots[idx], dst)
                 print(f"slide {i}: app screenshot {idx}")
+            for lang in [k for k in ("tr",) if k in data]:
+                try:
+                    lshots, _ = app_screenshots(lang)
+                    if idx < len(lshots):
+                        hi = re.sub(r"/\d+x\d+bb\.(jpg|png|webp)$", "/1290x2796bb.png", lshots[idx])
+                        download(hi, os.path.join(out, f"{i:02d}-app-{lang}.png"))
+                        print(f"slide {i}: app screenshot {idx} ({lang})")
+                except Exception as e:
+                    print(f"slide {i}: {lang} screenshot unavailable: {e}")
 
     json.dump(hist, open(HIST, "w"), indent=1)
 

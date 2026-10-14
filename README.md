@@ -20,9 +20,15 @@ Işılda / Glowtrack için TikTok slideshow fabrikası (ABD kitlesi, İngilizce)
     {"type": "list",  "title": "...", "items": ["...", "..."], "photo": "..."},
     {"type": "cta",   "text": "...", "sub": "..."},
     {"type": "app",   "title": "...", "screenshot": 0}
-  ]
+  ],
+  "tr": {                                 // Türkçe versiyon (Işılda TR hesabı için)
+    "title": "...", "caption": "Türkçe açıklama + #ciltbakımı ...",
+    "slides": [ {"text": "...", "sub": "..."}, {"title": "...", "body": "..."}, ... ]
+  }
 }
 ```
+
+`tr.slides` İngilizce slaytlarla aynı sırada ve aynı sayıda olur, sadece metin alanlarını (text, sub, title, body, items) içerir. Fotoğraflar iki dilde aynı. Uygulamanın adı İngilizcede **Glowtrack**, Türkçede **Işılda**; Türkçe uygulama slaytına App Store TR ekranı gelir. Türkçe metin çeviri gibi değil, Türk kullanıcının konuştuğu doğal dilde yazılır.
 
 ## İçerik kuralları
 

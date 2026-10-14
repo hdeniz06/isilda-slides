@@ -47,5 +47,37 @@
    "title": "I built *Glowtrack* to do this tracking for me.",
    "screenshot": 0
   }
- ]
+ ],
+ "tr": {
+  "title": "Rutinin işe yarıyor mu?",
+  "caption": "Rutininin işe yaradığını nereden bileceksin? #ciltbakımı #ciltbakımrutini #glowup #skincare",
+  "slides": [
+   {
+    "text": "Rutininin gerçekten *işe yarayıp yaramadığını* neden anlayamıyorsun"
+   },
+   {
+    "title": "Yüzünü *her gün* görüyorsun",
+    "body": "Kendini dünle kıyaslayınca yavaş değişimler görünmez olur."
+   },
+   {
+    "title": "Işık *yalan söyler*",
+    "body": "Banyo ışığı ile gün ışığı aynı cildi bambaşka gösterebilir."
+   },
+   {
+    "title": "Aynı anda *çok fazla* şey değiştiriyorsun",
+    "body": "Yeni temizleyici + yeni serum + yeni nemlendirici = hangisi işe yaradı belli değil."
+   },
+   {
+    "title": "İşe yarayan",
+    "items": [
+     "Aynı yer, aynı ışık, *haftalık fotoğraf*",
+     "Aynı anda *tek* ürün değiştir",
+     "Dünle bugünü değil, 1. haftayla 6. haftayı kıyasla"
+    ]
+   },
+   {
+    "title": "Bu takibi benim yerime yapsın diye *Işılda*'yı geliştirdim."
+   }
+  ]
+ }
 }

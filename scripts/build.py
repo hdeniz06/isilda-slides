@@ -33,7 +33,7 @@ a.day b{display:block;font-size:16px}a.day span{color:var(--muted);font-size:13p
 .new{color:var(--terra);font-weight:700;font-size:12px;letter-spacing:.06em}
 """
 
-DAY_JS = """
+_UNUSED_DAY_JS = """
 const files=%s;
 async function saveAll(btn){
   btn.textContent='Hazırlanıyor…';
@@ -48,25 +48,57 @@ function copyCap(btn){navigator.clipboard.writeText(document.getElementById('cap
 """
 
 
-def day_page(data, files):
-    names = [os.path.basename(f) for f in files]
+LANG_LABEL = {"en": "🇺🇸 English (ABD hesabı)", "tr": "🇹🇷 Türkçe (Işılda hesabı)"}
+
+
+def lang_block(lang, data, files, prefix):
+    names = [prefix + os.path.basename(f) for f in files]
     warn = ""
     if data.get("mentions_app"):
         warn = ('<div class="warn">Bu slideshow uygulamadan bahsediyor. Paylaşırken '
                 '<b>More options → Disclose post content → Your brand</b> anahtarını aç.</div>')
-    imgs = "\n".join(f'<img src="{n}" alt="slayt {i}">' for i, n in enumerate(names, 1))
+    imgs = "\n".join(f'<img src="{n}" alt="slayt {i}" loading="lazy">' for i, n in enumerate(names, 1))
+    return f"""<section class="lang" id="l-{lang}" data-files='{json.dumps(names)}'>
+<button class="btn" onclick="saveAll(this,'{lang}')">Hepsini Fotoğraflara kaydet</button>
+<div class="cap" id="cap-{lang}">{html.escape(data.get('caption', ''))}</div>
+<button class="btn alt" onclick="copyCap(this,'{lang}')">Açıklamayı kopyala</button>
+{warn}<div class="slides">{imgs}</div></section>"""
+
+
+def day_page(variants):
+    """variants: list of (lang, localized_data, files); first one is the default tab."""
+    base = variants[0][1]
+    tabs = "".join(f'<button class="tab" data-l="{l}" onclick="show(\'{l}\')">{LANG_LABEL.get(l, l)}</button>'
+                   for l, _, _ in variants) if len(variants) > 1 else ""
+    blocks = "".join(lang_block(l, d, f, "" if l == "en" else f"{l}/") for l, d, f in variants)
     return f"""<!doctype html><html lang="tr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
-<title>{html.escape(data['id'])}</title><style>{CSS}</style></head><body><main>
+<title>{html.escape(base['id'])}</title><style>{CSS}
+.tabs{{display:flex;gap:8px;margin:6px 0 4px}}.tab{{flex:1;border:0;border-radius:12px;padding:12px 6px;font-size:14px;
+background:var(--card);color:var(--muted)}}.tab.on{{background:var(--cream);color:var(--ink);font-weight:700}}
+</style></head><body><main>
 <a href="../../" style="color:var(--muted);text-decoration:none">← Tüm günler</a>
-<h1>{html.escape(data.get('title', data['id']))}</h1>
-<div class="sub">{len(names)} slayt · {html.escape(data.get('date', ''))}</div>
-<button class="btn" onclick="saveAll(this)">Hepsini Fotoğraflara kaydet</button>
-<div class="cap" id="cap">{html.escape(data.get('caption', ''))}</div>
-<button class="btn alt" onclick="copyCap(this)">Açıklamayı kopyala</button>
-{warn}
-<div class="slides">{imgs}</div>
-<script>{DAY_JS % json.dumps(names)}</script></main></body></html>"""
+<h1>{html.escape(base.get('title', base['id']))}</h1>
+<div class="sub">{len(variants[0][2])} slayt · {html.escape(base.get('date', ''))}</div>
+<div class="tabs">{tabs}</div>{blocks}
+<script>
+function show(l){{document.querySelectorAll('.lang').forEach(s=>s.style.display=s.id==='l-'+l?'block':'none');
+document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('on',b.dataset.l===l));
+try{{localStorage.setItem('lang',l)}}catch(e){{}}}}
+let pref='en';try{{pref=localStorage.getItem('lang')||'en'}}catch(e){{}}
+show(document.getElementById('l-'+pref)?pref:'en');
+async function saveAll(btn,l){{
+  const files=JSON.parse(document.getElementById('l-'+l).dataset.files);
+  btn.textContent='Hazırlanıyor…';
+  try{{
+    const blobs=await Promise.all(files.map(f=>fetch(f).then(r=>r.blob())));
+    const fs=blobs.map((b,i)=>new File([b],l+'-'+(i+1)+'.jpg',{{type:'image/jpeg'}}));
+    if(navigator.canShare&&navigator.canShare({{files:fs}})){{await navigator.share({{files:fs}});btn.textContent='Kaydedildi ✓';}}
+    else{{btn.textContent='Görsellere basılı tutup tek tek kaydet';}}
+  }}catch(e){{btn.textContent='Hepsini Fotoğraflara kaydet';}}
+}}
+function copyCap(btn,l){{navigator.clipboard.writeText(document.getElementById('cap-'+l).innerText);btn.textContent='Kopyalandı ✓';}}
+</script></main></body></html>"""
 
 
 def index_page(days):
@@ -98,13 +130,20 @@ def main():
     for path in sorted(glob.glob(os.path.join(ROOT, "content", "*.json"))):
         data = json.load(open(path))
         out = os.path.join(SITE, "days", data["id"])
-        files = sorted(glob.glob(os.path.join(out, "[0-9][0-9].jpg")))
-        if not files or force in (data["id"], "all"):
+        langs = ["en"] + [l for l in ("tr",) if l in data]
+        missing = any(not glob.glob(os.path.join(out, *([] if l == "en" else [l]), "[0-9][0-9].jpg")) for l in langs)
+        if missing or force in (data["id"], "all"):
             fetch_assets.main(path)
-            out, files = render.render(path)
-            print("rendered", data["id"])
+            for l in langs:
+                render.render(path, lang=l)
+            print("rendered", data["id"], "+".join(langs))
+        variants = []
+        for l in langs:
+            d = os.path.join(out, *([] if l == "en" else [l]))
+            variants.append((l, render.localized(data, l), sorted(glob.glob(os.path.join(d, "[0-9][0-9].jpg")))))
+        files = variants[0][2]
         with open(os.path.join(out, "index.html"), "w") as f:
-            f.write(day_page(data, files))
+            f.write(day_page(variants))
         days.append((data, files))
     days.sort(key=lambda d: (d[0].get("date", ""), d[0]["id"]))
     with open(os.path.join(SITE, "index.html"), "w") as f:

@@ -24,6 +24,9 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 BRAND = json.load(open(os.path.join(ROOT, "brand.json")))
 C = {k: tuple(int(v[i:i + 2], 16) for i in (1, 3, 5)) for k, v in BRAND["colors"].items()}
 _font_cache = {}
+UI = {"en": {"swipe": "swipe →", "store": "on the App Store"},
+      "tr": {"swipe": "kaydır →", "store": "App Store'da"}}
+CUR = {"lang": "en"}
 
 
 def font(kind, size, weight):
@@ -50,12 +53,14 @@ def font(kind, size, weight):
 
 
 def tokens(text):
+    """(word, highlighted) pairs; *word* or *several words* are highlighted, also inside words (*Işılda*'da)."""
     out, hl = [], False
     for w in text.split():
-        if w.startswith("*"):
+        starts = w.startswith("*")
+        if starts:
             hl = True
         out.append((w.replace("*", ""), hl))
-        if w.rstrip(".,!?:;").endswith("*"):
+        if "*" in w[1:]:
             hl = False
     return out
 
@@ -183,7 +188,7 @@ def render_slide(s, i, n, photo=None, shot=None):
     if t == "app":
         if shot:
             return render_app(s, shot).convert("RGB")
-        s, t = {"type": "cta", "text": s["title"], "sub": "on the App Store"}, "cta"  # fallback
+        s, t = {"type": "cta", "text": s["title"], "sub": UI[CUR["lang"]]["store"]}, "cta"  # fallback
 
     if photo:
         img = darken(cover(photo), 0.32 if t == "hook" else 0.42)
@@ -205,21 +210,43 @@ def render_slide(s, i, n, photo=None, shot=None):
     if t in ("point", "list"):
         counter(d, i, n, C["muted_dark"] if dark else C["muted"])
     if t == "hook" and s.get("swipe", True):
-        d.text((SAFE_L, SAFE_B - 10), "swipe →", font=font("sans", 36, 700), fill=C["accent_light"])
+        d.text((SAFE_L, SAFE_B - 10), UI[CUR["lang"]]["swipe"], font=font("sans", 36, 700), fill=C["accent_light"])
     return img.convert("RGB")
 
 
-def render(content_path, assets_dir=None, out_dir=None):
-    data = json.load(open(content_path))
+TEXT_KEYS = ("text", "sub", "title", "body", "items")
+
+
+def localized(data, lang):
+    """Return a copy of the slideshow with the texts of `lang` ("en" = base fields)."""
+    if lang == "en":
+        return data
+    tr = data[lang]
+    out = json.loads(json.dumps(data))
+    out["caption"] = tr.get("caption", data.get("caption", ""))
+    out["title"] = tr.get("title", data.get("title", ""))
+    for s, t in zip(out["slides"], tr["slides"]):
+        for k in TEXT_KEYS:
+            if k in t:
+                s[k] = t[k]
+    return out
+
+
+def render(content, assets_dir=None, out_dir=None, lang="en"):
+    data = json.load(open(content)) if isinstance(content, str) else content
+    data = localized(data, lang)
+    CUR["lang"] = lang if lang in UI else "en"
     sid = data["id"]
     assets = os.path.join(assets_dir or os.path.join(ROOT, "build", "assets"), sid)
-    out = out_dir or os.path.join(ROOT, "site", "days", sid)
+    out = out_dir or os.path.join(ROOT, "site", "days", sid, *( [] if lang == "en" else [lang]))
     os.makedirs(out, exist_ok=True)
     n = len(data["slides"])
     files = []
     for i, s in enumerate(data["slides"], 1):
         photo = os.path.join(assets, f"{i:02d}.jpg")
-        shot = os.path.join(assets, f"{i:02d}-app.png")
+        shot = os.path.join(assets, f"{i:02d}-app.png" if lang == "en" else f"{i:02d}-app-{lang}.png")
+        if lang != "en" and not os.path.exists(shot):
+            shot = os.path.join(assets, f"{i:02d}-app.png")
         img = render_slide(
             s, i, n,
             photo=photo if (data.get("style", "photo") == "photo" and os.path.exists(photo)) else None,
