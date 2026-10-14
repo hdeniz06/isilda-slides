@@ -1,0 +1,52 @@
+name: build-slides
+
+on:
+  push:
+    branches: [main]
+    paths: ["content/**", "render.py", "brand.json", "scripts/**"]
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Re-render this slideshow id (optional)"
+        required: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: build-slides
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow==12.0.0
+      - name: Fetch photos + render
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: |
+          if [ -n "${{ github.event.inputs.force }}" ]; then
+            python scripts/build.py --force "${{ github.event.inputs.force }}"
+          else
+            python scripts/build.py
+          fi
+      - name: Commit rendered slides
+        run: |
+          git config user.name "isilda-bot"
+          git config user.email "isilda-bot@users.noreply.github.com"
+          git add site history
+          git diff --cached --quiet || git commit -m "render slides [skip ci]"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4

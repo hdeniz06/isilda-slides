@@ -1,0 +1,49 @@
+{
+ "id": "05-skin-type-test",
+ "title": "Skin type test",
+ "date": "2026-10-14",
+ "style": "photo",
+ "mentions_app": true,
+ "caption": "most people get this wrong #skintype #oilyskin #dryskin #skincare",
+ "slides": [
+  {
+   "type": "hook",
+   "text": "Stop *guessing* your skin type",
+   "sub": "here's a 30 minute test",
+   "photo": "woman face no makeup"
+  },
+  {
+   "type": "list",
+   "title": "The *bare face* test",
+   "items": [
+    "Wash with a gentle cleanser",
+    "Pat dry. Apply *nothing.*",
+    "Wait 30 minutes",
+    "Check your T-zone and cheeks"
+   ],
+   "photo": "washing face"
+  },
+  {
+   "type": "list",
+   "title": "What it means",
+   "items": [
+    "Shiny everywhere → *oily*",
+    "Tight or flaky → *dry*",
+    "Shiny T-zone, normal cheeks → *combination*",
+    "Comfortable → *normal*"
+   ],
+   "photo": "oily skin close up"
+  },
+  {
+   "type": "point",
+   "title": "Why it matters",
+   "body": "Most routines fail because they're built for the *wrong* skin type.",
+   "photo": "skincare routine woman"
+  },
+  {
+   "type": "app",
+   "title": "Or scan your face in *Glowtrack* and skip the guessing.",
+   "screenshot": 0
+  }
+ ]
+}

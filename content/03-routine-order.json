@@ -1,0 +1,46 @@
+{
+ "id": "03-routine-order",
+ "title": "Skincare order",
+ "date": "2026-10-14",
+ "style": "photo",
+ "mentions_app": false,
+ "caption": "the order matters more than you think #skincareroutine #skincaretips #skincare101",
+ "slides": [
+  {
+   "type": "hook",
+   "text": "You might be applying your skincare in the *wrong order*",
+   "photo": "skincare products flat lay"
+  },
+  {
+   "type": "point",
+   "title": "The rule",
+   "body": "Thinnest to thickest. Water-based first, creams and oils after.",
+   "photo": "morning skincare routine"
+  },
+  {
+   "type": "list",
+   "title": "*Morning*",
+   "items": [
+    "Cleanser",
+    "Serum (vitamin C works well here)",
+    "Moisturizer",
+    "*SPF, always last*"
+   ],
+   "photo": "night skincare routine"
+  },
+  {
+   "type": "list",
+   "title": "*Night*",
+   "items": [
+    "Cleanser",
+    "Treatment (retinol or acid, not both)",
+    "Moisturizer"
+   ],
+   "photo": "skincare bottles aesthetic"
+  },
+  {
+   "type": "cta",
+   "text": "Screenshot this and *stop guessing.*"
+  }
+ ]
+}

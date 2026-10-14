@@ -1,0 +1,21 @@
+{
+  "app": "Glowtrack",
+  "handle": "glowtrack",
+  "colors": {
+    "ink": "#1F1714",
+    "ink_soft": "#4A3A33",
+    "cream": "#F6EEE4",
+    "terracotta": "#C8643F",
+    "muted": "#9C8A80",
+    "muted_dark": "#B5A69C",
+    "accent_light": "#F2A07B"
+  },
+  "fonts": {
+    "serif": "Fraunces[SOFT,WONK,opsz,wght].ttf",
+    "sans": "Inter[opsz,wght].ttf"
+  },
+  "app_store": {
+    "bundle_id": "deniz.glow.Glowtrack",
+    "country": "us"
+  }
+}

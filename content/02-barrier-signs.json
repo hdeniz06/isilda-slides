@@ -1,0 +1,47 @@
+{
+ "id": "02-barrier-signs",
+ "title": "Damaged skin barrier signs",
+ "date": "2026-10-14",
+ "style": "photo",
+ "mentions_app": false,
+ "caption": "your skin is trying to tell you something #skinbarrier #skincare #sensitiveskin",
+ "slides": [
+  {
+   "type": "hook",
+   "text": "Your skin barrier might be *damaged* if…",
+   "photo": "sensitive skin close up"
+  },
+  {
+   "type": "list",
+   "title": "The signs",
+   "items": [
+    "Products *sting* when you apply them",
+    "Skin feels *tight* right after washing",
+    "Sudden redness or flaky patches",
+    "Breakouts in places you never had them"
+   ],
+   "photo": "woman touching face"
+  },
+  {
+   "type": "point",
+   "title": "What usually causes it",
+   "body": "Too many actives at once, over-exfoliating, harsh cleansers, or hot water.",
+   "photo": "skincare serums bottles"
+  },
+  {
+   "type": "list",
+   "title": "How to *reset*",
+   "items": [
+    "Pause acids and retinol for a while",
+    "Gentle cleanser, moisturizer, SPF. That's it.",
+    "Add products back *one at a time*"
+   ],
+   "photo": "minimal skincare routine"
+  },
+  {
+   "type": "cta",
+   "text": "Simple beats *complicated.*",
+   "sub": "if it doesn't calm down, see a dermatologist"
+  }
+ ]
+}

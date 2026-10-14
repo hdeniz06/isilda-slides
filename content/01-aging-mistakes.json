@@ -1,0 +1,49 @@
+{
+ "id": "01-aging-mistakes",
+ "title": "4 habits aging you faster",
+ "date": "2026-10-14",
+ "style": "photo",
+ "mentions_app": false,
+ "caption": "which one were you doing? 👀 #skincare #skincaretips #skincareroutine #antiaging",
+ "slides": [
+  {
+   "type": "hook",
+   "text": "4 skincare habits that are *aging you* faster",
+   "sub": "most people do #3 every day",
+   "photo": "woman skincare mirror"
+  },
+  {
+   "type": "point",
+   "num": 1,
+   "title": "Skipping SPF when it's *cloudy*",
+   "body": "Most UV rays pass right through clouds. Sunscreen isn't a summer-only step.",
+   "photo": "cloudy sky sunlight"
+  },
+  {
+   "type": "point",
+   "num": 2,
+   "title": "Exfoliating *every* day",
+   "body": "Over-exfoliating strips your barrier. Most skin only needs it 1–3 times a week.",
+   "photo": "facial scrub texture"
+  },
+  {
+   "type": "point",
+   "num": 3,
+   "title": "Washing with *hot* water",
+   "body": "Hot water feels good but dries skin out. Lukewarm is enough.",
+   "photo": "washing face water"
+  },
+  {
+   "type": "point",
+   "num": 4,
+   "title": "Switching products *every week*",
+   "body": "Most products need weeks to show results. Give a routine time before judging it.",
+   "photo": "skincare products shelf"
+  },
+  {
+   "type": "cta",
+   "text": "Save this for your next *routine reset.*",
+   "sub": "follow for more skin tips"
+  }
+ ]
+}

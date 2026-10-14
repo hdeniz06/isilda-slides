@@ -1,0 +1,6 @@
+build/
+__pycache__/
+test_sheet.png
+sheet_*.png
+*.zip
+out/

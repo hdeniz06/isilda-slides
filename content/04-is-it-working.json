@@ -1,0 +1,51 @@
+{
+ "id": "04-is-it-working",
+ "title": "Is your routine working?",
+ "date": "2026-10-14",
+ "style": "photo",
+ "mentions_app": true,
+ "caption": "how do you actually know if your routine works? #skincare #skincareroutine #glowup",
+ "slides": [
+  {
+   "type": "hook",
+   "text": "Why you can't tell if your routine is *actually working*",
+   "photo": "woman looking in mirror"
+  },
+  {
+   "type": "point",
+   "num": 1,
+   "title": "You see your face *every day*",
+   "body": "Slow changes are invisible when you compare yourself to yesterday.",
+   "photo": "face close up natural"
+  },
+  {
+   "type": "point",
+   "num": 2,
+   "title": "Lighting *lies*",
+   "body": "Bathroom light vs daylight can make the same skin look completely different.",
+   "photo": "bathroom lighting mirror"
+  },
+  {
+   "type": "point",
+   "num": 3,
+   "title": "You change *too much* at once",
+   "body": "New cleanser + new serum + new moisturizer = no idea what helped.",
+   "photo": "many skincare products"
+  },
+  {
+   "type": "list",
+   "title": "What works",
+   "items": [
+    "Same spot, same light, *weekly photo*",
+    "Change *one* product at a time",
+    "Compare week 1 vs week 6, not today vs yesterday"
+   ],
+   "photo": "skincare journal"
+  },
+  {
+   "type": "app",
+   "title": "I built *Glowtrack* to do this tracking for me.",
+   "screenshot": 0
+  }
+ ]
+}
