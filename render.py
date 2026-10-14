@@ -186,7 +186,7 @@ def render_slide(s, i, n, photo=None, shot=None):
         s, t = {"type": "cta", "text": s["title"], "sub": "on the App Store"}, "cta"  # fallback
 
     if photo:
-        img = darken(cover(photo), 0.22 if t == "hook" else 0.30)
+        img = darken(cover(photo), 0.32 if t == "hook" else 0.42)
         dark = True
     elif t in ("hook",):
         img = Image.new("RGBA", (W, H), C["ink"] + (255,))
