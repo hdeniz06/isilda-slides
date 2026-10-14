@@ -42,7 +42,7 @@
   },
   {
    "type": "app",
-   "title": "Or scan your face in *Glowtrack* and skip the guessing.",
+   "title": "Or scan your face in *Glowtrack* and see your skin score.",
    "screenshot": 0
   }
  ],
@@ -77,7 +77,7 @@
     "body": "Çoğu rutin, *yanlış* cilt tipine göre kurulduğu için işe yaramaz."
    },
    {
-    "title": "Ya da *Işılda*'da yüzünü tarat, tahmin etmeyi bırak."
+    "title": "Ya da yüzünü *Işılda*'da tarat, cilt skorunu gör."
    }
   ]
  }
