@@ -13,7 +13,8 @@ import json, os, re, sys, urllib.request, urllib.parse
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BRAND = json.load(open(os.path.join(ROOT, "brand.json")))
 HIST = os.path.join(ROOT, "history", "photos_used.json")
-UA = {"User-Agent": "isilda-slides/1.0"}
+UA = {"User-Agent": "isilda-slides/1.0 (+https://github.com/hdeniz06/isilda-slides)"}
+_ov_dead = False
 
 
 def get_json(url, headers=None):
@@ -29,6 +30,9 @@ def download(url, path):
 
 
 def openverse_pick(query, used):
+    global _ov_dead
+    if _ov_dead:
+        return None
     """Keyless fallback: public-domain / CC0 photos via the Openverse API (no attribution needed)."""
     q = urllib.parse.urlencode({"q": query, "license": "cc0,pdm", "aspect_ratio": "tall",
                                 "size": "large", "category": "photograph", "page_size": 40})

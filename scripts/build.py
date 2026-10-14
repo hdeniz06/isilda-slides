@@ -1,6 +1,6 @@
 """Render every slideshow in content/ that hasn't been rendered yet, then rebuild the site.
 
-Usage: python3 scripts/build.py [--force <id>]
+Usage: python3 scripts/build.py [--force <id>|all]
 Output: site/index.html (newest first) and site/days/<id>/{01.jpg..,index.html}
 """
 import glob, html, json, os, sys
@@ -91,7 +91,7 @@ def main():
         data = json.load(open(path))
         out = os.path.join(SITE, "days", data["id"])
         files = sorted(glob.glob(os.path.join(out, "[0-9][0-9].jpg")))
-        if not files or force == data["id"]:
+        if not files or force in (data["id"], "all"):
             fetch_assets.main(path)
             out, files = render.render(path)
             print("rendered", data["id"])
