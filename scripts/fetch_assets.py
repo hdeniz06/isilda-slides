@@ -54,17 +54,33 @@ def openverse_pick(query, used):
     return None
 
 
+BEAUTY = {"skin", "skincare", "face", "facial", "beauty", "cosmetic", "cosmetics", "cream", "serum", "woman",
+          "girl", "spa", "makeup", "lotion", "care", "wellness", "bathroom", "mirror", "moisturizer", "portrait",
+          "selfcare", "bottle", "routine", "water", "sunscreen", "towel", "mask", "model"}
+
+
 def pixabay_pick(query, used, key):
+    """Pick the most on-topic unused photo: tags must overlap the query or beauty vocabulary."""
     q = urllib.parse.urlencode({"key": key, "q": query, "image_type": "photo", "orientation": "vertical",
-                                "per_page": 50, "safesearch": "true", "min_height": 1600})
+                                "per_page": 60, "safesearch": "true", "min_height": 1600, "order": "popular"})
     data = get_json(f"https://pixabay.com/api/?{q}")
-    for p in data.get("hits", []):
+    words = {w for w in query.lower().split() if len(w) > 2}
+    best, best_score = None, 0
+    for rank, p in enumerate(data.get("hits", [])):
         pid = "px-" + str(p["id"])
         if pid in used:
             continue
-        return {"id": pid, "src": p.get("largeImageURL"), "url": p.get("pageURL", ""),
-                "photographer": p.get("user", ""), "provider": "pixabay"}
-    return None
+        tags = {t for tag in p.get("tags", "").lower().split(",") for t in tag.strip().split()}
+        score = 3 * len(words & tags) + len(BEAUTY & tags)
+        if not (BEAUTY & tags):
+            continue
+        score += max(0, 10 - rank) * 0.2  # Pixabay's own popularity order as a tiebreak
+        if score > best_score:
+            best, best_score = p, score
+    if not best:
+        return None
+    return {"id": "px-" + str(best["id"]), "src": best.get("largeImageURL"), "url": best.get("pageURL", ""),
+            "photographer": best.get("user", ""), "provider": "pixabay"}
 
 
 def pexels_pick(query, used, key):
