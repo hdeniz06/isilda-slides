@@ -32,6 +32,7 @@ Işılda / Glowtrack için TikTok slideshow fabrikası (ABD kitlesi, İngilizce)
 - Uygulamadan bahseden slideshow'lar haftada en fazla ~2/7. Geliştirici ağzından dürüst konuşur ("I built Glowtrack…"), sahte kullanıcı yorumu yok.
 - Uygulama slaytında yüz fotoğrafı yok, gerçek App Store ekranı kullanılır (`type: app`).
 - Kanca ve konu tekrarı yok: `content/` altındaki önceki slideshow'ları kontrol et.
+- Kanca formülleri `hooks.md`de, gerçek sonuçlar `performance.md`de, günlük trend notları `research/`te.
 
 ## Yerelde render
 
