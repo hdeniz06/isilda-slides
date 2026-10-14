@@ -45,6 +45,12 @@ jobs:
           git add site history build_log.txt
           git diff --cached --quiet || git commit -m "render slides [skip ci]"
           git pull --rebase -X theirs origin main && git push
+      - name: Publish site to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          force_orphan: true
       - uses: actions/configure-pages@v5
         continue-on-error: true
         id: pages
