@@ -64,4 +64,4 @@ jobs:
       - if: steps.pages.outcome == 'success'
         uses: actions/deploy-pages@v4
         with:
-          timeout: 1200000
+          timeout: 600000
