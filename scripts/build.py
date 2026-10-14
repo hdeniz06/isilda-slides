@@ -79,7 +79,7 @@ background:var(--card);color:var(--muted)}}.tab.on{{background:var(--cream);colo
 </style></head><body><main>
 <a href="../../" style="color:var(--muted);text-decoration:none">← Tüm günler</a>
 <h1>{html.escape(base.get('title', base['id']))}</h1>
-<div class="sub">{len(variants[0][2])} slayt · {html.escape(base.get('date', ''))}</div>
+<div class="sub">{html.escape(base.get('date', ''))} · {base.get('slot', 1)}. paylaşım · {len(variants[0][2])} slayt</div>
 <div class="tabs">{tabs}</div>{blocks}
 <script>
 function show(l){{document.querySelectorAll('.lang').forEach(s=>s.style.display=s.id==='l-'+l?'block':'none');
@@ -108,7 +108,7 @@ def index_page(days):
         tag = '<div class="new"></div>'
         rows.append(f'<a class="day" data-date="{data.get("date", "")}" href="days/{data["id"]}/"><img src="{thumb}" alt="">'
                     f'<div>{tag}<b>{html.escape(data.get("title", data["id"]))}</b>'
-                    f'<span>{html.escape(data.get("date", ""))} · {len(files)} slayt</span></div></a>')
+                    f'<span>{html.escape(data.get("date", ""))} · {data.get("slot", 1)}. paylaşım · {len(files)} slayt</span></div></a>')
     return f"""<!doctype html><html lang="tr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
 <title>Işılda slaytları</title><style>{CSS}</style></head><body><main>
@@ -145,7 +145,7 @@ def main():
         with open(os.path.join(out, "index.html"), "w") as f:
             f.write(day_page(variants))
         days.append((data, files))
-    days.sort(key=lambda d: (d[0].get("date", ""), d[0]["id"]))
+    days.sort(key=lambda d: (d[0].get("date", ""), d[0].get("slot", 1), d[0]["id"]))
     with open(os.path.join(SITE, "index.html"), "w") as f:
         f.write(index_page(days))
     open(os.path.join(SITE, ".nojekyll"), "w").close()

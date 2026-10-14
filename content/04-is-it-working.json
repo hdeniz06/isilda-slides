@@ -4,7 +4,7 @@
  "date": "2026-10-17",
  "style": "photo",
  "mentions_app": true,
- "caption": "how do you actually know if your routine works? #skincare #skincareroutine #glowup",
+ "caption": "You see your face every day, so slow progress is almost impossible to notice. The fix is boring but it works: same light, same angle, one photo a week, one change at a time. How long do you give a new product? #skincare #skincareroutine #glowup #skincaretips",
  "slides": [
   {
    "type": "hook",
@@ -50,7 +50,7 @@
  ],
  "tr": {
   "title": "Rutinin işe yarıyor mu?",
-  "caption": "Rutininin işe yaradığını nereden bileceksin? #ciltbakımı #ciltbakımrutini #glowup #skincare",
+  "caption": "Yüzünü her gün gördüğün için yavaş değişimi fark etmek neredeyse imkansız. Çözüm sıkıcı ama işe yarıyor: aynı ışık, aynı açı, haftada bir fotoğraf ve aynı anda tek değişiklik. Yeni bir ürüne kaç hafta şans veriyorsun? #ciltbakımı #ciltbakımrutini #glowup #ciltbakimi",
   "slides": [
    {
     "text": "Rutininin gerçekten *işe yarayıp yaramadığını* neden anlayamıyorsun"
@@ -79,5 +79,6 @@
     "title": "Aynı ışık, aynı açı, her hafta. Karşılaştırmayı *Işılda* senin yerine yapar."
    }
   ]
- }
+ },
+ "slot": 1
 }

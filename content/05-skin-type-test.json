@@ -4,7 +4,7 @@
  "date": "2026-10-18",
  "style": "photo",
  "mentions_app": true,
- "caption": "most people get this wrong #skintype #oilyskin #dryskin #skincare",
+ "caption": "Most routines fail because they're built for the wrong skin type. This 30 minute bare face test is the easiest way to find yours: wash, wait, check your T-zone and cheeks. What did you get? Comment below 👇 #skintype #oilyskin #dryskin #skincare",
  "slides": [
   {
    "type": "hook",
@@ -48,7 +48,7 @@
  ],
  "tr": {
   "title": "Cilt tipi testi",
-  "caption": "Çoğu kişi bunu yanlış biliyor #ciltbakımı #yağlıcilt #kurucilt #ciltbakimi",
+  "caption": "Çoğu rutin yanlış cilt tipine göre kurulduğu için işe yaramıyor. Cilt tipini bulmanın en kolay yolu bu 30 dakikalık çıplak yüz testi: yıka, bekle, T bölgene ve yanaklarına bak. Sende ne çıktı? Yoruma yaz 👇 #ciltbakımı #yağlıcilt #kurucilt #ciltbakimi",
   "slides": [
    {
     "text": "Cilt tipini *tahmin etmeyi* bırak",
@@ -80,5 +80,6 @@
     "title": "Ya da yüzünü *Işılda*'da tarat, cilt skorunu gör."
    }
   ]
- }
+ },
+ "slot": 1
 }

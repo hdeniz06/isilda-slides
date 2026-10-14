@@ -11,6 +11,7 @@ Işılda / Glowtrack için TikTok slideshow fabrikası (ABD kitlesi, İngilizce)
   "id": "2026-10-15-spf-myths",          // benzersiz, tarihle başlar
   "title": "SPF myths",                   // sayfada görünen kısa ad
   "date": "2026-10-15",
+  "slot": 1,                              // günün kaçıncı paylaşımı (1 veya 2)
   "style": "photo",                       // "photo" (Pexels arka plan) | "clean" (düz renk)
   "mentions_app": false,                  // true ise sayfada "Your brand" beyanı uyarısı çıkar
   "caption": "TikTok açıklaması + hashtagler",
@@ -32,6 +33,8 @@ Işılda / Glowtrack için TikTok slideshow fabrikası (ABD kitlesi, İngilizce)
 
 ## İçerik kuralları
 
+- Günde 2 paylaşım: her tarih için slot 1 ve slot 2 olmak üzere iki slideshow. Aynı günün iki slideshow'u farklı konuda ve farklı kanca formülüyle olur.
+- Açıklama (caption) en az 200 karakter: 2–3 cümle bağlam + yoruma davet eden bir soru + 3–5 hashtag.
 - Dil İngilizce, kitle ABD. Slayt başına az kelime: başlık ≤ 8 kelime, gövde ≤ 25 kelime.
 - 5–7 slayt. İlk slayt kanca: merak veya hata korkusu ("You might be doing X wrong").
 - Sağlık iddiası yok (tedavi eder / iyileştirir gibi). Genel bakım bilgisi, doğrulanabilir tavsiyeler.

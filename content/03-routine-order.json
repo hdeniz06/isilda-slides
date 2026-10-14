@@ -4,7 +4,7 @@
  "date": "2026-10-16",
  "style": "photo",
  "mentions_app": true,
- "caption": "the order matters more than you think #skincareroutine #skincaretips #skincare101",
+ "caption": "The same products can work way better just by changing the order you apply them. Thinnest to thickest, SPF always last in the morning. Screenshot this so you never have to guess again. What's in your routine right now? #skincareroutine #skincare101 #skincaretips #skincare",
  "slides": [
   {
    "type": "hook",
@@ -46,7 +46,7 @@
  ],
  "tr": {
   "title": "Cilt bakım sırası",
-  "caption": "Sıralama sandığından önemli #ciltbakımrutini #ciltbakımı #skincare #ciltbakimi",
+  "caption": "Aynı ürünler sadece sürme sırasını değiştirince çok daha iyi çalışabilir. İnceden kalına, sabahları güneş kremi her zaman en son. Bir daha düşünmemek için ekran görüntüsü al. Senin rutininde şu an neler var? #ciltbakımrutini #ciltbakımı #ciltbakimi #skincare",
   "slides": [
    {
     "text": "Cilt bakım ürünlerini *yanlış sırayla* sürüyor olabilirsin"
@@ -76,5 +76,6 @@
     "title": "Cildine göre, *doğru sırayla* kurulmuş rutinin *Işılda*'da."
    }
   ]
- }
+ },
+ "slot": 1
 }

@@ -4,7 +4,7 @@
  "date": "2026-10-14",
  "style": "photo",
  "mentions_app": true,
- "caption": "which one were you doing? 👀 #skincare #skincaretips #skincareroutine #antiaging",
+ "caption": "Most people do at least one of these every single day without realizing it's speeding up skin aging. Number 3 surprised me the most 👀 Which one were you doing? Tell me in the comments and save this for later. #skincare #skincaretips #antiaging #skincareroutine",
  "slides": [
   {
    "type": "hook",
@@ -48,7 +48,7 @@
  ],
  "tr": {
   "title": "Cildini yaşlandıran 4 alışkanlık",
-  "caption": "Sen hangisini yapıyordun? 👀 #ciltbakımı #ciltbakimi #skincare #ciltbakımrutini",
+  "caption": "Bu 4 alışkanlığı çoğumuz her gün yapıyoruz ve cildi sandığımızdan hızlı yıpratıyor. Özellikle 3. maddeye dikkat 👀 Sen hangisini yapıyordun? Yorumlara yaz, kaydetmeyi unutma. #ciltbakımı #ciltbakimi #skincare #ciltbakımrutini",
   "slides": [
    {
     "text": "Cildini *daha hızlı* yaşlandıran 4 alışkanlık",
@@ -74,5 +74,6 @@
     "title": "Cildinin gerçekten *iyileşip iyileşmediğini* görmek mi istiyorsun? *Işılda*'yı bunun için geliştirdim."
    }
   ]
- }
+ },
+ "slot": 1
 }
