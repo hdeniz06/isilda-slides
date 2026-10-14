@@ -96,7 +96,8 @@ def fit(draw, text, kind, weight, width, max_h, start, minimum, lh):
     size = start
     while size > minimum:
         f = font(kind, size, weight)
-        if len(wrap(draw, tokens(text), f, width)) * size * lh <= max_h:
+        longest = max((draw.textlength(w, font=f) for w, _ in tokens(text)), default=0)
+        if longest <= width and len(wrap(draw, tokens(text), f, width)) * size * lh <= max_h:
             return f
         size -= 4
     return font(kind, minimum, weight)
