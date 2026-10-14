@@ -3,7 +3,7 @@
  "title": "4 habits aging you faster",
  "date": "2026-10-14",
  "style": "photo",
- "mentions_app": false,
+ "mentions_app": true,
  "caption": "which one were you doing? 👀 #skincare #skincaretips #skincareroutine #antiaging",
  "slides": [
   {
@@ -41,9 +41,9 @@
    "photo": "skincare products shelf"
   },
   {
-   "type": "cta",
-   "text": "Save this for your next *routine reset.*",
-   "sub": "follow for more skin tips"
+   "type": "app",
+   "title": "Want to see if your skin is *actually* improving? I built *Glowtrack* for that.",
+   "screenshot": 0
   }
  ],
  "tr": {
@@ -71,8 +71,7 @@
     "body": "Çoğu ürünün etkisi haftalar içinde görülür. Rutini yargılamadan önce zaman tanı."
    },
    {
-    "text": "Bir sonraki *rutin yenilemen* için kaydet.",
-    "sub": "daha fazla cilt ipucu için takip et"
+    "title": "Cildinin gerçekten *iyileşip iyileşmediğini* görmek mi istiyorsun? *Işılda*'yı bunun için geliştirdim."
    }
   ]
  }

@@ -3,7 +3,7 @@
  "title": "Skincare order",
  "date": "2026-10-16",
  "style": "photo",
- "mentions_app": false,
+ "mentions_app": true,
  "caption": "the order matters more than you think #skincareroutine #skincaretips #skincare101",
  "slides": [
   {
@@ -39,8 +39,9 @@
    "photo": "skincare bottles aesthetic"
   },
   {
-   "type": "cta",
-   "text": "Screenshot this and *stop guessing.*"
+   "type": "app",
+   "title": "Get your routine in the *right order*, built for your skin, in *Glowtrack*.",
+   "screenshot": 0
   }
  ],
  "tr": {
@@ -72,7 +73,7 @@
     ]
    },
    {
-    "text": "Ekran görüntüsü al, *tahmin etmeyi bırak.*"
+    "title": "Cildine göre, *doğru sırayla* kurulmuş rutinin *Işılda*'da."
    }
   ]
  }

@@ -35,7 +35,7 @@ Işılda / Glowtrack için TikTok slideshow fabrikası (ABD kitlesi, İngilizce)
 - Dil İngilizce, kitle ABD. Slayt başına az kelime: başlık ≤ 8 kelime, gövde ≤ 25 kelime.
 - 5–7 slayt. İlk slayt kanca: merak veya hata korkusu ("You might be doing X wrong").
 - Sağlık iddiası yok (tedavi eder / iyileştirir gibi). Genel bakım bilgisi, doğrulanabilir tavsiyeler.
-- Uygulamadan bahseden slideshow'lar haftada en fazla ~2/7. Geliştirici ağzından dürüst konuşur ("I built Glowtrack…"), sahte kullanıcı yorumu yok.
+- Her slideshow uygulama slaytıyla biter (`type: app`, `mentions_app: true`). Son slaytın başlığı slideshow'un konusuna bağlanır ve uygulamayı geliştirici ağzından dürüstçe anlatır ("I built Glowtrack…" / "…Işılda'yı geliştirdim", "Glowtrack scans your skin…"); sahte kullanıcı yorumu yok. Slaytın altına otomatik olarak App Store arama satırı eklenir.
 - Uygulama slaytında yüz fotoğrafı yok, gerçek App Store ekranı kullanılır (`type: app`).
 - Kanca ve konu tekrarı yok: `content/` altındaki önceki slideshow'ları kontrol et.
 - Kanca formülleri `hooks.md`de, gerçek sonuçlar `performance.md`de, günlük trend notları `research/`te.

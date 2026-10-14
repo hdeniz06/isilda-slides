@@ -3,7 +3,7 @@
  "title": "Damaged skin barrier signs",
  "date": "2026-10-15",
  "style": "photo",
- "mentions_app": false,
+ "mentions_app": true,
  "caption": "your skin is trying to tell you something #skinbarrier #skincare #sensitiveskin",
  "slides": [
   {
@@ -39,9 +39,9 @@
    "photo": "minimal skincare routine"
   },
   {
-   "type": "cta",
-   "text": "Simple beats *complicated.*",
-   "sub": "if it doesn't calm down, see a dermatologist"
+   "type": "app",
+   "title": "*Glowtrack* scans your skin and tells you what it needs right now.",
+   "screenshot": 0
   }
  ],
  "tr": {
@@ -73,8 +73,7 @@
     ]
    },
    {
-    "text": "Basit olan *kazanır.*",
-    "sub": "geçmezse bir dermatoloğa görün"
+    "title": "*Işılda* cildini tarar, şu an neye ihtiyacı olduğunu söyler."
    }
   ]
  }

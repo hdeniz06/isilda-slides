@@ -24,8 +24,8 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 BRAND = json.load(open(os.path.join(ROOT, "brand.json")))
 C = {k: tuple(int(v[i:i + 2], 16) for i in (1, 3, 5)) for k, v in BRAND["colors"].items()}
 _font_cache = {}
-UI = {"en": {"swipe": "swipe →", "store": "on the App Store"},
-      "tr": {"swipe": "kaydır →", "store": "App Store'da"}}
+UI = {"en": {"swipe": "swipe →", "store": "on the App Store", "search": "Search \u201cGlowtrack\u201d on the App Store"},
+      "tr": {"swipe": "kaydır →", "store": "App Store\u2019da", "search": "App Store\u2019da \u201cIşılda\u201d diye arat"}}
 CUR = {"lang": "en"}
 
 
@@ -170,7 +170,7 @@ def render_app(s, shot_path):
     f = fit(d, s["title"], "serif", 600, width, 260, 88, 56, 1.1)
     y = draw_rich(d, SAFE_L, y, s["title"], f, C["ink"], C["terracotta"], width, 1.1)
     shot = Image.open(shot_path).convert("RGB")
-    max_h = SAFE_B + 120 - (y + 60)
+    max_h = SAFE_B - 130 - (y + 60)
     scale = min(max_h / shot.height, 700 / shot.width)
     shot = shot.resize((int(shot.width * scale), int(shot.height * scale)), Image.LANCZOS)
     mask = Image.new("L", shot.size, 0)
@@ -181,6 +181,14 @@ def render_app(s, shot_path):
     ImageDraw.Draw(shadow).rounded_rectangle((x, top + 20, x + shot.width, top + 20 + shot.height), radius=int(shot.width * 0.11), fill=(0, 0, 0, 70))
     img = Image.alpha_composite(img, shadow.filter(ImageFilter.GaussianBlur(30)))
     img.paste(shot, (x, top), mask)
+    d = ImageDraw.Draw(img)
+    line = UI[CUR["lang"]]["search"]
+    f2 = font("sans", 40, 600)
+    tw = d.textlength(line, font=f2)
+    ly = top + shot.height + 50
+    pad = 28
+    d.rounded_rectangle(((W - tw) / 2 - pad, ly - 18, (W + tw) / 2 + pad, ly + 62), radius=40, fill=C["ink"])
+    d.text(((W - tw) / 2, ly), line, font=f2, fill=C["cream"])
     return img
 
 
