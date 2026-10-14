@@ -1,0 +1,91 @@
+{
+  "id": "2026-10-17-2-oily-skin-rules",
+  "title": "Oily skin rules",
+  "date": "2026-10-17",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F8",
+  "mentions_app": true,
+  "caption": "Oily skin makes you want to wash more and moisturize less, but that usually backfires. These five rules keep things simple without stripping your skin. What's the one oily skin tip that actually worked for you? #oilyskin #skincare #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "If you have *oily skin*, save this",
+      "sub": "5 rules that actually help",
+      "photo": "woman face close up"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Don't *over-wash*",
+      "body": "Cleansing more than twice a day can leave skin tight and irritated. Morning and night is enough.",
+      "photo": "washing face sink"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Still use *moisturizer*",
+      "body": "Oily skin can still be dehydrated. A lightweight gel or lotion adds moisture without feeling heavy.",
+      "photo": "gel cream texture"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Look for *non-comedogenic*",
+      "body": "It means formulated not to clog pores. Check for it on moisturizer and sunscreen labels.",
+      "photo": "skincare tube label"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Blot, *don't* rewash",
+      "body": "Midday shine? Blotting papers lift oil without stripping your skin or wiping off your SPF.",
+      "photo": "woman powder makeup"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "*Niacinamide* is worth a look",
+      "body": "A popular, usually well-tolerated ingredient often used in oily skin routines and for the look of pores.",
+      "photo": "serum dropper bottle"
+    },
+    {
+      "type": "app",
+      "title": "Oily skin needs its own routine. *Glowtrack* scans your skin and builds *yours*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Yağlı cilt kuralları",
+    "caption": "Yağlı cilt insana daha çok yıkamayı ve daha az nemlendirmeyi düşündürüyor ama bu çoğu zaman ters tepiyor. Bu beş kural cildini kurutmadan işleri basit tutuyor. Senin için gerçekten işe yarayan yağlı cilt taktiği hangisi oldu? #ciltbakımı #ciltbakimi #yağlıcilt #oilyskin #skincare",
+    "slides": [
+      {
+        "text": "*Yağlı ciltsen* bunu kaydet",
+        "sub": "gerçekten işe yarayan 5 kural"
+      },
+      {
+        "title": "*Fazla* yıkama",
+        "body": "Günde iki kereden fazla yıkamak cildi gerip tahriş edebilir. Sabah ve akşam yeterli."
+      },
+      {
+        "title": "*Nemlendiriciyi* bırakma",
+        "body": "Yağlı cilt de susuz kalabilir. Hafif bir jel ya da losyon, ağırlık yapmadan nem verir."
+      },
+      {
+        "title": "*Komedojenik olmayan* ürün seç",
+        "body": "Gözenekleri tıkamayacak şekilde formüle edildiği anlamına gelir. Krem ve güneş kremi etiketlerinde ara."
+      },
+      {
+        "title": "Yıkama, *kağıtla al*",
+        "body": "Öğlen parlama mı? Yağ alıcı kağıt, cildini kurutmadan ve güneş kremini silmeden yağı alır."
+      },
+      {
+        "title": "*Niasinamid* denemeye değer",
+        "body": "Yağlı cilt rutinlerinde sık kullanılan, genelde iyi tolere edilen popüler bir içerik; gözenek görünümü için de tercih ediliyor."
+      },
+      {
+        "title": "Yağlı cilt kendi rutinini ister. *Işılda* cildini tarar, *sana özel* rutini çıkarır."
+      }
+    ]
+  }
+}

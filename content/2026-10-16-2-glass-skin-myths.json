@@ -1,0 +1,89 @@
+{
+  "id": "2026-10-16-2-glass-skin-myths",
+  "title": "Glass skin myths",
+  "date": "2026-10-16",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F5",
+  "mentions_app": true,
+  "caption": "Glass skin videos are everywhere right now, and a recent study looking at viral Korean skincare TikToks found most of them made misleading claims. Real skin has pores and texture, and good lighting does a lot of the work. Did a glass skin video ever make you feel bad about your skin? #glassskin #skincare #skincaremyths #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "*Glass skin* videos aren't showing you everything",
+      "sub": "what's real vs what's lighting",
+      "photo": "glowing skin close up"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Lighting does *a lot*",
+      "body": "Ring lights, angles and filters can make any skin look poreless. Your bathroom mirror isn't lying to you.",
+      "photo": "ring light selfie"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "*Pores* and texture are normal",
+      "body": "Everyone has them. Healthy skin doesn't look flat and shiny like glass in real life.",
+      "photo": "natural skin texture"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "More steps ≠ *better* skin",
+      "body": "Layering ten products raises the chance of irritation. A few products you use consistently beat a long routine you quit.",
+      "photo": "skincare bottles table"
+    },
+    {
+      "type": "list",
+      "title": "Where real *glow* comes from",
+      "items": [
+        "*Hydration*: a hydrating serum + moisturizer",
+        "Gentle cleansing, not stripping",
+        "Daily *SPF*",
+        "The same routine for weeks, not days"
+      ],
+      "photo": "woman applying serum"
+    },
+    {
+      "type": "app",
+      "title": "I built *Glowtrack* to score your *real* skin, no filters, and track it over time.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Cam cilt mitleri",
+    "caption": "Cam cilt videoları her yerde ve viral Kore cilt bakımı TikTok'larını inceleyen yeni bir çalışma, bunların çoğunun yanıltıcı iddialar içerdiğini buldu. Gerçek ciltte gözenek de doku da olur, işin büyük kısmını iyi ışık yapıyor. Hiç bir cam cilt videosu yüzünden kendi cildinden soğuduğun oldu mu? #ciltbakımı #ciltbakimi #camcilt #glassskin #skincare",
+    "slides": [
+      {
+        "text": "*Cam cilt* videoları sana her şeyi göstermiyor",
+        "sub": "gerçek olan ne, ışık olan ne?"
+      },
+      {
+        "title": "Işık *çok şey* yapıyor",
+        "body": "Halka ışık, açı ve filtre her cildi gözeneksiz gösterebilir. Banyo aynan sana yalan söylemiyor."
+      },
+      {
+        "title": "*Gözenek* ve doku normal",
+        "body": "Herkeste var. Sağlıklı cilt gerçek hayatta cam gibi pürüzsüz ve parlak görünmez."
+      },
+      {
+        "title": "Çok adım ≠ *iyi* cilt",
+        "body": "On ürünü üst üste sürmek tahriş ihtimalini artırır. Düzenli kullandığın birkaç ürün, yarıda bıraktığın uzun rutinden iyidir."
+      },
+      {
+        "title": "Gerçek *ışıltı* nereden gelir",
+        "items": [
+          "*Nem*: nemlendirici serum + krem",
+          "Cildi kurutmayan nazik temizlik",
+          "Her gün *güneş kremi*",
+          "Aynı rutin: günlerce değil, haftalarca"
+        ]
+      },
+      {
+        "title": "*Işılda*'yı, filtresiz *gerçek* cildini puanlasın ve zamanla takip etsin diye geliştirdim."
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "2026-10-15-2-fall-routine-switch",
+  "title": "Fall routine switch",
+  "date": "2026-10-15",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F12",
+  "mentions_app": true,
+  "caption": "The air gets drier, the heating comes on, and the routine that worked all summer suddenly feels off. A few small swaps usually matter more than buying a whole new routine. Which step are you changing first this fall? #skincare #fallskincare #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Your skin needs a *different* routine in fall",
+      "sub": "the weather changed. did your routine?",
+      "photo": "autumn leaves woman"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Swap to a *gentler* cleanser",
+      "body": "Foaming cleansers that felt great in summer can leave skin tight once the air gets drier.",
+      "photo": "gentle face cleanser"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Go *richer* at night",
+      "body": "A thicker cream in the evening helps hold in moisture while the heating is on.",
+      "photo": "face cream jar"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Moisturize on *damp* skin",
+      "body": "Apply within a minute of washing so you lock in the water already on your skin.",
+      "photo": "woman applying moisturizer"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Keep the *SPF*",
+      "body": "UVA rays are around all year. Cooler weather isn't a reason to skip sunscreen.",
+      "photo": "sunscreen bottle"
+    },
+    {
+      "type": "app",
+      "title": "New season, new skin. Scan it in *Glowtrack* and get a routine for *this* season.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Sonbahar rutini",
+    "caption": "Hava kuruyor, kaloriferler yanmaya başlıyor ve bütün yaz işe yarayan rutin birden yetmemeye başlıyor. Çoğu zaman sıfırdan rutin kurmaya gerek yok, birkaç küçük değişiklik yeterli. Bu sonbahar ilk hangi adımı değiştiriyorsun? #ciltbakımı #ciltbakimi #sonbahar #skincare #skintok",
+    "slides": [
+      {
+        "text": "Sonbaharda cildin *başka* bir rutin ister",
+        "sub": "hava değişti, rutinin değişti mi?"
+      },
+      {
+        "title": "Daha *nazik* bir temizleyici",
+        "body": "Yazın ferah gelen köpüklü temizleyiciler, hava kuruyunca cildi gergin bırakabilir."
+      },
+      {
+        "title": "Geceleri *daha yoğun* krem",
+        "body": "Kaloriferler yanınca akşamları daha zengin bir krem, nemi cildinde tutmana yardımcı olur."
+      },
+      {
+        "title": "Kremini *nemli* cilde sür",
+        "body": "Yüzünü yıkadıktan sonraki bir dakika içinde sür, cildindeki suyu içeride tut."
+      },
+      {
+        "title": "*Güneş kremi* kalıyor",
+        "body": "UVA ışınları yıl boyu var. Havanın serinlemesi güneş kremini bırakmak için sebep değil."
+      },
+      {
+        "title": "Mevsim değişti, cildin de. *Işılda* cildini tarar, *bu mevsime* uygun rutini çıkarır."
+      }
+    ]
+  }
+}
