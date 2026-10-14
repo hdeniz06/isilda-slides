@@ -1,0 +1,51 @@
+slide 1: photo search failed: HTTP Error 401: Unauthorized
+slide 1: no photo for 'woman skincare mirror', rendering without
+slide 2: photo search failed: HTTP Error 401: Unauthorized
+slide 2: no photo for 'cloudy sky sunlight', rendering without
+slide 3: photo search failed: HTTP Error 401: Unauthorized
+slide 3: no photo for 'facial scrub texture', rendering without
+slide 4: photo search failed: HTTP Error 401: Unauthorized
+slide 4: no photo for 'washing face water', rendering without
+slide 5: photo search failed: HTTP Error 401: Unauthorized
+slide 5: no photo for 'skincare products shelf', rendering without
+rendered 01-aging-mistakes
+slide 1: photo search failed: HTTP Error 401: Unauthorized
+slide 1: no photo for 'sensitive skin close up', rendering without
+slide 2: photo search failed: HTTP Error 401: Unauthorized
+slide 2: no photo for 'woman touching face', rendering without
+slide 3: photo search failed: HTTP Error 401: Unauthorized
+slide 3: no photo for 'skincare serums bottles', rendering without
+slide 4: photo search failed: HTTP Error 401: Unauthorized
+slide 4: no photo for 'minimal skincare routine', rendering without
+rendered 02-barrier-signs
+slide 1: photo search failed: HTTP Error 401: Unauthorized
+slide 1: no photo for 'skincare products flat lay', rendering without
+slide 2: photo search failed: HTTP Error 429: Too Many Requests
+slide 2: no photo for 'morning skincare routine', rendering without
+slide 3: photo search failed: HTTP Error 429: Too Many Requests
+slide 3: no photo for 'night skincare routine', rendering without
+slide 4: photo search failed: HTTP Error 429: Too Many Requests
+slide 4: no photo for 'skincare bottles aesthetic', rendering without
+rendered 03-routine-order
+slide 1: photo search failed: HTTP Error 429: Too Many Requests
+slide 1: no photo for 'woman looking in mirror', rendering without
+slide 2: photo search failed: HTTP Error 429: Too Many Requests
+slide 2: no photo for 'face close up natural', rendering without
+slide 3: photo search failed: HTTP Error 429: Too Many Requests
+slide 3: no photo for 'bathroom lighting mirror', rendering without
+slide 4: photo search failed: HTTP Error 429: Too Many Requests
+slide 4: no photo for 'many skincare products', rendering without
+slide 5: photo search failed: HTTP Error 429: Too Many Requests
+slide 5: no photo for 'skincare journal', rendering without
+slide 6: app screenshot 0
+rendered 04-is-it-working
+slide 1: photo search failed: HTTP Error 429: Too Many Requests
+slide 1: no photo for 'woman face no makeup', rendering without
+slide 2: photo search failed: HTTP Error 429: Too Many Requests
+slide 2: no photo for 'washing face', rendering without
+slide 3: photo search failed: HTTP Error 429: Too Many Requests
+slide 3: no photo for 'oily skin close up', rendering without
+slide 4: photo search failed: HTTP Error 429: Too Many Requests
+slide 4: no photo for 'skincare routine woman', rendering without
+slide 5: app screenshot 0
+rendered 05-skin-type-test
