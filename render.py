@@ -168,11 +168,11 @@ def render_app(s, shot_path):
     scale = min(max_h / shot.height, 700 / shot.width)
     shot = shot.resize((int(shot.width * scale), int(shot.height * scale)), Image.LANCZOS)
     mask = Image.new("L", shot.size, 0)
-    ImageDraw.Draw(mask).rounded_rectangle((0, 0, shot.width, shot.height), radius=int(56 * scale * 2.4), fill=255)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, shot.width, shot.height), radius=int(shot.width * 0.11), fill=255)
     x = (W - shot.width) // 2
     top = y + 60
     shadow = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ImageDraw.Draw(shadow).rounded_rectangle((x, top + 20, x + shot.width, top + 20 + shot.height), radius=60, fill=(0, 0, 0, 70))
+    ImageDraw.Draw(shadow).rounded_rectangle((x, top + 20, x + shot.width, top + 20 + shot.height), radius=int(shot.width * 0.11), fill=(0, 0, 0, 70))
     img = Image.alpha_composite(img, shadow.filter(ImageFilter.GaussianBlur(30)))
     img.paste(shot, (x, top), mask)
     return img

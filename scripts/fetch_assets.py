@@ -59,6 +59,10 @@ BEAUTY = {"skin", "skincare", "face", "facial", "beauty", "cosmetic", "cosmetics
           "selfcare", "bottle", "routine", "water", "sunscreen", "towel", "mask", "model"}
 
 
+AVOID = {"cartoon", "illustration", "vector", "drawing", "paint", "painting", "art", "artistic", "colorful",
+         "halloween", "horror", "lipstick", "nails", "body-painting", "bodypainting", "fantasy", "surreal"}
+
+
 def pixabay_pick(query, used, key):
     """Pick the most on-topic unused photo: tags must overlap the query or beauty vocabulary."""
     q = urllib.parse.urlencode({"key": key, "q": query, "image_type": "photo", "orientation": "vertical",
@@ -72,7 +76,7 @@ def pixabay_pick(query, used, key):
             continue
         tags = {t for tag in p.get("tags", "").lower().split(",") for t in tag.strip().split()}
         score = 3 * len(words & tags) + len(BEAUTY & tags)
-        if not (BEAUTY & tags):
+        if not (BEAUTY & tags) or (AVOID & tags) or p.get("type") != "photo":
             continue
         score += max(0, 10 - rank) * 0.2  # Pixabay's own popularity order as a tiebreak
         if score > best_score:
