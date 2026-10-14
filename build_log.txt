@@ -1,29 +1,29 @@
-slide 1: openverse/stocksnap ov-9d30d890-17b5-40ae-b82d-fca77b872736 (woman skincare mirror)
-slide 2: no photo for 'cloudy sky sunlight', rendering without
-slide 3: no photo for 'facial scrub texture', rendering without
-slide 4: no photo for 'washing face water', rendering without
-slide 5: no photo for 'skincare products shelf', rendering without
+slide 1: pixabay px-8826707 (woman skincare mirror)
+slide 2: pixabay px-6314336 (cloudy sky sunlight)
+slide 3: pixabay px-4481538 (facial scrub texture)
+slide 4: pixabay px-1138985 (washing face water)
+slide 5: pixabay px-10430557 (skincare products shelf)
 rendered 01-aging-mistakes
-slide 1: no photo for 'sensitive skin close up', rendering without
-slide 2: no photo for 'woman touching face', rendering without
-slide 3: no photo for 'skincare serums bottles', rendering without
-slide 4: no photo for 'minimal skincare routine', rendering without
+slide 1: pixabay px-10180402 (sensitive skin close up)
+slide 2: pixabay px-2164072 (woman touching face)
+slide 3: pixabay px-2385087 (skincare serums bottles)
+slide 4: pixabay px-1527959 (minimal skincare routine)
 rendered 02-barrier-signs
-slide 1: no photo for 'skincare products flat lay', rendering without
-slide 2: no photo for 'morning skincare routine', rendering without
-slide 3: no photo for 'night skincare routine', rendering without
-slide 4: no photo for 'skincare bottles aesthetic', rendering without
+slide 1: pixabay px-4233900 (skincare products flat lay)
+slide 2: pixabay px-4907490 (morning skincare routine)
+slide 3: pixabay px-10102003 (night skincare routine)
+slide 4: pixabay px-4726516 (skincare bottles aesthetic)
 rendered 03-routine-order
-slide 1: openverse/stocksnap ov-432ec097-8b02-44a2-92b4-f603d8846276 (woman looking in mirror)
-slide 2: no photo for 'face close up natural', rendering without
-slide 3: openverse/stocksnap ov-7ea79054-3614-40ee-ab5a-a940d3fc5c4a (bathroom lighting mirror)
-slide 4: no photo for 'many skincare products', rendering without
-slide 5: no photo for 'skincare journal', rendering without
+slide 1: pixabay px-6170373 (woman looking in mirror)
+slide 2: pixabay px-2333326 (face close up natural)
+slide 3: pixabay px-6878042 (bathroom lighting mirror)
+slide 4: pixabay px-4630131 (many skincare products)
+slide 5: pixabay px-1589021 (skincare journal)
 slide 6: app screenshot 0
 rendered 04-is-it-working
-slide 1: openverse/stocksnap ov-2d44e074-1771-4253-9733-03c38b534138 (woman face no makeup)
-slide 2: no photo for 'washing face', rendering without
-slide 3: no photo for 'oily skin close up', rendering without
-slide 4: no photo for 'skincare routine woman', rendering without
+slide 1: pixabay px-1061942 (woman face no makeup)
+slide 2: pixabay px-6881935 (washing face)
+slide 3: pixabay px-1506653 (oily skin close up)
+slide 4: pixabay px-2544396 (skincare routine woman)
 slide 5: app screenshot 0
 rendered 05-skin-type-test
