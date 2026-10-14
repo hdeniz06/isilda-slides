@@ -19,5 +19,13 @@ a.day img{width:64px;height:114px;object-fit:cover;border-radius:8px}
 a.day b{display:block;font-size:16px}a.day span{color:var(--muted);font-size:13px}
 .new{color:var(--terra);font-weight:700;font-size:12px;letter-spacing:.06em}
 </style></head><body><main>
-<h1>Işılda slaytları</h1><div class="sub">En yenisi en üstte. Birine dokun, kaydet, TikTok'ta paylaş.</div>
-<a class="day" href="days/05-skin-type-test/"><img src="days/05-skin-type-test/01.jpg" alt=""><div><div class="new">YENİ</div><b>Skin type test</b><span>2026-10-14 · 5 slayt</span></div></a><a class="day" href="days/04-is-it-working/"><img src="days/04-is-it-working/01.jpg" alt=""><div><b>Is your routine working?</b><span>2026-10-14 · 6 slayt</span></div></a><a class="day" href="days/03-routine-order/"><img src="days/03-routine-order/01.jpg" alt=""><div><b>Skincare order</b><span>2026-10-14 · 5 slayt</span></div></a><a class="day" href="days/02-barrier-signs/"><img src="days/02-barrier-signs/01.jpg" alt=""><div><b>Damaged skin barrier signs</b><span>2026-10-14 · 5 slayt</span></div></a><a class="day" href="days/01-aging-mistakes/"><img src="days/01-aging-mistakes/01.jpg" alt=""><div><b>4 habits aging you faster</b><span>2026-10-14 · 6 slayt</span></div></a></main></body></html>
+<h1>Işılda slaytları</h1><div class="sub">BUGÜN yazanı aç → Hepsini kaydet → TikTok'ta paylaş.</div>
+<a class="day" data-date="2026-10-15" href="days/01-aging-mistakes/"><img src="days/01-aging-mistakes/01.jpg" alt=""><div><div class="new"></div><b>4 habits aging you faster</b><span>2026-10-15 · 6 slayt</span></div></a><a class="day" data-date="2026-10-16" href="days/02-barrier-signs/"><img src="days/02-barrier-signs/01.jpg" alt=""><div><div class="new"></div><b>Damaged skin barrier signs</b><span>2026-10-16 · 5 slayt</span></div></a><a class="day" data-date="2026-10-17" href="days/03-routine-order/"><img src="days/03-routine-order/01.jpg" alt=""><div><div class="new"></div><b>Skincare order</b><span>2026-10-17 · 5 slayt</span></div></a><a class="day" data-date="2026-10-18" href="days/04-is-it-working/"><img src="days/04-is-it-working/01.jpg" alt=""><div><div class="new"></div><b>Is your routine working?</b><span>2026-10-18 · 6 slayt</span></div></a><a class="day" data-date="2026-10-19" href="days/05-skin-type-test/"><img src="days/05-skin-type-test/01.jpg" alt=""><div><div class="new"></div><b>Skin type test</b><span>2026-10-19 · 5 slayt</span></div></a></main><script>
+const t=new Date(),today=t.getFullYear()+'-'+String(t.getMonth()+1).padStart(2,'0')+'-'+String(t.getDate()).padStart(2,'0');
+let first=null;
+document.querySelectorAll('a.day').forEach(a=>{const d=a.dataset.date,b=a.querySelector('.new');
+ if(d===today){b.textContent='BUGÜN';first=first||a;}
+ else if(d<today){a.style.opacity=.45;}
+ else{b.textContent='SIRADA';b.style.color='var(--muted)';}});
+if(first)first.scrollIntoView({block:'center'});
+</script></body></html>
