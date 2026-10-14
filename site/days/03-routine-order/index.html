@@ -18,29 +18,45 @@ margin:10px 0;color:inherit;text-decoration:none}
 a.day img{width:64px;height:114px;object-fit:cover;border-radius:8px}
 a.day b{display:block;font-size:16px}a.day span{color:var(--muted);font-size:13px}
 .new{color:var(--terra);font-weight:700;font-size:12px;letter-spacing:.06em}
+
+.tabs{display:flex;gap:8px;margin:6px 0 4px}.tab{flex:1;border:0;border-radius:12px;padding:12px 6px;font-size:14px;
+background:var(--card);color:var(--muted)}.tab.on{background:var(--cream);color:var(--ink);font-weight:700}
 </style></head><body><main>
 <a href="../../" style="color:var(--muted);text-decoration:none">← Tüm günler</a>
 <h1>Skincare order</h1>
 <div class="sub">5 slayt · 2026-10-17</div>
-<button class="btn" onclick="saveAll(this)">Hepsini Fotoğraflara kaydet</button>
-<div class="cap" id="cap">the order matters more than you think #skincareroutine #skincaretips #skincare101</div>
-<button class="btn alt" onclick="copyCap(this)">Açıklamayı kopyala</button>
-
-<div class="slides"><img src="01.jpg" alt="slayt 1">
-<img src="02.jpg" alt="slayt 2">
-<img src="03.jpg" alt="slayt 3">
-<img src="04.jpg" alt="slayt 4">
-<img src="05.jpg" alt="slayt 5"></div>
+<div class="tabs"><button class="tab" data-l="en" onclick="show('en')">🇺🇸 English (ABD hesabı)</button><button class="tab" data-l="tr" onclick="show('tr')">🇹🇷 Türkçe (Işılda hesabı)</button></div><section class="lang" id="l-en" data-files='["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg"]'>
+<button class="btn" onclick="saveAll(this,'en')">Hepsini Fotoğraflara kaydet</button>
+<div class="cap" id="cap-en">the order matters more than you think #skincareroutine #skincaretips #skincare101</div>
+<button class="btn alt" onclick="copyCap(this,'en')">Açıklamayı kopyala</button>
+<div class="slides"><img src="01.jpg" alt="slayt 1" loading="lazy">
+<img src="02.jpg" alt="slayt 2" loading="lazy">
+<img src="03.jpg" alt="slayt 3" loading="lazy">
+<img src="04.jpg" alt="slayt 4" loading="lazy">
+<img src="05.jpg" alt="slayt 5" loading="lazy"></div></section><section class="lang" id="l-tr" data-files='["tr/01.jpg", "tr/02.jpg", "tr/03.jpg", "tr/04.jpg", "tr/05.jpg"]'>
+<button class="btn" onclick="saveAll(this,'tr')">Hepsini Fotoğraflara kaydet</button>
+<div class="cap" id="cap-tr">Sıralama sandığından önemli #ciltbakımrutini #ciltbakımı #skincare #ciltbakimi</div>
+<button class="btn alt" onclick="copyCap(this,'tr')">Açıklamayı kopyala</button>
+<div class="slides"><img src="tr/01.jpg" alt="slayt 1" loading="lazy">
+<img src="tr/02.jpg" alt="slayt 2" loading="lazy">
+<img src="tr/03.jpg" alt="slayt 3" loading="lazy">
+<img src="tr/04.jpg" alt="slayt 4" loading="lazy">
+<img src="tr/05.jpg" alt="slayt 5" loading="lazy"></div></section>
 <script>
-const files=["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg"];
-async function saveAll(btn){
+function show(l){document.querySelectorAll('.lang').forEach(s=>s.style.display=s.id==='l-'+l?'block':'none');
+document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('on',b.dataset.l===l));
+try{localStorage.setItem('lang',l)}catch(e){}}
+let pref='en';try{pref=localStorage.getItem('lang')||'en'}catch(e){}
+show(document.getElementById('l-'+pref)?pref:'en');
+async function saveAll(btn,l){
+  const files=JSON.parse(document.getElementById('l-'+l).dataset.files);
   btn.textContent='Hazırlanıyor…';
   try{
     const blobs=await Promise.all(files.map(f=>fetch(f).then(r=>r.blob())));
-    const fs=blobs.map((b,i)=>new File([b],files[i],{type:'image/jpeg'}));
+    const fs=blobs.map((b,i)=>new File([b],l+'-'+(i+1)+'.jpg',{type:'image/jpeg'}));
     if(navigator.canShare&&navigator.canShare({files:fs})){await navigator.share({files:fs});btn.textContent='Kaydedildi ✓';}
     else{btn.textContent='Görsellere basılı tutup tek tek kaydet';}
   }catch(e){btn.textContent='Hepsini Fotoğraflara kaydet';}
 }
-function copyCap(btn){navigator.clipboard.writeText(document.getElementById('cap').innerText);btn.textContent='Kopyalandı ✓';}
+function copyCap(btn,l){navigator.clipboard.writeText(document.getElementById('cap-'+l).innerText);btn.textContent='Kopyalandı ✓';}
 </script></main></body></html>
