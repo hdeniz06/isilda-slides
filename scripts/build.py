@@ -73,15 +73,23 @@ def index_page(days):
     rows = []
     for k, (data, files) in enumerate(days):
         thumb = f"days/{data['id']}/{os.path.basename(files[0])}"
-        tag = '<div class="new">YENİ</div>' if k == 0 else ""
-        rows.append(f'<a class="day" href="days/{data["id"]}/"><img src="{thumb}" alt="">'
+        tag = '<div class="new"></div>'
+        rows.append(f'<a class="day" data-date="{data.get("date", "")}" href="days/{data["id"]}/"><img src="{thumb}" alt="">'
                     f'<div>{tag}<b>{html.escape(data.get("title", data["id"]))}</b>'
                     f'<span>{html.escape(data.get("date", ""))} · {len(files)} slayt</span></div></a>')
     return f"""<!doctype html><html lang="tr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
 <title>Işılda slaytları</title><style>{CSS}</style></head><body><main>
-<h1>Işılda slaytları</h1><div class="sub">En yenisi en üstte. Birine dokun, kaydet, TikTok'ta paylaş.</div>
-{''.join(rows)}</main></body></html>"""
+<h1>Işılda slaytları</h1><div class="sub">BUGÜN yazanı aç → Hepsini kaydet → TikTok'ta paylaş.</div>
+{''.join(rows)}</main><script>
+const t=new Date(),today=t.getFullYear()+'-'+String(t.getMonth()+1).padStart(2,'0')+'-'+String(t.getDate()).padStart(2,'0');
+let first=null;
+document.querySelectorAll('a.day').forEach(a=>{{const d=a.dataset.date,b=a.querySelector('.new');
+ if(d===today){{b.textContent='BUGÜN';first=first||a;}}
+ else if(d<today){{a.style.opacity=.45;}}
+ else{{b.textContent='SIRADA';b.style.color='var(--muted)';}}}});
+if(first)first.scrollIntoView({{block:'center'}});
+</script></body></html>"""
 
 
 def main():
@@ -98,7 +106,7 @@ def main():
         with open(os.path.join(out, "index.html"), "w") as f:
             f.write(day_page(data, files))
         days.append((data, files))
-    days.sort(key=lambda d: (d[0].get("date", ""), d[0]["id"]), reverse=True)
+    days.sort(key=lambda d: (d[0].get("date", ""), d[0]["id"]))
     with open(os.path.join(SITE, "index.html"), "w") as f:
         f.write(index_page(days))
     open(os.path.join(SITE, ".nojekyll"), "w").close()
