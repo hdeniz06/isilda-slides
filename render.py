@@ -134,7 +134,7 @@ def text_layer(s, t, dark_bg):
         f = fit(d, s["text"], "serif", 600, width, 900, 132, 72, 1.08)
         y = draw_rich(d, SAFE_L, y, s["text"], f, main, hl, width, 1.08, sh)
         if s.get("sub"):
-            y = draw_rich(d, SAFE_L, y + 40, s["sub"], font("sans", 46, 500), C["muted_dark"] if dark_bg else C["muted"], hl, width, 1.3, sh)
+            y = draw_rich(d, SAFE_L, y + 44, s["sub"], font("sans", 52, 600), C["cream"] if dark_bg else C["muted"], hl, width, 1.3, sh)
     elif t in ("point", "list"):
         if t == "point" and s.get("num"):
             d.text((SAFE_L, y), str(s["num"]).zfill(2), font=font("serif", 170, 300), fill=hl)
