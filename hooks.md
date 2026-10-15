@@ -22,3 +22,21 @@ Slideshow'un ilk slaytı (hook) için formüller. Her gün farklı bir formül k
 - Hook ≤ 10 kelime, 1–3 kelime `*vurgulu*`. Alt satır (`sub`) isteğe bağlı: "save this", "most people do #3" gibi kaydırmaya iten kısa satır.
 - Sahte otorite yok ("dermatologists hate this" gibi uydurma alıntılar), sağlık iddiası yok, sayılar uydurma değil.
 - İkinci slayt hook'un vaadini hemen karşılamalı; hook'ta "4 habits" diyorsan 4 madde gelmeli.
+
+## Güçlü kanca kuralları
+
+- **En fazla 8 kelime** (iki kısa cümleli kontrast kancada toplam 10). İlk saniyede okunmalı.
+- **Cevabı kancada verme.** Ya yarım bırak ("…if", "…is in the wrong spot") ya da kontrast kur ("X. But Y." / "It's working. You just can't see it.").
+- **Alt satırda (`sub`) açık döngü:** "check slide 3", "#3 is the one nobody knows", "30 minute test inside". Alt satır kaydırmak için ikinci bir sebep vermeli.
+- **Somut ol:** "skincare habits" değil "your morning face wash"; "products" değil "your SPF", "your cleanser".
+- **Yumuşatıcıları azalt:** "might", "could", "maybe" en fazla bir kez; "probably" ve doğrudan iddia daha vurucu.
+- **Kişisel ol:** "you / your" ile başla ya da okuru doğrudan bir hatanın içine koy.
+- Uydurma genelleme yok ("90% of people…", "dermatologists hate…"). Alt satırdaki vaadi slaytlar birebir karşılamalı.
+
+### Zayıf → güçlü örnekler
+
+| Zayıf | Güçlü |
+|---|---|
+| Why you can't tell if your routine is actually working | Your routine might be working. *You just can't see it.* |
+| You might be applying your skincare in the wrong order | Your SPF is probably in the *wrong spot* (sub: check slide 3) |
+| Stop guessing your skin type | You might be using products for the *wrong skin type* (sub: 30 minute test inside) |

@@ -8,8 +8,9 @@
  "slides": [
   {
    "type": "hook",
-   "text": "You might be applying your skincare in the *wrong order*",
-   "photo": "skincare products flat lay"
+   "text": "Your SPF is probably in the *wrong spot*",
+   "photo": "skincare products flat lay",
+   "sub": "check slide 3"
   },
   {
    "type": "point",
@@ -49,7 +50,8 @@
   "caption": "Aynı ürünler sadece sürme sırasını değiştirince çok daha iyi çalışabilir. İnceden kalına, sabahları güneş kremi her zaman en son. Bir daha düşünmemek için ekran görüntüsü al. Senin rutininde şu an neler var? #ciltbakımrutini #ciltbakımı #ciltbakimi #skincare",
   "slides": [
    {
-    "text": "Cilt bakım ürünlerini *yanlış sırayla* sürüyor olabilirsin"
+    "text": "Güneş kremin muhtemelen *yanlış yerde*",
+    "sub": "3. slayta bak"
    },
    {
     "title": "Kural",
