@@ -1,0 +1,91 @@
+{
+  "id": "2026-10-18-2-first-retinol",
+  "title": "First retinol tips",
+  "date": "2026-10-18",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F10",
+  "mentions_app": true,
+  "caption": "Fall is when a lot of people finally start retinol, and the first few weeks are where most of them give up. Going slow, using less and never skipping SPF makes the start a lot easier. Are you thinking about starting retinol, or already in your first weeks? #retinol #skincare #skincaretips #skintok #fallskincare",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Wish I knew this before my *first retinol*",
+      "sub": "#4 is the one everyone skips",
+      "photo": "woman bathroom mirror night"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Start with *2–3 nights* a week",
+      "body": "Not every night from day one. Build up slowly as your skin gets used to it.",
+      "photo": "calendar planner week"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "A *pea-sized* amount is enough",
+      "body": "That covers your whole face. More product usually means more irritation, not faster results.",
+      "photo": "cream on fingertip"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Early *dryness* is common",
+      "body": "A lot of people get some dryness or flaking in the first weeks. If it gets uncomfortable, use it on fewer nights.",
+      "photo": "dry skin texture"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "*SPF* every single morning",
+      "body": "Retinol can make your skin more sensitive to the sun. Use it at night and wear sunscreen daily.",
+      "photo": "sun protection cream"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "Don't stack it with *acids*",
+      "body": "Retinol and exfoliating acids on the same night is an easy way to irritate your skin. Alternate nights instead.",
+      "photo": "skincare dropper bottles"
+    },
+    {
+      "type": "app",
+      "title": "Starting retinol? *Glowtrack* scans your skin every week so you can see how it's *adjusting*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "İlk retinol ipuçları",
+    "caption": "Sonbahar, birçok kişinin sonunda retinole başladığı dönem ve çoğu kişi ilk birkaç haftada bırakıyor. Yavaş başlamak, az kullanmak ve güneş kremini asla atlamamak başlangıcı çok kolaylaştırıyor. Sen retinole başlamayı düşünüyor musun, yoksa ilk haftalarında mısın? #ciltbakımı #ciltbakimi #retinol #ciltbakımrutini #skincare",
+    "slides": [
+      {
+        "text": "Retinole başlamadan önce *keşke* bunu bilseydim",
+        "sub": "herkesin atladığı madde: 4"
+      },
+      {
+        "title": "Haftada *2–3 gece* başla",
+        "body": "İlk günden her gece değil. Cildin alıştıkça yavaş yavaş artır."
+      },
+      {
+        "title": "*Bezelye tanesi* kadarı yeter",
+        "body": "Bütün yüzüne bu kadarı yetiyor. Fazlası daha hızlı sonuç değil, genelde daha çok tahriş demek."
+      },
+      {
+        "title": "Başta *kuruluk* sık görülür",
+        "body": "İlk haftalarda birçok kişide kuruluk ya da pullanma olur. Rahatsız ederse daha az gece kullan."
+      },
+      {
+        "title": "Her sabah *güneş kremi*",
+        "body": "Retinol cildini güneşe karşı daha hassas yapabilir. Akşam kullan, güneş kremini her gün sür."
+      },
+      {
+        "title": "*Asitlerle* aynı gece kullanma",
+        "body": "Retinol ve peeling asitlerini aynı gece sürmek cildi tahriş etmenin en kolay yolu. Farklı gecelere böl."
+      },
+      {
+        "title": "Retinole mi başladın? *Işılda* cildini her hafta tarar, nasıl *alıştığını* görürsün."
+      }
+    ]
+  }
+}
