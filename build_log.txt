@@ -1,62 +1,9 @@
-slide 1: reused pixabay photo
-slide 2: reused pixabay photo
-slide 3: reused pixabay photo
-slide 4: reused pixabay photo
-slide 5: reused pixabay photo
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 01-aging-mistakes en+tr
-slide 1: reused pixabay photo
-slide 2: reused pixabay photo
-slide 3: reused pixabay photo
-slide 4: reused pixabay photo
-slide 5: app screenshot 0
-slide 5: app screenshot 0 (tr)
-rendered 02-barrier-signs en+tr
-slide 1: pixabay px-8466399 (woman applying sunscreen face)
-slide 2: reused pixabay photo
-slide 3: reused pixabay photo
-slide 4: reused pixabay photo
-slide 5: app screenshot 0
-slide 5: app screenshot 0 (tr)
-rendered 03-routine-order en+tr
-slide 1: reused pixabay photo
-slide 2: reused pixabay photo
-slide 3: reused pixabay photo
-slide 4: reused pixabay photo
-slide 5: reused pixabay photo
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 04-is-it-working en+tr
-slide 1: reused pixabay photo
-slide 2: reused pixabay photo
-slide 3: reused pixabay photo
-slide 4: reused pixabay photo
-slide 5: app screenshot 0
-slide 5: app screenshot 0 (tr)
-rendered 05-skin-type-test en+tr
-slide 1: reused pixabay photo
-slide 2: reused pixabay photo
-slide 3: reused pixabay photo
-slide 4: reused pixabay photo
-slide 5: reused pixabay photo
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-10-15-2-fall-routine-switch en+tr
-slide 1: reused pixabay photo
-slide 2: reused pixabay photo
-slide 3: reused pixabay photo
-slide 4: reused pixabay photo
-slide 5: reused pixabay photo
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-10-16-2-glass-skin-myths en+tr
-slide 1: reused pixabay photo
-slide 2: reused pixabay photo
-slide 3: reused pixabay photo
-slide 4: reused pixabay photo
-slide 5: reused pixabay photo
-slide 6: reused pixabay photo
+slide 1: pixabay px-7230038 (woman bathroom mirror night)
+slide 2: pixabay px-4233900 (calendar planner week)
+slide 3: pixabay px-6894716 (cream on fingertip)
+slide 4: pixabay px-1846490 (dry skin texture)
+slide 5: pixabay px-7467487 (sun protection cream)
+slide 6: pixabay px-4262860 (skincare dropper bottles)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-17-2-oily-skin-rules en+tr
+rendered 2026-10-18-2-first-retinol en+tr
