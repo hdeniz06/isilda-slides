@@ -1,17 +1,9 @@
-slide 1: pixabay px-10194888 (steamy shower bathroom)
-slide 2: pixabay px-17478 (water running hands)
-slide 3: pixabay px-2333286 (soft white towel)
-slide 4: pixabay px-10189988 (woman moisturizing face)
-slide 5: pixabay px-4634339 (face scrub bowl)
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-10-19-1-dry-skin-habits en+tr
-slide 1: pixabay px-4035591 (petroleum jelly jar)
-slide 2: pixabay px-4528581 (face cream texture)
-slide 3: pixabay px-10131317 (woman night skincare)
-slide 4: pixabay px-6921158 (winter cold woman)
-slide 5: pixabay px-363214 (skincare bottles shelf)
-slide 6: pixabay px-19334 (woman applying face cream)
+slide 1: pixabay px-4586589 (woman night cream)
+slide 2: pixabay px-10427116 (face cream texture)
+slide 3: pixabay px-6670765 (woman night skincare)
+slide 4: pixabay px-4405951 (winter cold woman)
+slide 5: pixabay px-2583689 (skincare bottles shelf)
+slide 6: pixabay px-2363819 (woman applying face cream)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-19-2-slugging-vs-moisturizer en+tr
+rendered 2026-10-19-2-slugging-or-moisturizer en+tr
