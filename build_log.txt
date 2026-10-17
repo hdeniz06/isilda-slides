@@ -1,9 +1,17 @@
-slide 1: pixabay px-7230038 (woman bathroom mirror night)
-slide 2: pixabay px-4233900 (calendar planner week)
-slide 3: pixabay px-6894716 (cream on fingertip)
-slide 4: pixabay px-1846490 (dry skin texture)
-slide 5: pixabay px-7467487 (sun protection cream)
-slide 6: pixabay px-4262860 (skincare dropper bottles)
+slide 1: pixabay px-10194888 (steamy shower bathroom)
+slide 2: pixabay px-17478 (water running hands)
+slide 3: pixabay px-2333286 (soft white towel)
+slide 4: pixabay px-10189988 (woman moisturizing face)
+slide 5: pixabay px-4634339 (face scrub bowl)
+slide 6: app screenshot 0
+slide 6: app screenshot 0 (tr)
+rendered 2026-10-19-1-dry-skin-habits en+tr
+slide 1: pixabay px-4035591 (petroleum jelly jar)
+slide 2: pixabay px-4528581 (face cream texture)
+slide 3: pixabay px-10131317 (woman night skincare)
+slide 4: pixabay px-6921158 (winter cold woman)
+slide 5: pixabay px-363214 (skincare bottles shelf)
+slide 6: pixabay px-19334 (woman applying face cream)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-18-2-first-retinol en+tr
+rendered 2026-10-19-2-slugging-vs-moisturizer en+tr
