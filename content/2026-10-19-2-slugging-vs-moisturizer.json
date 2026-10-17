@@ -1,0 +1,91 @@
+{
+  "id": "2026-10-19-2-slugging-vs-moisturizer",
+  "title": "Slugging vs moisturizer",
+  "date": "2026-10-19",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F7",
+  "mentions_app": true,
+  "caption": "Slugging is back on everyone's feed as the weather gets colder, but it isn't a replacement for moisturizer and it isn't for every skin type. Here's what each one does and when an extra layer actually makes sense. Have you tried slugging, and did it work for your skin? #slugging #dryskin #skincare #skincaretips #winterskincare",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Slugging vs moisturizer: which does your skin *need*?",
+      "sub": "check slide 4 before you try it",
+      "photo": "petroleum jelly jar"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "What your *moisturizer* does",
+      "body": "It adds water-attracting and softening ingredients to your skin. It's the everyday step most skin types need.",
+      "photo": "face cream texture"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "What *slugging* does",
+      "body": "A thin layer of a heavy occlusive like petrolatum, last step at night. It seals in what's underneath to reduce water loss.",
+      "photo": "woman night skincare"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "It suits *dry, tight* skin",
+      "body": "Skin that feels tight or flaky in cold, dry weather is the best fit, especially on nights after a long day outside.",
+      "photo": "winter cold woman"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Skip it or go *careful*",
+      "body": "Oily or breakout-prone skin may not like it. And don't slug over retinol or acids, it can make them more irritating.",
+      "photo": "skincare bottles shelf"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "The answer: *moisturizer first*",
+      "body": "Moisturizer every day. Slugging is an optional extra layer on top, for the nights your skin feels dry.",
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "app",
+      "title": "Not sure what your skin needs tonight? *Glowtrack* scans it and builds your *routine*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Slugging mi, nemlendirici mi",
+    "caption": "Havalar soğudukça slugging yine her yerde, ama nemlendiricinin yerini tutmuyor ve her cilt tipine uygun değil. İkisinin ne yaptığını ve ekstra katmanın ne zaman mantıklı olduğunu anlattım. Sen slugging denedin mi, cildine yaradı mı? #ciltbakımı #ciltbakimi #kurucilt #nemlendirici #slugging",
+    "slides": [
+      {
+        "text": "Slugging mi, nemlendirici mi? Cildine *hangisi* lazım?",
+        "sub": "denemeden önce 4. slayda bak"
+      },
+      {
+        "title": "*Nemlendiricin* ne yapar",
+        "body": "Cilde suyu çeken ve yumuşatan içerikler verir. Çoğu cilt tipinin her gün ihtiyaç duyduğu adım bu."
+      },
+      {
+        "title": "*Slugging* ne yapar",
+        "body": "Gece son adım olarak vazelin gibi yoğun, kapatıcı bir ürünün ince bir katmanı. Alttakini hapseder, nem kaybını azaltır."
+      },
+      {
+        "title": "*Kuru ve geren* cilde uyar",
+        "body": "Soğuk ve kuru havada geren ya da pul pul olan cilt için en uygunu, özellikle dışarıda geçen uzun bir günün akşamı."
+      },
+      {
+        "title": "Atla ya da *dikkatli* ol",
+        "body": "Yağlı ya da sivilceye yatkın cilt sevmeyebilir. Retinol veya asitlerin üstüne slugging yapma, tahrişi artırabilir."
+      },
+      {
+        "title": "Cevap: *önce nemlendirici*",
+        "body": "Nemlendirici her gün. Slugging ise cildin kuru hissettiği geceler için üstüne eklenen isteğe bağlı bir katman."
+      },
+      {
+        "title": "Bu gece cildinin neye ihtiyacı var? *Işılda* cildini tarar, *rutinini* ona göre kurar."
+      }
+    ]
+  }
+}

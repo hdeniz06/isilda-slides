@@ -1,0 +1,80 @@
+{
+  "id": "2026-10-19-1-dry-skin-habits",
+  "title": "Dry skin habits to drop",
+  "date": "2026-10-19",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F3",
+  "mentions_app": true,
+  "caption": "When the weather cools down, a lot of skin dryness comes from small daily habits, not the products you use. Water temperature, how you dry your face and when you moisturize all make a difference. Which of these four habits are you guilty of? #dryskin #skincaretips #fallskincare #skincare #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Stop washing your face in a *hot shower*",
+      "sub": "+3 more habits drying out your skin",
+      "photo": "steamy shower bathroom"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "*Hot water* strips your skin",
+      "body": "Hot water and long showers pull out the oils that keep skin soft. Wash your face with lukewarm water instead.",
+      "photo": "water running hands"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Stop *rubbing* with your towel",
+      "body": "Rubbing adds friction to already dry skin. Gently pat your face dry with a clean, soft towel.",
+      "photo": "soft white towel"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Don't wait to *moisturize*",
+      "body": "Apply moisturizer while your skin is still slightly damp, within a few minutes of washing, to help hold water in.",
+      "photo": "woman moisturizing face"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Stop *scrubbing* away flakes",
+      "body": "Scrubbing harder usually makes dry skin more irritated. Keep exfoliation gentle and occasional, and focus on moisture.",
+      "photo": "face scrub bowl"
+    },
+    {
+      "type": "app",
+      "title": "I built *Glowtrack* so you can scan your skin and see if dropping these habits *helps*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Kuru cilt için bırakılacak alışkanlıklar",
+    "caption": "Havalar soğuyunca cildindeki kuruluğun çoğu kullandığın ürünlerden değil, küçük günlük alışkanlıklardan geliyor. Suyun sıcaklığı, yüzünü nasıl kuruladığın ve nemlendiriciyi ne zaman sürdüğün fark yaratıyor. Sen bu dört alışkanlıktan hangisini yapıyorsun? #ciltbakımı #ciltbakimi #kurucilt #sonbahar #skincare",
+    "slides": [
+      {
+        "text": "Yüzünü *sıcak duşta* yıkamayı bırak",
+        "sub": "+ cildini kurutan 3 alışkanlık daha"
+      },
+      {
+        "title": "*Sıcak su* cildini kurutur",
+        "body": "Sıcak su ve uzun duşlar cildi yumuşak tutan yağları alır. Yüzünü ılık suyla yıka."
+      },
+      {
+        "title": "Havluyla *ovalamayı* bırak",
+        "body": "Ovalamak zaten kuru olan cilde sürtünme ekler. Temiz, yumuşak bir havluyla hafifçe tampon yaparak kurula."
+      },
+      {
+        "title": "Nemlendirmek için *bekleme*",
+        "body": "Nemlendiriciyi yüzünü yıkadıktan sonraki birkaç dakika içinde, cildin hâlâ hafif nemliyken sür. Nemi tutmaya yardım eder."
+      },
+      {
+        "title": "Pulları *ovarak* atmaya çalışma",
+        "body": "Daha sert ovalamak kuru cildi genelde daha çok tahriş eder. Peelingi nazik ve seyrek yap, asıl odak nem olsun."
+      },
+      {
+        "title": "*Işılda*'yı, bu alışkanlıkları bırakınca cildinde ne *değiştiğini* görebilesin diye geliştirdim."
+      }
+    ]
+  }
+}
