@@ -1,9 +1,16 @@
-slide 1: pixabay px-4586589 (woman night cream)
-slide 2: pixabay px-10427116 (face cream texture)
-slide 3: pixabay px-6670765 (woman night skincare)
-slide 4: pixabay px-4405951 (winter cold woman)
-slide 5: pixabay px-2583689 (skincare bottles shelf)
-slide 6: pixabay px-2363819 (woman applying face cream)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-10-19-2-slugging-or-moisturizer en+tr
+slide 1: pixabay px-4246065 (minimal skincare products)
+slide 2: pixabay px-10370290 (washing face sink)
+slide 3: pixabay px-8881740 (woman applying face cream)
+slide 4: pixabay px-9849748 (sunscreen on hand)
+slide 5: pixabay px-906136 (skincare serum bottle)
+slide 6: app screenshot 0
+slide 6: app screenshot 0 (tr)
+rendered 2026-10-20-1-three-step-routine en+tr
+slide 1: pixabay px-6361059 (serum dropper bottle)
+slide 2: pixabay px-3783004 (serum drops hand)
+slide 3: pixabay px-4967111 (face cream jar)
+slide 4: pixabay px-1433693 (skincare bottles shelf)
+slide 5: pixabay px-1472777 (woman looking mirror)
+slide 6: app screenshot 0
+slide 6: app screenshot 0 (tr)
+rendered 2026-10-20-2-serum-mistakes en+tr
