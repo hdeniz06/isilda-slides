@@ -1,0 +1,80 @@
+{
+  "id": "2026-10-20-2-serum-mistakes",
+  "title": "Serum mistakes",
+  "date": "2026-10-20",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F2",
+  "mentions_app": true,
+  "caption": "Serums are usually the priciest step in a routine, so it hurts when small habits waste them. How much you use, when you apply it and how long you stick with it all make a difference. Which of these four have you done? #skincaretips #serum #skincareroutine #skincare #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "4 ways you're *wasting* your serum",
+      "sub": "#4 is the one nobody does",
+      "photo": "serum dropper bottle"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Using *way* too much",
+      "body": "A few drops usually cover your whole face. More product doesn't mean better results, just an empty bottle sooner.",
+      "photo": "serum drops hand"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Putting it on *after* cream",
+      "body": "Apply thinnest to thickest. A watery serum goes on before a heavy cream, not on top of it.",
+      "photo": "face cream jar"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Starting *five* actives at once",
+      "body": "Retinol, acids and vitamin C in the same week can irritate skin, and you won't know which one helps.",
+      "photo": "skincare bottles shelf"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Quitting after *one week*",
+      "body": "Most serums need several weeks of consistent use before you judge them. Stick with one long enough to compare.",
+      "photo": "woman looking mirror"
+    },
+    {
+      "type": "app",
+      "title": "I built *Glowtrack* to scan your skin weekly, so you see if a serum *works*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Serum hataları",
+    "caption": "Serum genelde rutinin en pahalı adımı, o yüzden küçük alışkanlıklarla boşa gitmesi can sıkıyor. Ne kadar sürdüğün, ne zaman sürdüğün ve ne kadar süre devam ettiğin fark yaratıyor. Sen bu dördünden hangisini yaptın? #ciltbakımı #ciltbakimi #serum #ciltbakımrutini #skincare",
+    "slides": [
+      {
+        "text": "Serumunu *boşa* harcamanın 4 yolu",
+        "sub": "4.'yü neredeyse kimse yapmıyor"
+      },
+      {
+        "title": "*Fazla fazla* sürmek",
+        "body": "Birkaç damla genelde tüm yüzüne yeter. Daha çok ürün daha iyi sonuç demek değil, sadece şişe daha çabuk biter."
+      },
+      {
+        "title": "Kremden *sonra* sürmek",
+        "body": "İnceden kalına doğru sür. Su kıvamındaki serum yoğun kremden önce gelir, üstüne değil."
+      },
+      {
+        "title": "Aynı anda *beş* aktife başlamak",
+        "body": "Aynı hafta retinol, asitler ve C vitamini cildi tahriş edebilir; hangisinin işe yaradığını da anlayamazsın."
+      },
+      {
+        "title": "Bir haftada *pes etmek*",
+        "body": "Çoğu serum karar vermeden önce birkaç hafta düzenli kullanım ister. Karşılaştırabileceğin kadar devam et."
+      },
+      {
+        "title": "*Işılda*'yı geliştirdim: cildini her hafta tara, serumun *işe yarıyor mu* gör."
+      }
+    ]
+  }
+}

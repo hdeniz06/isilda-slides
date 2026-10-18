@@ -1,0 +1,87 @@
+{
+  "id": "2026-10-20-1-three-step-routine",
+  "title": "The 3-step routine",
+  "date": "2026-10-20",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F11",
+  "mentions_app": true,
+  "caption": "Skincare doesn't have to be a 10-step routine. A gentle cleanser, a moisturizer and daily SPF cover the basics, and everything else is an add-on you test one at a time. How many steps is your routine right now? #skincareroutine #skinimalism #simpleskincare #spf #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Your routine only needs *3 steps*",
+      "sub": "most people skip #3",
+      "photo": "minimal skincare products"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Step 1: a *gentle* cleanser",
+      "body": "Use a mild cleanser that doesn't leave skin tight. At night it removes sunscreen and grime; mornings, water can be enough.",
+      "photo": "washing face sink"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Step 2: a *moisturizer* you like",
+      "body": "Pick one texture that suits your skin: gel for oily, cream for dry. Use it every morning and night.",
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Step 3: *SPF*, every morning",
+      "body": "Broad-spectrum SPF 30 or higher, even when it's cloudy. It's the step most routines quietly drop.",
+      "photo": "sunscreen on hand"
+    },
+    {
+      "type": "list",
+      "title": "Everything else is *optional*",
+      "items": [
+        "Add one new product at a time",
+        "Give it a few weeks before judging",
+        "Drop anything that stings or irritates"
+      ],
+      "photo": "skincare serum bottle"
+    },
+    {
+      "type": "app",
+      "title": "Wondering what's worth adding? *Glowtrack* scans your skin and builds a *simple* routine around it.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "3 adımlık sade rutin",
+    "caption": "Cilt bakımı 10 adımlık bir rutin olmak zorunda değil. Nazik bir temizleyici, bir nemlendirici ve her gün güneş kremi temeli karşılıyor; gerisi tek tek deneyeceğin ekstralar. Senin rutinin şu an kaç adım? #ciltbakımı #ciltbakimi #sadecilt #güneşkremi #skincare",
+    "slides": [
+      {
+        "text": "Rutinin aslında *3 adım*",
+        "sub": "çoğu kişi 3. adımı atlıyor"
+      },
+      {
+        "title": "1. adım: *nazik* bir temizleyici",
+        "body": "Cildini gerdirmeyen hafif bir temizleyici kullan. Akşam güneş kremini ve kiri alır; sabahları sadece su da yetebilir."
+      },
+      {
+        "title": "2. adım: sevdiğin bir *nemlendirici*",
+        "body": "Cildine uyan tek bir doku seç: yağlı ciltte jel, kuru ciltte krem. Her sabah ve akşam sür."
+      },
+      {
+        "title": "3. adım: her sabah *SPF*",
+        "body": "Bulutlu havada bile en az SPF 30, geniş spektrumlu güneş kremi. Rutinlerden ilk sessizce düşen adım bu."
+      },
+      {
+        "title": "Gerisi *isteğe bağlı*",
+        "items": [
+          "Yeni ürünleri tek tek ekle",
+          "Karar vermeden önce birkaç hafta bekle",
+          "Yakan ya da tahriş eden ürünü bırak"
+        ]
+      },
+      {
+        "title": "Neyi eklemeye değer, merak mı ediyorsun? *Işılda* cildini tarar ve ona göre *sade* bir rutin hazırlar."
+      }
+    ]
+  }
+}
