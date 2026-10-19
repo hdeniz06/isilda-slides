@@ -1,0 +1,100 @@
+{
+  "id": "2026-10-21-2-exfoliating-too-often",
+  "title": "Exfoliating too often",
+  "date": "2026-10-21",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F1",
+  "mentions_app": true,
+  "caption": "Exfoliating feels like the fastest way to smoother skin, so it's easy to overdo it. Doing it too often, stacking it with retinol or scrubbing hard can leave skin irritated instead. How many times a week do you exfoliate right now? #exfoliation #skinbarrier #skincareroutine #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "You're probably exfoliating *too often*",
+      "sub": "slide 6 has the easy weekly plan",
+      "photo": "woman face scrub"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "More doesn't mean *smoother*",
+      "body": "Exfoliating removes dead skin cells. Overdo it and skin can end up tight, red and sensitive instead.",
+      "photo": "woman touching cheek"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "*1–2 times* a week is plenty",
+      "body": "For most people, a gentle exfoliant once or twice a week is enough. Only build up if your skin stays calm.",
+      "photo": "skincare bottles bathroom"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Don't stack it with *retinol*",
+      "body": "Acids and retinol on the same night can irritate skin. Alternate nights so each one gets its turn.",
+      "photo": "serum dropper night"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Go easy on *gritty* scrubs",
+      "body": "Harsh scrubs and rubbing hard can irritate skin. If you use one, keep it gentle and light-handed.",
+      "photo": "face scrub texture"
+    },
+    {
+      "type": "list",
+      "title": "An easy *weekly* plan",
+      "items": [
+        "1 night: exfoliant, then moisturizer",
+        "1 night: retinol, if you use it",
+        "Other nights: cleanser + moisturizer",
+        "Every morning: *SPF*"
+      ],
+      "photo": "weekly planner notebook"
+    },
+    {
+      "type": "app",
+      "title": "Cutting back on exfoliating? *Glowtrack* scores your skin each week so you can *compare*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Fazla peeling",
+    "caption": "Peeling, pürüzsüz cilde giden en hızlı yol gibi geldiği için abartması çok kolay. Çok sık yapmak, retinolle aynı geceye koymak ya da sert ovmak cildi pürüzsüzleştirmek yerine tahriş edebiliyor. Sen şu an haftada kaç kez peeling yapıyorsun? #ciltbakımı #ciltbakimi #peeling #ciltbariyeri #skincare",
+    "slides": [
+      {
+        "text": "Muhtemelen *çok sık* peeling yapıyorsun",
+        "sub": "Kolay haftalık plan 6. slaytta"
+      },
+      {
+        "title": "Fazlası daha *pürüzsüz* yapmaz",
+        "body": "Peeling ölü hücreleri uzaklaştırır. Abartınca cilt pürüzsüzleşmek yerine gergin, kızarık ve hassas kalabilir."
+      },
+      {
+        "title": "Haftada *1–2 kez* yeter",
+        "body": "Çoğu kişi için nazik bir peeling haftada bir iki kez yeterli. Cildin sakin kalıyorsa yavaş yavaş artır."
+      },
+      {
+        "title": "*Retinolle* aynı geceye koyma",
+        "body": "Asitler ve retinol aynı gece cildi tahriş edebilir. Geceleri dönüşümlü kullan, ikisi de sırasını alsın."
+      },
+      {
+        "title": "*Sert* scrub'larla arayı aç",
+        "body": "Tanecikli sert peelingler ve bastırarak ovmak cildi tahriş edebilir. Kullanacaksan nazik ol, hafif elle sür."
+      },
+      {
+        "title": "Kolay bir *haftalık* plan",
+        "items": [
+          "1 gece: peeling, ardından nemlendirici",
+          "1 gece: retinol (kullanıyorsan)",
+          "Diğer geceler: temizleyici + nemlendirici",
+          "Her sabah: *güneş kremi*"
+        ]
+      },
+      {
+        "title": "Peelingi azaltmaya mı karar verdin? *Işılda* cildini her hafta puanlar, *farkı* görürsün."
+      }
+    ]
+  }
+}

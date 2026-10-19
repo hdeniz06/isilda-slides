@@ -1,0 +1,87 @@
+{
+  "id": "2026-10-21-1-fall-spf-myths",
+  "title": "Fall SPF myths",
+  "date": "2026-10-21",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F5",
+  "mentions_app": true,
+  "caption": "Once summer ends, sunscreen is usually the first step people quietly drop. But gray skies and cooler days don't switch off UV, and makeup alone rarely gives you the protection on the label. Which of these myths did you believe? #sunscreen #spf #fallskincare #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Your SPF isn't a *summer-only* product",
+      "sub": "myth #3 fools almost everyone",
+      "photo": "autumn woman portrait"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Myth: cloudy days *don't count*",
+      "body": "UV rays pass through clouds. A gray sky isn't a reason to skip your sunscreen.",
+      "photo": "cloudy sky"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Myth: cold weather means *weaker* sun",
+      "body": "Temperature isn't UV. UVA stays fairly steady all year and can even reach you through windows.",
+      "photo": "autumn leaves sunlight"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Myth: SPF makeup is *enough*",
+      "body": "You'd need far more foundation than anyone wears to get the SPF on the label. Wear real sunscreen underneath.",
+      "photo": "woman applying foundation"
+    },
+    {
+      "type": "list",
+      "title": "Make fall SPF *easy*",
+      "items": [
+        "Pick a *moisturizing* formula for drier skin",
+        "Make it your last morning step",
+        "Reapply if you're outside for hours"
+      ],
+      "photo": "sunscreen cream hand"
+    },
+    {
+      "type": "app",
+      "title": "*Glowtrack* scans your skin and builds your fall routine, with the *SPF step* included.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Sonbaharda SPF mitleri",
+    "caption": "Yaz bitince çoğu kişinin sessizce bıraktığı ilk adım güneş kremi oluyor. Ama gri gökyüzü ve serin havalar UV'yi kapatmıyor, tek başına makyaj da etiketteki korumayı nadiren veriyor. Sen bu mitlerden hangisine inanıyordun? #ciltbakımı #ciltbakimi #güneşkremi #sonbahar #skincare",
+    "slides": [
+      {
+        "text": "SPF sadece *yaz ürünü* değil",
+        "sub": "3. mit neredeyse herkesi kandırıyor"
+      },
+      {
+        "title": "Mit: bulutlu gün *sayılmaz*",
+        "body": "UV ışınları bulutların arasından geçer. Hava kapalı diye güneş kremini atlamak için bir sebep yok."
+      },
+      {
+        "title": "Mit: hava soğuksa güneş *zayıftır*",
+        "body": "Sıcaklık ile UV aynı şey değil. UVA yıl boyunca oldukça sabit kalır, camdan bile geçebilir."
+      },
+      {
+        "title": "Mit: SPF'li fondöten *yeter*",
+        "body": "Etiketteki korumayı almak için kimsenin sürmediği kadar fondöten gerekir. Altına ayrıca güneş kremi sür."
+      },
+      {
+        "title": "Sonbaharda SPF'yi *kolaylaştır*",
+        "items": [
+          "Kuru cilt için *nemlendirici* bir formül seç",
+          "Sabah rutininin son adımı yap",
+          "Saatlerce dışarıdaysan yenile"
+        ]
+      },
+      {
+        "title": "*Işılda* cildini tarar ve sonbahar rutinini *SPF adımıyla* birlikte hazırlar."
+      }
+    ]
+  }
+}
