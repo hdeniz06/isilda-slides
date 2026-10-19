@@ -1,16 +1,17 @@
-slide 1: pixabay px-4246065 (minimal skincare products)
-slide 2: pixabay px-10370290 (washing face sink)
-slide 3: pixabay px-8881740 (woman applying face cream)
-slide 4: pixabay px-9849748 (sunscreen on hand)
-slide 5: pixabay px-906136 (skincare serum bottle)
+slide 1: pixabay px-9161772 (autumn woman portrait)
+slide 2: pixabay px-8585634 (cloudy sky)
+slide 3: pixabay px-10497608 (autumn leaves sunlight)
+slide 4: pixabay px-5554310 (woman applying foundation)
+slide 5: pixabay px-3678928 (sunscreen cream hand)
 slide 6: app screenshot 0
 slide 6: app screenshot 0 (tr)
-rendered 2026-10-20-1-three-step-routine en+tr
-slide 1: pixabay px-6361059 (serum dropper bottle)
-slide 2: pixabay px-3783004 (serum drops hand)
-slide 3: pixabay px-4967111 (face cream jar)
-slide 4: pixabay px-1433693 (skincare bottles shelf)
-slide 5: pixabay px-1472777 (woman looking mirror)
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-10-20-2-serum-mistakes en+tr
+rendered 2026-10-21-1-fall-spf-myths en+tr
+slide 1: pixabay px-1721069 (woman face scrub)
+slide 2: pixabay px-4701296 (woman touching cheek)
+slide 3: pixabay px-1860617 (skincare bottles bathroom)
+slide 4: pixabay px-5382055 (serum dropper night)
+slide 5: pixabay px-8565531 (face scrub texture)
+slide 6: pixabay px-4233904 (weekly planner notebook)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-10-21-2-exfoliating-too-often en+tr
