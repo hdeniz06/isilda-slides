@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-22-1-heater-dry-skin",
+  "title": "Heater drying your skin",
+  "date": "2026-10-22",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F4",
+  "mentions_app": true,
+  "caption": "Heating season is starting, and warm indoor air is usually dry air. Tight skin after washing, flaky spots around your nose and chapped lips in the morning are common signs your room is pulling moisture from your skin. Which of these signs do you notice first when the heat comes on? #dryskin #winterskincare #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "Your heater is *drying your skin* if…", "sub": "sign #3 is easy to miss", "photo": "radiator winter room"},
+    {"type": "point", "num": 1, "title": "Your face feels *tight* after washing", "body": "Warm indoor air is dry. If your face feels tight minutes after cleansing, your skin is asking for moisture.", "photo": "woman washing face"},
+    {"type": "point", "num": 2, "title": "Flaky patches around your *nose*", "body": "Dry spots often show up first around the nose, brows and mouth, even when the rest of your face feels fine.", "photo": "woman face closeup"},
+    {"type": "point", "num": 3, "title": "Makeup *clings* to dry spots", "body": "If foundation only looks patchy once the heat is on, your skin likely needs more moisture, not more product.", "photo": "makeup foundation brush"},
+    {"type": "point", "num": 4, "title": "Your lips crack *overnight*", "body": "Sleeping in a heated room dries lips fast. Waking up with chapped lips is a classic indoor heating sign.", "photo": "lips closeup"},
+    {"type": "list", "title": "What to change *tonight*", "items": ["Run a humidifier in your bedroom", "Moisturize on *damp* skin, right after washing", "Switch to a richer cream at night", "Lip balm before bed", "Don't sit right next to the heater"], "photo": "humidifier steam"},
+    {"type": "app", "title": "Heating season is here. *Glowtrack* scans your skin and builds a routine for *drier* days.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Kalorifer ve kuru cilt",
+    "caption": "Kaloriferler yanmaya başladı ve sıcak ev havası genelde kuru hava demek. Yüzünü yıkayınca gerginlik, burun kenarında pul pul kuruluk ve sabah çatlamış dudaklar, odanın cildinden nemi çektiğinin yaygın işaretleri. Kaloriferler yanınca sen ilk hangisini fark ediyorsun? #ciltbakımı #ciltbakimi #kurucilt #ciltbariyeri #skincare",
+    "slides": [
+      {"text": "Kalorifer cildini *kurutuyor*, eğer…", "sub": "3. işaret hep gözden kaçıyor"},
+      {"title": "Yüzünü yıkayınca *geriliyor*", "body": "Kaloriferli odada hava kurudur. Yüzünü yıkadıktan birkaç dakika sonra gerginlik hissediyorsan cildin nem istiyor."},
+      {"title": "Burnunun kenarı *pul pul*", "body": "Kuru bölgeler genelde önce burun kenarında, kaşlarda ve ağız çevresinde çıkar; yüzünün geri kalanı normal olsa bile."},
+      {"title": "Fondöten kuru yerlere *yapışıyor*", "body": "Fondötenin sadece kaloriferler yanınca topak topak duruyorsa cildin daha fazla ürün değil, daha fazla nem istiyor."},
+      {"title": "Dudakların sabaha *çatlıyor*", "body": "Sıcak odada uyumak dudakları hızla kurutur. Sabah çatlak dudakla uyanmak kaloriferin klasik işaretidir."},
+      {"title": "Bu akşam *değiştir*", "items": ["Yatak odasında hava nemlendirici çalıştır", "Kremini yüzün *nemliyken* sür", "Gece için daha zengin bir krem seç", "Yatmadan dudak balmı sür", "Kaloriferin dibinde oturma"]},
+      {"title": "Kalorifer sezonu başladı. *Işılda* cildini tarar, *kuru* havaya uygun rutinini hazırlar."}
+    ]
+  }
+}

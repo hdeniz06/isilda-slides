@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-22-2-niacinamide-timeline",
+  "title": "Niacinamide timeline",
+  "date": "2026-10-22",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F9",
+  "mentions_app": true,
+  "caption": "Niacinamide is one of the most popular skincare ingredients right now, and a lot of people give up on it way too early. Skin changes slowly, a higher percentage isn't automatically better, and it plays well with most of your routine. How long did you use your last serum before deciding it didn't work? #niacinamide #skincareingredients #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "Your niacinamide isn't failing. *It's week two.*", "sub": "the real timeline is on slide 4", "photo": "woman looking mirror"},
+    {"type": "point", "num": 1, "title": "What niacinamide *actually* is", "body": "A form of vitamin B3. It's known for supporting the skin barrier and helping skin look less oily and more even.", "photo": "skincare serum bottle"},
+    {"type": "point", "num": 2, "title": "A higher % isn't *better*", "body": "Lots of research uses around 2–5%. Higher percentages don't automatically mean better results and can sting sensitive skin.", "photo": "laboratory glass beaker"},
+    {"type": "point", "num": 3, "title": "Judge it after *8 weeks*, not 8 days", "body": "Skin changes slowly. Use it daily for about 8–12 weeks before deciding whether it's doing anything for you.", "photo": "calendar planner desk"},
+    {"type": "point", "num": 4, "title": "It gets along with *vitamin C*", "body": "The old idea that they cancel each other out is outdated. Most skin can use both in the same routine.", "photo": "orange citrus slices"},
+    {"type": "list", "title": "How to use it *right*", "items": ["After cleansing, before moisturizer", "Once or twice a day", "Patch test first if your skin is sensitive", "Take a *day 1* photo in the same light"], "photo": "woman applying serum"},
+    {"type": "app", "title": "I built *Glowtrack* to log your skin score weekly. *Slow* changes are easy to miss.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Niasinamid zaman çizelgesi",
+    "caption": "Niasinamid şu an en popüler içeriklerden biri ve çoğumuz ondan çok erken vazgeçiyoruz. Cilt yavaş değişir, yüksek yüzde otomatik olarak daha iyi demek değil ve rutinindeki çoğu ürünle rahatça anlaşır. Sen son serumunu bırakmadan önce kaç hafta kullanmıştın? #ciltbakımı #ciltbakimi #niasinamid #serum #skincare",
+    "slides": [
+      {"text": "Niasinamid işe yaramıyor değil. *Daha 2. hafta.*", "sub": "gerçek süre 4. slaytta"},
+      {"title": "Niasinamid *aslında* ne?", "body": "B3 vitamininin bir formu. Cilt bariyerini desteklemesi, cildin daha az yağlı ve daha eşit tonlu görünmesine yardımıyla bilinir."},
+      {"title": "Yüksek yüzde daha *iyi* değil", "body": "Araştırmaların çoğu %2–5 civarını kullanıyor. Daha yüksek oran otomatik olarak daha iyi sonuç demek değil, hassas ciltte batabilir."},
+      {"title": "8 günde değil, *8 haftada* karar ver", "body": "Cilt yavaş değişir. İşe yarıyor mu diye karar vermeden önce yaklaşık 8–12 hafta her gün kullan."},
+      {"title": "*C vitaminiyle* anlaşır", "body": "Birbirlerini etkisiz bıraktıkları fikri eskide kaldı. Çoğu cilt ikisini aynı rutinde rahatça kullanabilir."},
+      {"title": "*Doğru* kullanım", "items": ["Temizlemeden sonra, nemlendiriciden önce", "Günde bir ya da iki kez", "Hassas ciltsen önce küçük bir bölgede dene", "Aynı ışıkta *1. gün* fotoğrafı çek"]},
+      {"title": "Yavaş değişimler gözden kaçar. *Işılda*'yı bu yüzden geliştirdim: cilt skorunu *hafta hafta* kaydeder."}
+    ]
+  }
+}
