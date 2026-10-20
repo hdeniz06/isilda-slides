@@ -1,17 +1,18 @@
-slide 1: pixabay px-9161772 (autumn woman portrait)
-slide 2: pixabay px-8585634 (cloudy sky)
-slide 3: pixabay px-10497608 (autumn leaves sunlight)
-slide 4: pixabay px-5554310 (woman applying foundation)
-slide 5: pixabay px-3678928 (sunscreen cream hand)
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-10-21-1-fall-spf-myths en+tr
-slide 1: pixabay px-1721069 (woman face scrub)
-slide 2: pixabay px-4701296 (woman touching cheek)
-slide 3: pixabay px-1860617 (skincare bottles bathroom)
-slide 4: pixabay px-5382055 (serum dropper night)
-slide 5: pixabay px-8565531 (face scrub texture)
-slide 6: pixabay px-4233904 (weekly planner notebook)
+slide 1: pixabay px-6881937 (radiator winter room)
+slide 2: pixabay px-5119820 (woman washing face)
+slide 3: pixabay px-4721342 (woman face closeup)
+slide 4: pixabay px-4742350 (makeup foundation brush)
+slide 5: pixabay px-468915 (lips closeup)
+slide 6: pixabay px-4705712 (humidifier steam)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-21-2-exfoliating-too-often en+tr
+rendered 2026-10-22-1-heater-dry-skin en+tr
+slide 1: pixabay px-6170373 (woman looking mirror)
+slide 2: pixabay px-2385087 (skincare serum bottle)
+slide 3: pixabay px-7768168 (laboratory glass beaker)
+slide 4: pixabay px-4233901 (calendar planner desk)
+slide 5: pixabay px-1830062 (orange citrus slices)
+slide 6: pixabay px-5274845 (woman applying serum)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-10-22-2-niacinamide-timeline en+tr
