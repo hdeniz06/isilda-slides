@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-23-1-forgotten-spots",
+  "title": "Spots your routine skips",
+  "date": "2026-10-23",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F6",
+  "mentions_app": true,
+  "caption": "Most routines stop right at the jawline, but your neck, ears, lips and the backs of your hands get sun and cold air too. In fall they're often the first places to feel dry, and they're easy to cover with what's already on your shelf. Which of these spots do you always forget? #skincaretips #skincareroutine #fallskincare #sunscreen #skintok",
+  "slides": [
+    {"type": "hook", "text": "Your skincare stops at your *jawline*", "sub": "and 4 spots pay for it. #3 dries out first", "photo": "woman neck closeup"},
+    {"type": "point", "num": 1, "title": "Your *neck*", "body": "Your neck gets the same sun as your face. Bring moisturizer and SPF down past your jawline every morning.", "photo": "woman applying neck cream"},
+    {"type": "point", "num": 2, "title": "Your *ears*", "body": "Ears get plenty of sun and almost nobody covers them. Rub leftover sunscreen over the tops and backs.", "photo": "woman ear profile"},
+    {"type": "point", "num": 3, "title": "Your *lips*", "body": "Lips dry out fast in cold, windy air. Keep a balm on you, and pick one with SPF when you're outside.", "photo": "lip balm"},
+    {"type": "point", "num": 4, "title": "The backs of your *hands*", "body": "Hands get washed and sunlit all day. Keep hand cream by the sink and add SPF on sunny days.", "photo": "hands applying lotion"},
+    {"type": "list", "title": "The *30-second* fix", "items": ["Spread face cream down to your *chest*", "Leftover SPF goes on your ears", "Balm before you head out", "Hand cream after every wash"], "photo": "skincare morning bathroom"},
+    {"type": "app", "title": "Cover past your jaw. For your face, *Glowtrack* scans your skin and tracks your *score* weekly.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Rutinde unutulan bölgeler",
+    "caption": "Çoğu rutin çene hizasında bitiyor ama boyun, kulaklar, dudaklar ve ellerin üstü de güneş ve soğuk hava görüyor. Sonbaharda ilk kuruyan yerler genelde bunlar ve rafındaki ürünlerle birkaç saniyede halledebilirsin. Sen bu bölgelerden hangisini hep unutuyorsun? #ciltbakımı #ciltbakimi #güneşkremi #sonbahar #skincare",
+    "slides": [
+      {"text": "Cilt bakımın *çenende* bitiyor", "sub": "4 bölge bunun bedelini ödüyor, 3. ilk kuruyor"},
+      {"title": "*Boynun*", "body": "Boynun da yüzün kadar güneş görür. Nemlendiriciyi ve güneş kremini her sabah çenenin altına kadar indir."},
+      {"title": "*Kulakların*", "body": "Kulaklar bol güneş alır ama neredeyse kimse sürmez. Elinde kalan güneş kremini kulaklarının üstüne ve arkasına yay."},
+      {"title": "*Dudakların*", "body": "Soğuk ve rüzgârlı havada dudaklar çabucak kurur. Yanında balm taşı, dışarıdaysan SPF'li olanı seç."},
+      {"title": "Ellerinin *üstü*", "body": "Eller gün boyu yıkanır ve güneş görür. Lavabonun yanına el kremi koy, güneşli günlerde SPF ekle."},
+      {"title": "*30 saniyelik* çözüm", "items": ["Yüz kremini *göğsüne* kadar yay", "Kalan güneş kremi kulaklara", "Çıkmadan önce dudak balmı", "Her yıkamadan sonra el kremi"]},
+      {"title": "Çenede durma. Yüzün içinse *Işılda* cildini tarar ve *skorunu* her hafta takip eder."}
+    ]
+  }
+}

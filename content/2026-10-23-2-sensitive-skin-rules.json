@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-23-2-sensitive-skin-rules",
+  "title": "Sensitive skin rules",
+  "date": "2026-10-23",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F8",
+  "mentions_app": true,
+  "caption": "If new products often leave your face stinging or red, the fix usually isn't another product. Slowing down, patch testing and keeping actives to one at a time make it much easier to see what your skin actually tolerates. Which product taught you the hard way to patch test? #sensitiveskin #skincaretips #skinbarrier #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "If your skin *stings* easily, save this", "sub": "rule #4 is the one everyone skips", "photo": "woman touching face mirror"},
+    {"type": "point", "num": 1, "title": "*One* new product at a time", "body": "Add one product, then wait about two weeks before the next. If your skin reacts, you'll know exactly why.", "photo": "skincare products shelf"},
+    {"type": "point", "num": 2, "title": "Patch test *first*", "body": "Try a small amount on your inner arm or behind your ear for a few days before it touches your face.", "photo": "cream on arm"},
+    {"type": "point", "num": 3, "title": "Fewer actives, *not more*", "body": "Don't stack acids, retinol and scrubs. One active at a time gives your skin barrier room to keep up.", "photo": "serum dropper bottles"},
+    {"type": "point", "num": 4, "title": "Check the label for *fragrance*", "body": "Fragrance is a common irritant. Fragrance-free products are a safer place to start when your skin reacts easily.", "photo": "reading cosmetic label"},
+    {"type": "list", "title": "Keep it *gentle* daily", "items": ["Lukewarm water, never hot", "Pat dry, don't rub", "A *simple* moisturizer", "SPF every morning"], "photo": "woman towel face"},
+    {"type": "app", "title": "Sensitive skin hates surprises. *Glowtrack* scans your skin weekly, so you can *track* each change.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Hassas cilt kuralları",
+    "caption": "Yeni ürünler yüzünü sık sık yakıyor ya da kızartıyorsa çözüm genelde bir ürün daha almak değil. Yavaş gitmek, yama testi yapmak ve aynı anda tek aktif kullanmak cildinin neyi kaldırdığını görmeyi çok kolaylaştırır. Yama testinin önemini sana hangi ürün acı yoldan öğretti? #ciltbakımı #ciltbakimi #hassascilt #ciltbariyeri #sensitiveskin",
+    "slides": [
+      {"text": "Hassas ciltsen *bunu kaydet*", "sub": "4. kuralı herkes atlıyor"},
+      {"title": "Aynı anda *tek* yeni ürün", "body": "Bir ürün ekle, sonrakine geçmeden yaklaşık iki hafta bekle. Cildin tepki verirse sebebini hemen bilirsin."},
+      {"title": "Önce *yama testi*", "body": "Yüzüne sürmeden önce birkaç gün kolunun iç kısmında ya da kulak arkasında az miktarda dene."},
+      {"title": "Aktifleri *azalt*", "body": "Asit, retinol ve peelingi üst üste bindirme. Aynı anda tek aktif, cilt bariyerine ayak uydurma payı bırakır."},
+      {"title": "Etikette *parfüme* bak", "body": "Parfüm yaygın bir tahriş edicidir. Cildin kolay tepki veriyorsa parfümsüz ürünlerle başlamak daha güvenli."},
+      {"title": "Her gün *nazik* ol", "items": ["Ilık su, asla sıcak değil", "Ovma, hafifçe tampon yap", "*Sade* bir nemlendirici", "Her sabah güneş kremi"]},
+      {"title": "Hassas cilt sürpriz sevmez. *Işılda* cildini her hafta tarar, her değişikliği *takip* edersin."}
+    ]
+  }
+}
