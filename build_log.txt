@@ -1,18 +1,18 @@
-slide 1: pixabay px-6881937 (radiator winter room)
-slide 2: pixabay px-5119820 (woman washing face)
-slide 3: pixabay px-4721342 (woman face closeup)
-slide 4: pixabay px-4742350 (makeup foundation brush)
-slide 5: pixabay px-468915 (lips closeup)
-slide 6: pixabay px-4705712 (humidifier steam)
+slide 1: pixabay px-3059143 (woman neck closeup)
+slide 2: pixabay px-2408508 (woman applying neck cream)
+slide 3: pixabay px-5938548 (woman ear profile)
+slide 4: pixabay px-1117571 (lip balm)
+slide 5: pixabay px-5501534 (hands applying lotion)
+slide 6: pixabay px-1979266 (skincare morning bathroom)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-22-1-heater-dry-skin en+tr
-slide 1: pixabay px-6170373 (woman looking mirror)
-slide 2: pixabay px-2385087 (skincare serum bottle)
-slide 3: pixabay px-7768168 (laboratory glass beaker)
-slide 4: pixabay px-4233901 (calendar planner desk)
-slide 5: pixabay px-1830062 (orange citrus slices)
-slide 6: pixabay px-5274845 (woman applying serum)
+rendered 2026-10-23-1-forgotten-spots en+tr
+slide 1: pixabay px-3591395 (woman touching face mirror)
+slide 2: pixabay px-614825 (skincare products shelf)
+slide 3: pixabay px-8110312 (cream on arm)
+slide 4: pixabay px-2536337 (serum dropper bottles)
+slide 5: pixabay px-1860642 (reading cosmetic label)
+slide 6: pixabay px-6523820 (woman towel face)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-22-2-niacinamide-timeline en+tr
+rendered 2026-10-23-2-sensitive-skin-rules en+tr
