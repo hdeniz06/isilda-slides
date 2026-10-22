@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-24-1-morning-vs-night",
+  "title": "Morning vs night routine",
+  "date": "2026-10-24",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F7",
+  "mentions_app": true,
+  "caption": "Your morning routine is mostly about protecting your skin through the day, while night is when actives like retinol and exfoliating acids make more sense. Splitting your steps this way keeps the routine simpler and easier to stick to. What's the one step you never skip at night? #skincareroutine #morningroutine #nightroutine #skincaretips #skintok",
+  "slides": [
+    {"type": "hook", "text": "Morning vs night: your routine *shouldn't match*", "sub": "slide 4 is where most people mix it up", "photo": "woman mirror bathroom morning"},
+    {"type": "point", "num": 1, "title": "Mornings are for *protection*", "body": "Daytime means sun and pollution. Your morning job: cleanse gently, add an antioxidant if you use one, moisturize, then SPF.", "photo": "woman morning sunlight face"},
+    {"type": "point", "num": 2, "title": "Vitamin C fits *mornings*", "body": "Many people use vitamin C in the morning, under sunscreen, as an extra antioxidant layer. SPF still goes last.", "photo": "vitamin c serum"},
+    {"type": "point", "num": 3, "title": "Nights are for your *actives*", "body": "Retinol breaks down in sunlight, so it belongs at night. Exfoliating acids fit evenings too, just not the same night.", "photo": "night skincare routine"},
+    {"type": "point", "num": 4, "title": "Your night cream can be *richer*", "body": "No makeup or SPF goes on top, so night is the time for a thicker moisturizer if your skin feels dry.", "photo": "face cream jar"},
+    {"type": "list", "title": "Save this *cheat sheet*", "items": ["AM: cleanse, vitamin C, moisturizer, *SPF*", "PM: wash off SPF, then *retinol or acid*", "PM: a slightly richer moisturizer", "No SPF needed at night"], "photo": "skincare products flat lay"},
+    {"type": "app", "title": "Mornings and nights need different steps. *Glowtrack* scans your skin and builds your *routine* around it.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Sabah ve akşam rutini",
+    "caption": "Sabah rutini daha çok cildini gün boyunca korumakla ilgili; retinol ve peeling asitleri gibi aktifler ise akşam daha mantıklı. Adımları böyle ayırınca rutin hem sadeleşiyor hem de sürdürmesi kolaylaşıyor. Akşamları asla atlamadığın adım hangisi? #ciltbakımı #ciltbakimi #sabahrutini #gecerutini #skincareroutine",
+    "slides": [
+      {"text": "Sabah ve akşam rutinin *aynı olmamalı*", "sub": "çoğu kişi 4. slaytta karıştırıyor"},
+      {"title": "Sabahın işi *korumak*", "body": "Gündüz güneş ve kirlilik var. Sabah görevin: nazikçe temizle, kullanıyorsan antioksidan ekle, nemlendir, en son güneş kremi."},
+      {"title": "C vitamini *sabaha* yakışır", "body": "Birçok kişi C vitaminini sabah, güneş kreminin altında ekstra antioksidan katmanı olarak kullanır. Güneş kremi yine en sonda."},
+      {"title": "Akşam *aktiflerin* zamanı", "body": "Retinol güneş ışığında bozulur, o yüzden yeri akşam. Peeling asitleri de akşama uyar, ama retinolle aynı gece değil."},
+      {"title": "Gece kremin *daha zengin* olabilir", "body": "Üstüne makyaj ya da güneş kremi gelmeyecek. Cildin kuru hissediyorsa daha yoğun nemlendiricinin zamanı gece."},
+      {"title": "Bu *kopya kâğıdını* kaydet", "items": ["Sabah: temizle, C vitamini, nemlendirici, *SPF*", "Akşam: güneş kremini temizle, *retinol ya da asit*", "Akşam: biraz daha zengin nemlendirici", "Gece güneş kremine gerek yok"]},
+      {"title": "Sabahın ve akşamın adımları farklı. *Işılda* cildini tarar, *rutinini* ona göre kurar."}
+    ]
+  }
+}

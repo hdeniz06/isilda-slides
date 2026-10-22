@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-24-2-double-cleansing",
+  "title": "Double cleansing: who needs it",
+  "date": "2026-10-24",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F5",
+  "mentions_app": true,
+  "caption": "Double cleansing shows up in a lot of viral routines, but whether you need it depends on what's on your skin by the end of the day. Water-resistant sunscreen and long-wear makeup are a good reason for two steps, while a light routine usually needs just one. Are you team one cleanse or two? #doublecleansing #skincaretips #skincareroutine #kbeauty #skintok",
+  "slides": [
+    {"type": "hook", "text": "Double cleansing isn't for *everyone*", "sub": "here's how to tell if you need it", "photo": "woman washing face"},
+    {"type": "point", "num": 1, "title": "What double cleansing *is*", "body": "An oil or balm cleanser first to melt sunscreen and makeup, then a gentle water-based cleanser to wash the rest away.", "photo": "cleansing oil bottle"},
+    {"type": "point", "num": 2, "title": "When it *makes sense*", "body": "Wearing water-resistant sunscreen, long-wear makeup or lots of product? A second cleanse helps get everything off at night.", "photo": "woman removing makeup"},
+    {"type": "point", "num": 3, "title": "When one cleanse is *enough*", "body": "Light sunscreen, little or no makeup, or dry, sensitive skin? One gentle cleanse at night is often plenty.", "photo": "foam cleanser hands"},
+    {"type": "point", "num": 4, "title": "*Mornings* need even less", "body": "Nothing heavy builds up on your skin overnight. A splash of water or a quick gentle cleanse is usually enough.", "photo": "splash water face"},
+    {"type": "list", "title": "Signs you're *over-cleansing*", "items": ["Skin feels *tight* after washing", "New dry or flaky patches", "Moisturizer stings when you apply it", "Redness right after washing"], "photo": "dry skin closeup"},
+    {"type": "app", "title": "Skip the viral routine. I built *Glowtrack* to scan your skin and build *yours*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Çift temizleme kime gerekli",
+    "caption": "Çift temizleme viral rutinlerde çok karşımıza çıkıyor ama sana gerekip gerekmediği akşam cildinde ne kaldığına bağlı. Suya dayanıklı güneş kremi ve kalıcı makyaj iki adım için iyi bir sebep; hafif bir rutinde ise çoğu zaman tek temizleme yetiyor. Sen hangi taraftasın, tek temizleme mi çift mi? #ciltbakımı #ciltbakimi #çifttemizleme #yüztemizleme #doublecleansing",
+    "slides": [
+      {"text": "Çift temizleme *herkese göre değil*", "sub": "sana gerekip gerekmediğini anlatıyorum"},
+      {"title": "Çift temizleme *nedir*?", "body": "Önce güneş kremi ve makyajı eritmek için yağ ya da balm temizleyici, sonra kalanı almak için nazik, su bazlı bir temizleyici."},
+      {"title": "Ne zaman *mantıklı*?", "body": "Suya dayanıklı güneş kremi, kalıcı makyaj ya da bolca ürün mü kullandın? Akşam ikinci temizleme hepsini çıkarmaya yardım eder."},
+      {"title": "Tek temizleme ne zaman *yeter*?", "body": "Hafif güneş kremi, az ya da hiç makyaj, ya da kuru, hassas cilt mi? Akşam tek nazik temizleme çoğu zaman yeterli."},
+      {"title": "*Sabahlar* daha da az ister", "body": "Gece cildinde ağır bir şey birikmez. Sabah biraz su ya da hızlı, nazik bir temizleme genelde yeter."},
+      {"title": "Fazla temizlediğinin *işaretleri*", "items": ["Yıkadıktan sonra *gerginlik*", "Yeni kuru, pul pul bölgeler", "Nemlendirici sürünce yanma", "Yıkar yıkamaz kızarıklık"]},
+      {"title": "Viral rutinler senin cildine göre yapılmadı. *Işılda*'yı cildini tarayıp *sana göre* rutin kursun diye geliştirdim."}
+    ]
+  }
+}
