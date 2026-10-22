@@ -1,18 +1,18 @@
-slide 1: pixabay px-3059143 (woman neck closeup)
-slide 2: pixabay px-2408508 (woman applying neck cream)
-slide 3: pixabay px-5938548 (woman ear profile)
-slide 4: pixabay px-1117571 (lip balm)
-slide 5: pixabay px-5501534 (hands applying lotion)
-slide 6: pixabay px-1979266 (skincare morning bathroom)
+slide 1: pixabay px-7745138 (woman mirror bathroom morning)
+slide 2: pixabay px-1466628 (woman morning sunlight face)
+slide 3: pixabay px-5917301 (vitamin c serum)
+slide 4: pixabay px-10022705 (night skincare routine)
+slide 5: pixabay px-2138841 (face cream jar)
+slide 6: pixabay px-4722268 (skincare products flat lay)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-23-1-forgotten-spots en+tr
-slide 1: pixabay px-3591395 (woman touching face mirror)
-slide 2: pixabay px-614825 (skincare products shelf)
-slide 3: pixabay px-8110312 (cream on arm)
-slide 4: pixabay px-2536337 (serum dropper bottles)
-slide 5: pixabay px-1860642 (reading cosmetic label)
-slide 6: pixabay px-6523820 (woman towel face)
+rendered 2026-10-24-1-morning-vs-night en+tr
+slide 1: pixabay px-2350565 (woman washing face)
+slide 2: pixabay px-5970211 (cleansing oil bottle)
+slide 3: pixabay px-828395 (woman removing makeup)
+slide 4: pixabay px-4891946 (foam cleanser hands)
+slide 5: pixabay px-5536515 (splash water face)
+slide 6: pixabay px-10436890 (dry skin closeup)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-23-2-sensitive-skin-rules en+tr
+rendered 2026-10-24-2-double-cleansing en+tr
