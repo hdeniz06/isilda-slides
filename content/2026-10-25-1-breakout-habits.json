@@ -14,7 +14,7 @@
     {"type": "point", "num": 3, "title": "Hair products on your *hairline*", "body": "Oils, gels and dry shampoo can clog pores along your forehead. Keep hair off your face and wash your hairline well.", "photo": "woman hair styling"},
     {"type": "point", "num": 4, "title": "The same *pillowcase* all week", "body": "It collects oil, sweat and leftover product every night. Swap it often, and never sleep in your makeup.", "photo": "white pillow bed"},
     {"type": "list", "title": "Easy *swaps* to start tonight", "items": ["Hands *off* your face", "Spot patch instead of picking", "Hair up before skincare", "Fresh pillowcase twice a week"], "photo": "woman bedtime skincare"},
-    {"type": "app", "title": "Swap one habit at a time, then scan. *Glowtrack* gives your skin a *score* you can compare.", "screenshot": 0}
+    {"type": "app", "title": "Swap one habit, then scan. *Glowtrack* gives your skin a *score* you can compare.", "screenshot": 0}
   ],
   "tr": {
     "title": "Sivilceyi besleyen alışkanlıklar",
@@ -26,7 +26,7 @@
       {"title": "Alnında *saç ürünleri*", "body": "Yağlar, jöleler ve kuru şampuan alın çizgisinde gözenekleri tıkayabilir. Saçını yüzünden uzak tut, saç diplerini iyi yıka."},
       {"title": "Bütün hafta aynı *yastık kılıfı*", "body": "Her gece yağ, ter ve ürün kalıntısı toplar. Sık değiştir, makyajla da asla uyuma."},
       {"title": "Bu akşam başlayabileceğin *değişiklikler*", "items": ["Ellerini yüzünden *çek*", "Sıkmak yerine sivilce bandı", "Bakımdan önce saçını topla", "Haftada iki kez temiz yastık kılıfı"]},
-      {"title": "Her seferinde bir alışkanlığı değiştir, sonra tarat. *Işılda* cildine karşılaştırabileceğin bir *skor* verir."}
+      {"title": "Bir alışkanlığı değiştir, sonra tarat. *Işılda* cildine karşılaştırabileceğin bir *skor* verir."}
     ]
   }
 }
