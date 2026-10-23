@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-25-1-breakout-habits",
+  "title": "Habits behind your breakouts",
+  "date": "2026-10-25",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F2",
+  "mentions_app": true,
+  "caption": "Breakouts aren't only about the products you use. Small everyday habits like resting your face on your hands, picking, hair products and an old pillowcase can all add up. None of these swaps cost anything, so they're an easy place to start. Which one are you guilty of? #skincaretips #breakouts #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "4 daily habits *feeding* your breakouts", "sub": "#4 happens every night", "photo": "woman looking mirror skin"},
+    {"type": "point", "num": 1, "title": "Resting your face on your *hands*", "body": "Chin in your palm, fingers on your cheek. Your hands carry oil and dirt straight to your face all day.", "photo": "woman hand on chin"},
+    {"type": "point", "num": 2, "title": "*Picking* at every spot", "body": "Squeezing pushes things deeper and can leave a dark mark that sticks around much longer than the spot itself.", "photo": "woman touching face mirror"},
+    {"type": "point", "num": 3, "title": "Hair products on your *hairline*", "body": "Oils, gels and dry shampoo can clog pores along your forehead. Keep hair off your face and wash your hairline well.", "photo": "woman hair styling"},
+    {"type": "point", "num": 4, "title": "The same *pillowcase* all week", "body": "It collects oil, sweat and leftover product every night. Swap it often, and never sleep in your makeup.", "photo": "white pillow bed"},
+    {"type": "list", "title": "Easy *swaps* to start tonight", "items": ["Hands *off* your face", "Spot patch instead of picking", "Hair up before skincare", "Fresh pillowcase twice a week"], "photo": "woman bedtime skincare"},
+    {"type": "app", "title": "Swap one habit at a time, then scan. *Glowtrack* gives your skin a *score* you can compare.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Sivilceyi besleyen alışkanlıklar",
+    "caption": "Sivilceler sadece kullandığın ürünlerle ilgili değil. Yüzünü eline yaslamak, sivilceyi sıkmak, saç ürünleri ve bir hafta değişmeyen yastık kılıfı gibi küçük günlük alışkanlıklar da birikiyor. Bu değişikliklerin hiçbiri para istemiyor, başlamak için kolay bir yer. Sen hangisini yapıyorsun, itiraf et? #ciltbakımı #ciltbakimi #sivilce #ciltbakımırutini #skincaretips",
+    "slides": [
+      {"text": "Sivilceni *besleyen* 4 alışkanlık", "sub": "4. her gece oluyor"},
+      {"title": "Yüzünü *eline* yaslamak", "body": "Çene avuçta, parmaklar yanakta. Ellerin gün boyu yağı ve kiri doğrudan yüzüne taşıyor."},
+      {"title": "Her sivilceyi *sıkmak*", "body": "Sıkmak işi daha derine iter, sivilceden çok daha uzun süre kalan koyu bir iz bırakabilir."},
+      {"title": "Alnında *saç ürünleri*", "body": "Yağlar, jöleler ve kuru şampuan alın çizgisinde gözenekleri tıkayabilir. Saçını yüzünden uzak tut, saç diplerini iyi yıka."},
+      {"title": "Bütün hafta aynı *yastık kılıfı*", "body": "Her gece yağ, ter ve ürün kalıntısı toplar. Sık değiştir, makyajla da asla uyuma."},
+      {"title": "Bu akşam başlayabileceğin *değişiklikler*", "items": ["Ellerini yüzünden *çek*", "Sıkmak yerine sivilce bandı", "Bakımdan önce saçını topla", "Haftada iki kez temiz yastık kılıfı"]},
+      {"title": "Her seferinde bir alışkanlığı değiştir, sonra tarat. *Işılda* cildine karşılaştırabileceğin bir *skor* verir."}
+    ]
+  }
+}

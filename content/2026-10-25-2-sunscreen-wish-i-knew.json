@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-25-2-sunscreen-wish-i-knew",
+  "title": "Sunscreen: what I wish I knew",
+  "date": "2026-10-25",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F10",
+  "mentions_app": true,
+  "caption": "Wearing sunscreen is step one, but how you use it matters just as much. Most of us use too little, put it on right before walking out, and keep the same bottle for years. A few small fixes make the product you already own work the way it's labeled. Which of these did you not know? #sunscreen #spf #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "Wish I knew this *sooner* about sunscreen", "sub": "#3 is in almost every bathroom", "photo": "sunscreen bottle bathroom"},
+    {"type": "point", "num": 1, "title": "You're probably using *too little*", "body": "The SPF on the label is tested with a generous layer. A common guide: two finger-lengths for your face and neck.", "photo": "sunscreen cream fingers"},
+    {"type": "point", "num": 2, "title": "Put it on *before* you leave", "body": "Apply it about 15 minutes before heading out, so it has time to settle instead of rubbing off on your scarf.", "photo": "woman applying sunscreen face"},
+    {"type": "point", "num": 3, "title": "Your bottle has an *expiration date*", "body": "Sunscreen expires. No date on it? Toss it after about three years, or sooner if the color or texture changes.", "photo": "skincare bottles shelf"},
+    {"type": "point", "num": 4, "title": "Sweat and towels *wipe it off*", "body": "Toweling off, sweating or swimming removes it. Reapply after, even if the bottle says water-resistant.", "photo": "woman towel face"},
+    {"type": "list", "title": "What to look for on the *label*", "items": ["*Broad spectrum*", "SPF 30 or higher", "A texture you'll actually wear daily"], "photo": "sunscreen tube hand"},
+    {"type": "app", "title": "Make sunscreen a habit. *Glowtrack* scans your skin and keeps your *routine* in one place.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Güneş kremi: keşke önceden bilseydim",
+    "caption": "Güneş kremi sürmek ilk adım ama nasıl kullandığın da en az onun kadar önemli. Çoğumuz az sürüyoruz, kapıdan çıkarken sürüyoruz ve aynı şişeyi yıllarca saklıyoruz. Birkaç küçük düzeltmeyle elindeki ürün etikette yazdığı gibi çalışır. Bunlardan hangisini bilmiyordun? #ciltbakımı #ciltbakimi #güneşkremi #spf #sunscreen",
+    "slides": [
+      {"text": "Güneş kremi hakkında *keşke* önceden bilseydim", "sub": "3. neredeyse her banyoda var"},
+      {"title": "Büyük ihtimalle *az* sürüyorsun", "body": "Etiketteki SPF bol bir katmanla test edilir. Yaygın ölçü: yüz ve boyun için iki parmak boyu."},
+      {"title": "Çıkmadan *önce* sür", "body": "Dışarı çıkmadan yaklaşık 15 dakika önce sür ki cildine otursun, atkına bulaşıp gitmesin."},
+      {"title": "Şişenin de *son kullanma tarihi* var", "body": "Güneş kremi bozulur. Üzerinde tarih yoksa yaklaşık üç yıl sonra at, rengi ya da kıvamı değiştiyse daha erken."},
+      {"title": "Ter ve havlu onu *siler*", "body": "Havluyla kurulanmak, terlemek ya da yüzmek kremi alır. Şişede suya dayanıklı yazsa bile sonrasında yenile."},
+      {"title": "Etikette *nelere* bakmalı", "items": ["*Geniş spektrum*", "SPF 30 ya da üstü", "Her gün gerçekten süreceğin bir kıvam"]},
+      {"title": "Güneş kremini alışkanlık yap. *Işılda*'yı cildini tarasın, *rutinin* tek yerde dursun diye geliştirdim."}
+    ]
+  }
+}
