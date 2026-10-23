@@ -1,18 +1,18 @@
-slide 1: pixabay px-7745138 (woman mirror bathroom morning)
-slide 2: pixabay px-1466628 (woman morning sunlight face)
-slide 3: pixabay px-5917301 (vitamin c serum)
-slide 4: pixabay px-10022705 (night skincare routine)
-slide 5: pixabay px-2138841 (face cream jar)
-slide 6: pixabay px-4722268 (skincare products flat lay)
+slide 1: pixabay px-4754973 (woman looking mirror skin)
+slide 2: pixabay px-4339180 (woman hand on chin)
+slide 3: pixabay px-7401562 (woman touching face mirror)
+slide 4: pixabay px-4613470 (woman hair styling)
+slide 5: pixabay px-2004775 (white pillow bed)
+slide 6: pixabay px-4525646 (woman bedtime skincare)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-24-1-morning-vs-night en+tr
-slide 1: pixabay px-2350565 (woman washing face)
-slide 2: pixabay px-5970211 (cleansing oil bottle)
-slide 3: pixabay px-828395 (woman removing makeup)
-slide 4: pixabay px-4891946 (foam cleanser hands)
-slide 5: pixabay px-5536515 (splash water face)
-slide 6: pixabay px-10436890 (dry skin closeup)
+rendered 2026-10-25-1-breakout-habits en+tr
+slide 1: pixabay px-320691 (sunscreen bottle bathroom)
+slide 2: pixabay px-4908765 (sunscreen cream fingers)
+slide 3: pixabay px-932089 (woman applying sunscreen face)
+slide 4: pixabay px-6088905 (skincare bottles shelf)
+slide 5: pixabay px-6842902 (woman towel face)
+slide 6: pixabay px-5122492 (sunscreen tube hand)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-24-2-double-cleansing en+tr
+rendered 2026-10-25-2-sunscreen-wish-i-knew en+tr
