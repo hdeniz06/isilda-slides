@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-26-2-pore-myths",
+  "title": "Pore myths",
+  "date": "2026-10-26",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F5",
+  "mentions_app": true,
+  "caption": "Pores get blamed for a lot, and most of the advice about them online doesn't hold up. They don't open or close, their size is mostly set by genetics, age and oil, and visible pores are completely normal. What you can change is how they look, with a few boring basics. Which pore myth did you believe the longest? #pores #skincaremyths #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "Your pores aren't *opening* in the shower", "sub": "and 3 more pore myths", "photo": "steamy bathroom shower"},
+    {"type": "point", "num": 1, "title": "Pores don't open or *close*", "body": "Pores have no muscles. Steam softens oil so skin feels cleaner, and cold water won't shut them.", "photo": "woman splashing water face"},
+    {"type": "point", "num": 2, "title": "You can't *shrink* them for good", "body": "Pore size is largely set by genetics, age and oil. Products can make them look smaller, not change their size.", "photo": "skincare serum bottle"},
+    {"type": "point", "num": 3, "title": "Visible pores don't mean *dirty* skin", "body": "Visible pores are normal, especially on the nose and cheeks. Scrubbing harder won't make them disappear.", "photo": "woman close up face"},
+    {"type": "point", "num": 4, "title": "Pore strips aren't a *lasting* fix", "body": "They pull out what's on the surface, but pores fill back up. Strips can also irritate sensitive skin.", "photo": "woman nose mirror"},
+    {"type": "list", "title": "What actually helps the *look* of pores", "items": ["Gentle cleansing, morning and night", "A *non-comedogenic* moisturizer", "Daily sunscreen", "Niacinamide or a retinoid, added slowly"], "photo": "skincare products bathroom"},
+    {"type": "app", "title": "Magnifying mirrors exaggerate pores. I built *Glowtrack* to scan and *score* your skin instead.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Gözenek efsaneleri",
+    "caption": "Gözenekler pek çok şeyin suçlusu sayılıyor ama internette dolaşan tavsiyelerin çoğu tutmuyor. Gözenekler açılıp kapanmaz, boyutlarını büyük ölçüde genetik, yaş ve yağlanma belirler ve görünür gözenekler gayet normaldir. Değiştirebileceğin şey görünümleri, onu da birkaç basit adımla yaparsın. En uzun süre hangi efsaneye inandın? #ciltbakımı #ciltbakimi #gözenek #ciltbakımırutini #skincare",
+    "slides": [
+      {"text": "Gözeneklerin duşta *açılmıyor*", "sub": "3 efsane daha var"},
+      {"title": "Gözenekler açılıp *kapanmaz*", "body": "Gözeneklerin kası yok. Buhar yağı yumuşattığı için cilt temiz hissettirir, soğuk su da onları kapatmaz."},
+      {"title": "Kalıcı olarak *küçülmezler*", "body": "Gözenek boyutunu büyük ölçüde genetik, yaş ve yağlanma belirler. Ürünler daha küçük gösterir ama boyutu değiştirmez."},
+      {"title": "Görünür gözenek *kirli* cilt demek değil", "body": "Özellikle burunda ve yanaklarda gözeneklerin görünmesi normal. Daha sert ovalamak onları yok etmez."},
+      {"title": "Burun bandı *kalıcı* çözüm değil", "body": "Sadece yüzeydekini çeker, gözenekler yine dolar. Hassas ciltte tahrişe de yol açabilir."},
+      {"title": "Görünümüne gerçekten *ne* iyi gelir", "items": ["Sabah ve akşam nazik temizlik", "*Gözenek tıkamayan* bir nemlendirici", "Her gün güneş kremi", "Yavaş yavaş eklenen niasinamid ya da retinoid"]},
+      {"title": "Büyüteçli aynalar gözenekleri olduğundan büyük gösterir. Cildini tarayıp *puanlasın* diye *Işılda*'yı geliştirdim."}
+    ]
+  }
+}

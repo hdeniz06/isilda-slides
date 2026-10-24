@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-26-1-dehydrated-not-dry",
+  "title": "Dehydrated, not dry",
+  "date": "2026-10-26",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F4",
+  "mentions_app": true,
+  "caption": "Dry and dehydrated sound like the same thing, but they aren't. Dry skin is a skin type that makes less oil, while dehydrated skin is low on water, and any skin type can get there, especially once the weather turns cold. Knowing which one you have changes what your routine needs. Which sign do you notice most? #dehydratedskin #dryskin #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "Your skin is *dehydrated*, not dry, if…", "sub": "oily skin can be too, see #3", "photo": "woman looking mirror face"},
+    {"type": "point", "num": 1, "title": "It feels *tight* after washing", "body": "That pulled feeling a few minutes after cleansing is a common sign your skin is low on water.", "photo": "washing face sink"},
+    {"type": "point", "num": 2, "title": "It looks *dull* by noon", "body": "Skin low on water can look flat and tired, and makeup may settle or look patchy later in the day.", "photo": "tired woman face"},
+    {"type": "point", "num": 3, "title": "It's *shiny* and tight at once", "body": "Oily skin can be dehydrated too. Oil isn't the same as water, so skipping moisturizer can backfire.", "photo": "woman touching cheek"},
+    {"type": "point", "num": 4, "title": "Fine lines show up, then *fade*", "body": "Lines that look sharper on dry days and soften after moisturizer often point to dehydration, not aging.", "photo": "woman applying face cream"},
+    {"type": "list", "title": "Dry vs dehydrated, the *quick* version", "items": ["*Dry* is a skin type: low on oil", "*Dehydrated* is a state: low on water", "Any skin type can be dehydrated"], "photo": "moisturizer jar hand"},
+    {"type": "app", "title": "Dry or just dehydrated? *Glowtrack* scans your skin and builds a *routine* for what it needs.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Kuru değil, susuz cilt",
+    "caption": "Kuru cilt ve susuz cilt aynı şey gibi geliyor ama değil. Kuru cilt az yağ üreten bir cilt tipi; susuz cilt ise suyu azalmış cilt ve havalar soğudukça her cilt tipi bu duruma düşebilir. Hangisi olduğunu bilmek rutininde neye ihtiyacın olduğunu değiştirir. En çok hangi işareti fark ediyorsun? #ciltbakımı #ciltbakimi #kurucilt #susuzcilt #skincare",
+    "slides": [
+      {"text": "Cildin kuru değil, *susuz* olabilir", "sub": "yağlı ciltte de olur, 3'e bak"},
+      {"title": "Yıkayınca *geriliyor*", "body": "Temizledikten birkaç dakika sonra gelen o gerginlik hissi, cildinin suya ihtiyacı olduğunun yaygın bir işareti."},
+      {"title": "Öğleye doğru *donuklaşıyor*", "body": "Suyu azalan cilt yorgun ve sönük görünebilir, makyaj da gün içinde kırışıp yer yer topaklanabilir."},
+      {"title": "Hem *parlıyor* hem geriliyor", "body": "Yağlı cilt de susuz kalabilir. Yağ ile su aynı şey değil, nemlendiriciyi atlamak ters tepebilir."},
+      {"title": "İnce çizgiler gelip *gidiyor*", "body": "Kuru günlerde belirginleşip nemlendiriciden sonra yumuşayan çizgiler çoğu zaman yaşlanmayı değil susuzluğu gösterir."},
+      {"title": "Kuru mu susuz mu, *kısaca*", "items": ["*Kuru* bir cilt tipi: yağı az", "*Susuz* bir durum: suyu az", "Her cilt tipi susuz kalabilir"]},
+      {"title": "Kuru mu, yoksa sadece susuz mu? *Işılda* cildini tarar ve ihtiyacına göre *rutin* oluşturur."}
+    ]
+  }
+}
