@@ -1,18 +1,18 @@
-slide 1: pixabay px-4754973 (woman looking mirror skin)
-slide 2: pixabay px-4339180 (woman hand on chin)
-slide 3: pixabay px-7401562 (woman touching face mirror)
-slide 4: pixabay px-4773351 (woman hair styling)
-slide 5: pixabay px-2004775 (white pillow bed)
-slide 6: pixabay px-4525646 (woman bedtime skincare)
+slide 1: pixabay px-2072907 (woman looking mirror face)
+slide 2: pixabay px-3292287 (washing face sink)
+slide 3: pixabay px-5941460 (tired woman face)
+slide 4: pixabay px-5505598 (woman touching cheek)
+slide 5: pixabay px-1506653 (woman applying face cream)
+slide 6: pixabay px-4497386 (moisturizer jar hand)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-25-1-breakout-habits en+tr
-slide 1: pixabay px-320691 (sunscreen bottle bathroom)
-slide 2: pixabay px-4908765 (sunscreen cream fingers)
-slide 3: pixabay px-932089 (woman applying sunscreen face)
-slide 4: pixabay px-6088905 (skincare bottles shelf)
-slide 5: pixabay px-6842902 (woman towel face)
-slide 6: pixabay px-5122492 (sunscreen tube hand)
+rendered 2026-10-26-1-dehydrated-not-dry en+tr
+slide 1: pixabay px-5415647 (steamy bathroom shower)
+slide 2: pixabay px-5273705 (woman splashing water face)
+slide 3: pixabay px-2535803 (skincare serum bottle)
+slide 4: pixabay px-2306831 (woman close up face)
+slide 5: pixabay px-4447229 (woman nose mirror)
+slide 6: pixabay px-5032866 (skincare products bathroom)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-25-2-sunscreen-wish-i-knew en+tr
+rendered 2026-10-26-2-pore-myths en+tr
