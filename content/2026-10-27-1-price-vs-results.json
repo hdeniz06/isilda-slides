@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-27-1-price-vs-results",
+  "title": "Price vs results",
+  "date": "2026-10-27",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F6",
+  "mentions_app": true,
+  "caption": "A higher price tag feels like a promise, but it mostly pays for packaging, fragrance and marketing. The same key ingredients show up at every price point, and the step doing the most work in most routines costs very little. Spend on what you'll actually use every day. What's the most expensive product you regret buying? #skincaretips #budgetskincare #skincareroutine #skincaremyths #skintok",
+  "slides": [
+    {"type": "hook", "text": "Your *priciest* product isn't doing the most work", "sub": "the step that is → slide 5", "photo": "skincare products shelf"},
+    {"type": "point", "num": 1, "title": "Price pays for *more* than formula", "body": "Packaging, fragrance and marketing all add to the cost. A higher price alone doesn't tell you a product works better.", "photo": "luxury cosmetics jar"},
+    {"type": "point", "num": 2, "title": "Read the *ingredients*, not the label", "body": "Words like \"luxury\" or \"clean\" don't tell you what's inside. Check the ingredient list for what you actually want.", "photo": "reading product label"},
+    {"type": "point", "num": 3, "title": "Same ingredient, very *different* prices", "body": "Niacinamide, retinol and hyaluronic acid show up in budget and luxury products alike. Paying more doesn't guarantee a better version.", "photo": "skincare serum dropper"},
+    {"type": "point", "num": 4, "title": "The hardest-working step is *cheap*", "body": "Daily broad-spectrum SPF 30 or higher protects your skin from UV, and good options exist at drugstore prices.", "photo": "sunscreen bottle hand"},
+    {"type": "list", "title": "Where your money *matters* more", "items": ["A sunscreen you'll *actually* wear daily", "A moisturizer that suits your skin type", "Finishing a product before judging it", "*Consistency*, not more products"], "photo": "woman applying face cream"},
+    {"type": "app", "title": "Before buying more, scan first. *Glowtrack* scores your skin and builds a routine that *fits* it.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Fiyat mı, sonuç mu",
+    "caption": "Yüksek fiyat bir söz gibi geliyor ama çoğu zaman ambalajın, parfümün ve reklamın parasını ödüyoruz. Aynı temel içerikler her fiyat aralığında var ve çoğu rutinde en çok işi yapan adım aslında ucuz. Paranı her gün gerçekten kullanacağın ürünlere harca. Aldığına en çok pişman olduğun pahalı ürün hangisi? #ciltbakımı #ciltbakimi #ciltbakımırutini #uygunfiyatlıciltbakımı #skincare",
+    "slides": [
+      {"text": "En *pahalı* ürünün en çok işi yapmıyor", "sub": "asıl işi yapan adım 5. slaytta"},
+      {"title": "Fiyat sadece formül *değil*", "body": "Ambalaj, parfüm ve reklam da fiyata ekleniyor. Bir ürünün pahalı olması tek başına daha iyi çalıştığını göstermez."},
+      {"title": "Etikete değil *içeriğe* bak", "body": "\"Lüks\" ya da \"temiz\" gibi kelimeler içinde ne olduğunu söylemez. İçerik listesinde aradığın madde var mı, ona bak."},
+      {"title": "Aynı içerik, bambaşka *fiyatlar*", "body": "Niasinamid, retinol ve hyalüronik asit hem uygun fiyatlı hem lüks ürünlerde var. Fazla ödemek daha iyisini garanti etmez."},
+      {"title": "En çok çalışan adım *ucuz*", "body": "Her gün geniş spektrumlu, en az SPF 30 güneş kremi cildini UV'den korur. İyi seçenekleri eczanede uygun fiyata bulursun."},
+      {"title": "Paranın *gerçekten* değdiği yerler", "items": ["Her gün *sürmek isteyeceğin* bir güneş kremi", "Cilt tipine uyan bir nemlendirici", "Yargılamadan önce ürünü bitirmek", "Daha çok ürün değil, *düzen*"]},
+      {"title": "Yeni bir şey almadan önce cildini tarat. *Işılda* cildini puanlar ve ona *uyan* rutini hazırlar."}
+    ]
+  }
+}

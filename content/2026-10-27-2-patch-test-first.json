@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-27-2-patch-test-first",
+  "title": "Patch test first",
+  "date": "2026-10-27",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F3",
+  "mentions_app": true,
+  "caption": "Every week there's a new viral product, and it's tempting to put it all over your face the night it arrives. A simple patch test on a hidden spot tells you how your skin reacts before your whole face finds out. It takes a little patience, but it saves a lot of guessing. Do you patch test, or do you go straight in? #patchtest #skincaretips #sensitiveskin #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "Stop putting new products *straight* on your face", "sub": "the 7-day test is on slide 4", "photo": "woman holding skincare bottle"},
+    {"type": "point", "num": 1, "title": "Your face isn't the *test* area", "body": "A new product can sting, itch or cause redness. Finding that out on a small patch beats finding out on your whole face.", "photo": "woman looking mirror face"},
+    {"type": "point", "num": 2, "title": "Pick a *hidden* spot", "body": "Try it on the inside of your elbow or behind your ear, somewhere that won't show if it reacts.", "photo": "applying lotion arm"},
+    {"type": "point", "num": 3, "title": "Test it for *7 to 10 days*", "body": "Apply it to the same spot twice a day. Some reactions don't show up on the first try.", "photo": "calendar notebook pen"},
+    {"type": "point", "num": 4, "title": "One new product at a *time*", "body": "Add products one by one, a couple of weeks apart. If something reacts, you'll know exactly which one it was.", "photo": "skincare products table"},
+    {"type": "list", "title": "Wash it off if you notice", "items": ["*Stinging* that doesn't fade", "Redness or itching", "Bumps or a rash", "If it gets worse, see a *dermatologist*"], "photo": "washing face sink"},
+    {"type": "app", "title": "Trying something new? I built *Glowtrack* to track your skin score as it *settles in*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Önce yama testi",
+    "caption": "Her hafta yeni bir viral ürün çıkıyor ve eline geçtiği akşam bütün yüzüne sürmek çok cazip. Görünmeyen bir bölgede yapacağın basit bir yama testi, cildinin nasıl tepki verdiğini yüzün öğrenmeden önce gösterir. Biraz sabır ister ama seni çok tahminden kurtarır. Sen yama testi yapıyor musun, yoksa direkt yüze mi? #ciltbakımı #ciltbakimi #hassascilt #yamatesti #skincare",
+    "slides": [
+      {"text": "Yeni ürünü *direkt* yüzüne sürmeyi bırak", "sub": "7 günlük test 4. slaytta"},
+      {"title": "Deneme alanı yüzün *değil*", "body": "Yeni bir ürün batma, kaşıntı ya da kızarıklık yapabilir. Bunu bütün yüzünde değil, küçük bir alanda öğrenmek çok daha iyi."},
+      {"title": "*Görünmeyen* bir yer seç", "body": "Dirseğinin iç kısmında ya da kulağının arkasında dene; tepki verse bile kimse görmez."},
+      {"title": "*7–10 gün* boyunca dene", "body": "Günde iki kez aynı yere sür. Bazı tepkiler ilk denemede ortaya çıkmaz."},
+      {"title": "Her seferinde *tek* yeni ürün", "body": "Ürünleri birer birer, birkaç hafta arayla ekle. Bir şey tepki verirse hangisi olduğunu hemen anlarsın."},
+      {"title": "Şunları fark edersen yıka", "items": ["Geçmeyen bir *batma* hissi", "Kızarıklık ya da kaşıntı", "Sivilcemsi kabarıklık ya da döküntü", "Kötüleşirse bir *dermatoloğa* görün"]},
+      {"title": "Yeni bir şey mi deniyorsun? *Işılda*'yı, cildin alışırken skorunu *takip* edesin diye geliştirdim."}
+    ]
+  }
+}
