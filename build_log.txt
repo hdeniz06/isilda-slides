@@ -1,18 +1,18 @@
-slide 1: pixabay px-2072907 (woman looking mirror face)
-slide 2: pixabay px-3292287 (washing face sink)
-slide 3: pixabay px-5941460 (tired woman face)
-slide 4: pixabay px-5505598 (woman touching cheek)
-slide 5: pixabay px-1506653 (woman applying face cream)
-slide 6: pixabay px-4497386 (moisturizer jar hand)
+slide 1: pixabay px-3083516 (skincare products shelf)
+slide 2: pixabay px-5734739 (luxury cosmetics jar)
+slide 3: pixabay px-4865366 (reading product label)
+slide 4: pixabay px-3191102 (skincare serum dropper)
+slide 5: pixabay px-19220 (sunscreen bottle hand)
+slide 6: pixabay px-7905926 (woman applying face cream)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-26-1-dehydrated-not-dry en+tr
-slide 1: pixabay px-5415647 (steamy bathroom shower)
-slide 2: pixabay px-5273705 (woman splashing water face)
-slide 3: pixabay px-2535803 (skincare serum bottle)
-slide 4: pixabay px-2306831 (woman close up face)
-slide 5: pixabay px-4447229 (woman nose mirror)
-slide 6: pixabay px-5032866 (skincare products bathroom)
+rendered 2026-10-27-1-price-vs-results en+tr
+slide 1: pixabay px-5409124 (woman holding skincare bottle)
+slide 2: pixabay px-5549367 (woman looking mirror face)
+slide 3: pixabay px-4869876 (applying lotion arm)
+slide 4: pixabay px-4233903 (calendar notebook pen)
+slide 5: pixabay px-614826 (skincare products table)
+slide 6: pixabay px-4898098 (washing face sink)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-26-2-pore-myths en+tr
+rendered 2026-10-27-2-patch-test-first en+tr
