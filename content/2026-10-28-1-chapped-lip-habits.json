@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-28-1-chapped-lip-habits",
+  "title": "Chapped lip habits",
+  "date": "2026-10-28",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F1",
+  "mentions_app": true,
+  "caption": "Cold air and indoor heating are back, and lips are usually the first place it shows. Most of the damage comes from small habits we barely notice, like licking or peeling. A few easy swaps keep your lips comfortable all season. Which of these habits is the hardest for you to drop? #chappedlips #lipcare #winterskincare #skincaretips #skintok",
+  "slides": [
+    {"type": "hook", "text": "You're probably making your *chapped lips* worse", "sub": "#4 is the easiest fix", "photo": "woman lips closeup"},
+    {"type": "point", "num": 1, "title": "*Licking* them for relief", "body": "Saliva evaporates fast and takes moisture with it, so your lips end up drier than before. A balm works better.", "photo": "woman winter scarf"},
+    {"type": "point", "num": 2, "title": "*Peeling* off the flakes", "body": "Pulling dry skin off can leave lips raw. Let the flakes soften under balm and come off on their own.", "photo": "woman touching lips"},
+    {"type": "point", "num": 3, "title": "Picking a balm that *tingles*", "body": "Fragrance, menthol and strong flavors can irritate dry lips. Look for simple balms with petrolatum, shea butter or beeswax.", "photo": "lip balm"},
+    {"type": "point", "num": 4, "title": "Skipping balm *before bed*", "body": "Put on a thick layer at night. With the heating on, a humidifier in your bedroom can help too.", "photo": "cozy bedroom night"},
+    {"type": "point", "num": 5, "title": "Forgetting *SPF* on your lips", "body": "Lips get sun in winter too. Use a lip balm with SPF 30 or higher when you're outside.", "photo": "woman outdoor winter sun"},
+    {"type": "app", "title": "Lips covered? For your face, *Glowtrack* scans your skin and gives you a *skin score*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Dudak kuruluğu alışkanlıkları",
+    "caption": "Soğuk hava ve kaloriferler geri döndü, bunu ilk belli eden yer de genelde dudaklar oluyor. Asıl zararı fark etmediğimiz küçük alışkanlıklar veriyor: yalamak, kabukları koparmak gibi. Birkaç basit değişiklikle dudakların bütün sezon rahat eder. Bu alışkanlıklardan hangisini bırakmak sana en zor geliyor? #ciltbakımı #ciltbakimi #dudakbakımı #kışbakımı #lipcare",
+    "slides": [
+      {"text": "Dudak kuruluğunu *sen* artırıyor olabilirsin", "sub": "4. madde en kolay çözüm"},
+      {"title": "Rahatlamak için *yalamak*", "body": "Tükürük hızla buharlaşır ve nemi de beraberinde götürür, dudakların öncekinden daha çok kurur. Balm çok daha iyi iş görür."},
+      {"title": "Kabukları *koparmak*", "body": "Kuru deriyi çekip koparmak dudağını tahriş edebilir. Balmın altında yumuşasınlar, kendiliğinden dökülsünler."},
+      {"title": "*Serinleten* balm seçmek", "body": "Parfüm, mentol ve yoğun aromalar kuru dudağı tahriş edebilir. Vazelin, shea yağı ya da balmumu içeren sade balmları tercih et."},
+      {"title": "Geceleri balmı *unutmak*", "body": "Yatmadan önce kalın bir kat sür. Kaloriferler yanarken yatak odasında bir nem makinesi de işe yarar."},
+      {"title": "Dudağa *SPF* sürmemek", "body": "Dudaklar kışın da güneş görür. Dışarıdayken en az SPF 30 olan bir dudak balmı kullan."},
+      {"title": "Dudaklar tamam mı? Yüzün için de *Işılda* cildini tarar ve sana bir *cilt skoru* verir."}
+    ]
+  }
+}

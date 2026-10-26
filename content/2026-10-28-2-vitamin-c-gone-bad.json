@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-28-2-vitamin-c-gone-bad",
+  "title": "Has your vitamin C gone bad?",
+  "date": "2026-10-28",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F4",
+  "mentions_app": true,
+  "caption": "Vitamin C serums are popular, but many formulas are sensitive to air, light and heat. Once a serum changes color or smell, it's usually past its best, so it's worth checking the bottle you've had open for a while. A few storage habits help it last longer. What color is your vitamin C serum right now? #vitaminc #vitamincserum #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "Your vitamin C serum is *done* if…", "sub": "sign #1 is easy to miss", "photo": "serum dropper bottle"},
+    {"type": "point", "num": 1, "title": "It turned *orange* or brown", "body": "Many vitamin C serums start clear or pale yellow. A dark orange or brown color usually means it has oxidized.", "photo": "amber glass bottle"},
+    {"type": "point", "num": 2, "title": "It *smells* different", "body": "A smell that wasn't there when you first opened it is another hint that the formula has changed.", "photo": "skincare bottle closeup"},
+    {"type": "point", "num": 3, "title": "It's been open for *months*", "body": "Check the open-jar symbol on the pack, usually a number like 6M. Once it's open, air starts working on it.", "photo": "cosmetic packaging"},
+    {"type": "list", "title": "Get more out of it", "items": ["Keep the cap *tight*", "Store it away from sunlight", "Don't leave it in a steamy bathroom", "Use it in the morning, under *SPF*"], "photo": "bathroom shelf cosmetics"},
+    {"type": "app", "title": "Unsure vitamin C fits your routine? *Glowtrack* scans your skin and builds one *around it*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "C vitamini bozuldu mu?",
+    "caption": "C vitamini serumları çok popüler ama birçok formül hava, ışık ve sıcaktan etkileniyor. Serumun rengi ya da kokusu değiştiyse büyük ihtimalle en iyi halini geride bırakmıştır; uzun süredir açık olan şişene bir göz atmaya değer. Birkaç saklama alışkanlığı daha uzun dayanmasını sağlar. Senin C vitamini serumun şu an ne renk? #ciltbakımı #ciltbakimi #cvitamini #ciltbakımrutini #vitaminc",
+    "slides": [
+      {"text": "C vitamini serumun *bozulmuş* demektir, eğer…", "sub": "1. işaret gözden kaçıyor"},
+      {"title": "Rengi *turuncuya* döndüyse", "body": "Birçok C vitamini serumu şeffaf ya da açık sarı başlar. Koyu turuncu ya da kahverengiye dönmesi genelde oksitlendiğini gösterir."},
+      {"title": "*Kokusu* değiştiyse", "body": "İlk açtığın gün olmayan bir koku gelmeye başladıysa, bu da formülün değiştiğine dair bir ipucu."},
+      {"title": "*Aylardır* açıksa", "body": "Kutudaki açık kavanoz simgesine bak, genelde 6M gibi bir sayı yazar. Açıldığı andan itibaren hava ürünü etkilemeye başlar."},
+      {"title": "Serumundan daha çok verim al", "items": ["Kapağını *sıkıca* kapat", "Güneş almayan bir yerde sakla", "Buharlı banyoda bırakma", "Sabahları, *SPF*'in altına sür"]},
+      {"title": "C vitamini rutinine uyar mı emin değil misin? *Işılda* cildini tarar ve rutinini *ona göre* kurar."}
+    ]
+  }
+}
