@@ -1,17 +1,18 @@
-slide 1: pixabay px-7905874 (woman lips closeup)
-slide 2: pixabay px-20150 (woman winter scarf)
-slide 3: pixabay px-299694 (woman touching lips)
-slide 4: pixabay px-4967127 (lip balm)
-slide 5: pixabay px-8363663 (cozy bedroom night)
-slide 6: pixabay px-5662873 (woman outdoor winter sun)
+slide 1: pixabay px-5083690 (halloween face paint)
+slide 2: pixabay px-751236 (woman removing makeup)
+slide 3: pixabay px-4979248 (cotton pad face)
+slide 4: pixabay px-2529908 (washing face sink)
+slide 5: pixabay px-9272643 (glitter makeup closeup)
+slide 6: pixabay px-5409069 (applying face cream)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-28-1-chapped-lip-habits en+tr
-slide 1: pixabay px-2385072 (serum dropper bottle)
-slide 2: pixabay px-820011 (amber glass bottle)
-slide 3: pixabay px-6140620 (skincare bottle closeup)
-slide 4: pixabay px-1867715 (cosmetic packaging)
-slide 5: pixabay px-2389772 (bathroom shelf cosmetics)
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-10-28-2-vitamin-c-gone-bad en+tr
+rendered 2026-10-29-1-halloween-makeup-off en+tr
+slide 1: pixabay px-2535233 (skincare serum bottle)
+slide 2: pixabay px-1733349 (woman touching face)
+slide 3: pixabay px-4860563 (face closeup skin)
+slide 4: pixabay px-2437008 (sunscreen on hand)
+slide 5: pixabay px-5815354 (skincare products shelf)
+slide 6: pixabay px-8378624 (night skincare routine)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-10-29-2-aha-vs-bha en+tr
