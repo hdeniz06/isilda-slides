@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-29-2-aha-vs-bha",
+  "title": "AHA vs BHA",
+  "date": "2026-10-29",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F7",
+  "mentions_app": true,
+  "caption": "AHAs and BHAs are both exfoliating acids, but they work in different places on your skin. AHAs work on the surface, while BHA can get into oily pores, so the right pick depends on your skin type. Whichever you use, go slow and keep up daily SPF. Are you team AHA, team BHA, or still figuring it out? #exfoliation #ahabha #salicylicacid #skincaretips #skintok",
+  "slides": [
+    {"type": "hook", "text": "AHA vs BHA: which one is *yours*?", "sub": "the skin type match is on slide 5", "photo": "skincare serum bottle"},
+    {"type": "point", "num": 1, "title": "AHA works on the *surface*", "body": "AHAs like glycolic and lactic acid are water-soluble. They loosen dead cells on top, so skin can look smoother.", "photo": "woman touching face"},
+    {"type": "point", "num": 2, "title": "BHA goes *into* pores", "body": "BHA, usually salicylic acid, is oil-soluble. It can work inside oily pores, which is why oily skin often likes it.", "photo": "face closeup skin"},
+    {"type": "point", "num": 3, "title": "Both need *SPF*", "body": "Exfoliating acids, AHAs especially, can make skin more sensitive to the sun. Daily SPF stays non-negotiable while you use them.", "photo": "sunscreen on hand"},
+    {"type": "list", "title": "Pick by *skin type*", "items": ["Dry or dull: *AHA*, like lactic acid", "Oily or clogged: *BHA*", "Sensitive: start low, once a week", "Combination: one at a time, never both at once"], "photo": "skincare products shelf"},
+    {"type": "point", "num": 4, "title": "Start *slow*", "body": "Begin two or three nights a week and skip other exfoliants those nights. Stinging or redness means scale back.", "photo": "night skincare routine"},
+    {"type": "app", "title": "Which acid fits? I built *Glowtrack* to scan your skin and *match* your routine.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "AHA mı BHA mı?",
+    "caption": "AHA ve BHA ikisi de peeling etkili asitler ama cildinin farklı yerlerinde çalışıyorlar. AHA yüzeyde iş görür, BHA ise yağlı gözeneklerin içine kadar inebilir; yani doğru seçim cilt tipine bağlı. Hangisini kullanırsan kullan, yavaş başla ve her gün SPF'i ihmal etme. Sen hangisini kullanıyorsun, AHA mı BHA mı? #ciltbakımı #ciltbakimi #salisilikasit #peeling #skincare",
+    "slides": [
+      {"text": "AHA mı BHA mı: *senin* cildin hangisini ister?", "sub": "cilt tipi eşleşmesi 5. slaytta"},
+      {"title": "AHA *yüzeyde* çalışır", "body": "Glikolik ve laktik asit gibi AHA'lar suda çözünür. Üstteki ölü hücreleri gevşetir, cilt daha pürüzsüz görünebilir."},
+      {"title": "BHA gözeneğin *içine* iner", "body": "BHA genelde salisilik asittir ve yağda çözünür. Yağlı gözeneklerin içinde çalışabildiği için yağlı ciltler onu sever."},
+      {"title": "İkisi de *SPF* ister", "body": "Peeling etkili asitler, özellikle AHA'lar, cildi güneşe karşı daha hassas yapabilir. Kullandığın sürece her gün SPF şart."},
+      {"title": "*Cilt tipine* göre seç", "items": ["Kuru ya da mat: *AHA*, mesela laktik asit", "Yağlı ya da tıkalı: *BHA*", "Hassas: düşük başla, haftada bir", "Karma: tek tek dene, ikisi birden asla"]},
+      {"title": "*Yavaş* başla", "body": "Haftada iki üç akşamla başla, o akşamlar başka peeling kullanma. Batma ya da kızarıklık varsa sıklığı azalt."},
+      {"title": "Hangi asit sana uyar? *Işılda*'yı cildini tarayıp *sana uygun* rutini çıkarsın diye geliştirdim."}
+    ]
+  }
+}

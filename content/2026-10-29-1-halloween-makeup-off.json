@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-29-1-halloween-makeup-off",
+  "title": "Removing Halloween makeup",
+  "date": "2026-10-29",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F12",
+  "mentions_app": true,
+  "caption": "Halloween face paint, glitter and lash glue are made to stay put, so they need a gentler plan than your everyday makeup. Melting it off first and skipping the hard scrubbing makes the night end a lot calmer for your skin. What's your costume this year, and how much makeup does it need? #halloweenmakeup #makeupremoval #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "Halloween makeup comes off *differently*", "sub": "step 2 is where most people go wrong", "photo": "halloween face paint"},
+    {"type": "point", "num": 1, "title": "Take it off *tonight*", "body": "Sleeping in heavy face paint keeps it on your skin for hours. Make removal part of the night, not the morning.", "photo": "woman removing makeup"},
+    {"type": "point", "num": 2, "title": "*Don't* scrub it off", "body": "Rubbing hard with a towel or wipe irritates skin. Let a cleansing oil or balm melt it first, then wipe gently.", "photo": "cotton pad face"},
+    {"type": "point", "num": 3, "title": "Wash *once* more", "body": "After the oil, use your regular gentle cleanser to rinse away what's left. Lukewarm water, not hot.", "photo": "washing face sink"},
+    {"type": "list", "title": "Glitter, lashes and eyes", "items": ["Dab glitter off, don't *rub* it around", "Soften lash glue before peeling", "Go extra gentle around your *eyes*"], "photo": "glitter makeup closeup"},
+    {"type": "point", "num": 4, "title": "Finish with *moisturizer*", "body": "Your skin just had a long night. A simple moisturizer and no new actives tonight keeps things calm.", "photo": "applying face cream"},
+    {"type": "app", "title": "Makeup off? I built *Glowtrack* so you can scan your skin and see its *score*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Ağır makyaj nasıl çıkarılır",
+    "caption": "Parti makyajı, yüz boyası, simler ve takma kirpik yapıştırıcısı yerinde kalsın diye üretiliyor; bu yüzden günlük makyajından daha nazik bir çıkarma planı istiyor. Önce yağla eritip sert ovalamayı bırakınca gece cildin için çok daha sakin bitiyor. Sen ağır makyajı nasıl çıkarıyorsun, en çok neyde zorlanıyorsun? #ciltbakımı #ciltbakimi #makyajtemizleme #makyaj #skincare",
+    "slides": [
+      {"text": "Parti makyajı *başka türlü* çıkarılır", "sub": "2. adımda çoğu kişi hata yapıyor"},
+      {"title": "*Bu gece* çıkar", "body": "Ağır makyajla ya da yüz boyasıyla uyumak, onu saatlerce cildinde tutmak demek. Çıkarmayı sabaha değil, geceye bırak."},
+      {"title": "Sakın *ovalama*", "body": "Havluyla ya da mendille sertçe silmek cildi tahriş eder. Önce temizleme yağı ya da balmı makyajı eritsin, sonra nazikçe sil."},
+      {"title": "*Bir kez* daha yıka", "body": "Yağdan sonra her zamanki nazik temizleyicinle kalanları al. Su ılık olsun, sıcak değil."},
+      {"title": "Sim, kirpik ve göz çevresi", "items": ["Simleri bastırarak al, *yayma*", "Kirpik yapıştırıcısını yumuşatmadan çekme", "*Göz çevresinde* ekstra nazik ol"]},
+      {"title": "*Nemlendiriciyle* bitir", "body": "Cildin uzun bir gece geçirdi. Sade bir nemlendirici yeter; bu gece yeni aktif deneme."},
+      {"title": "Makyaj çıktı mı? *Işılda*'yı cildini tarayıp *skorunu* görebilesin diye geliştirdim."}
+    ]
+  }
+}
