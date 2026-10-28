@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-30-2-hyaluronic-damp-skin",
+  "title": "Hyaluronic acid on damp skin",
+  "date": "2026-10-30",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F3",
+  "mentions_app": true,
+  "caption": "Hyaluronic acid is a humectant, which means it holds onto water. That's why it's usually applied to slightly damp skin and followed right away by a moisturizer that keeps the water from evaporating, especially in dry, heated rooms. A few drops is plenty. Do you put your hyaluronic acid on damp or dry skin? #hyaluronicacid #hydration #skincareroutine #winterskincare #skintok",
+  "slides": [
+    {"type": "hook", "text": "Stop putting hyaluronic acid on *dry skin*", "sub": "#3 is the step most people skip", "photo": "skincare serum dropper"},
+    {"type": "point", "num": 1, "title": "It's a *water magnet*", "body": "Hyaluronic acid is a humectant. It holds onto water, so it works best when there's water around to hold.", "photo": "water drops face"},
+    {"type": "point", "num": 2, "title": "Apply it to *damp* skin", "body": "After cleansing, pat your face but leave it slightly damp. Then press in a few drops of your serum.", "photo": "woman towel face"},
+    {"type": "point", "num": 3, "title": "*Seal* it in", "body": "Follow with moisturizer right away. Without a layer on top, that water can evaporate in dry, heated air.", "photo": "applying face cream"},
+    {"type": "point", "num": 4, "title": "More drops aren't *better*", "body": "Two or three drops cover your face. Extra just sits on top and can feel sticky or tight as it dries.", "photo": "serum drops hand"},
+    {"type": "list", "title": "The *right* order", "items": ["Cleanse", "Pat, but don't dry fully", "*Hyaluronic acid* on damp skin", "Moisturizer right away", "SPF in the morning"], "photo": "bathroom sink skincare"},
+    {"type": "app", "title": "Not sure where it fits? *Glowtrack* scans your skin and puts your routine in *order*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Hyaluronik asit nemli cilde",
+    "caption": "Hyaluronik asit nem tutucu bir içerik, yani suyu tutar. Bu yüzden genelde hafif nemli cilde sürülür ve hemen ardından suyun buharlaşmasını engelleyen bir nemlendirici gelir; özellikle kaloriferli, kuru odalarda bu çok önemli. Birkaç damla da yeterli. Sen hyaluronik asidi nemli cilde mi sürüyorsun, kuru cilde mi? #ciltbakımı #ciltbakimi #hyaluronikasit #kışcildi #skincare",
+    "slides": [
+      {"text": "Hyaluronik asidi *kuru cilde* sürmeyi bırak", "sub": "3. adımı çoğu kişi atlıyor"},
+      {"title": "Tam bir *su mıknatısı*", "body": "Hyaluronik asit nem tutucudur. Suyu tutar, yani etrafta tutacak su olduğunda en iyi işini görür."},
+      {"title": "*Nemli* cilde sür", "body": "Yüzünü yıkadıktan sonra havluyla hafifçe bastır ama biraz nemli bırak. Sonra serumundan birkaç damlayı cildine bastırarak yedir."},
+      {"title": "Üstünü *kapat*", "body": "Hemen ardından nemlendiricini sür. Üstünde bir katman olmazsa o su, kaloriferli kuru havada uçup gidebilir."},
+      {"title": "Fazla damla *daha iyi* değil", "body": "İki üç damla bütün yüzüne yeter. Fazlası üstte kalır, kurudukça yapış yapış ya da gergin hissettirebilir."},
+      {"title": "*Doğru* sıra", "items": ["Temizle", "Havluyla bastır, tam kurutma", "Nemli cilde *hyaluronik asit*", "Hemen nemlendirici", "Sabahları SPF"]},
+      {"title": "Rutininde nereye koyacağını bilemedin mi? *Işılda* cildini tarar, rutinini *doğru sıraya* dizer."}
+    ]
+  }
+}

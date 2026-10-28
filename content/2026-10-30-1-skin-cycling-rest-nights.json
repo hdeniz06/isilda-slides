@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-30-1-skin-cycling-rest-nights",
+  "title": "Skin cycling rest nights",
+  "date": "2026-10-30",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F6",
+  "mentions_app": true,
+  "caption": "Skin cycling splits your night routine into a simple four-night loop: exfoliant, retinoid, then two nights of nothing but cleanser and moisturizer. Those quiet recovery nights keep actives from stacking up, which matters more once the air turns cold and dry. Your mornings stay the same, with SPF every day. Have you tried skin cycling, or do you use actives every night? #skincycling #retinol #skincareroutine #skincaretips #skintok",
+  "slides": [
+    {"type": "hook", "text": "The *laziest* nights in your routine matter most", "sub": "the 4-night plan is on slide 2", "photo": "woman relaxing bed"},
+    {"type": "list", "title": "The *4-night* cycle", "items": ["Night 1: *exfoliate*", "Night 2: *retinoid*", "Nights 3 and 4: *recovery* only", "Then start again"], "photo": "calendar planner notebook"},
+    {"type": "point", "num": 1, "title": "Night 1: *exfoliate*", "body": "A chemical exfoliant on clean, dry skin, then moisturizer. No retinoid tonight.", "photo": "skincare dropper bottle"},
+    {"type": "point", "num": 2, "title": "Night 2: *retinoid*", "body": "A pea-sized amount of your retinol or retinoid, then moisturizer. Skip exfoliants tonight so the two don't stack.", "photo": "woman applying night cream"},
+    {"type": "point", "num": 3, "title": "Nights 3 and 4: *recovery*", "body": "Gentle cleanser and a moisturizer with barrier-friendly ingredients like ceramides. Nothing else. This is the part people skip.", "photo": "face moisturizer jar"},
+    {"type": "point", "num": 4, "title": "Adjust it to *your* skin", "body": "Sensitive skin can add extra recovery nights. Mornings stay the same: cleanser, moisturizer, SPF.", "photo": "woman morning mirror"},
+    {"type": "app", "title": "Trying skin cycling? *Glowtrack* scans your face and tracks your skin score *cycle by cycle*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Skin cycling: dinlenme geceleri",
+    "caption": "Skin cycling, akşam rutinini dört gecelik basit bir döngüye böler: bir gece peeling, bir gece retinol, sonra iki gece sadece temizleyici ve nemlendirici. Bu sakin onarım geceleri aktiflerin üst üste binmesini önler, havalar soğuyup kurudukça daha da önemli hale gelir. Sabah rutinin aynı kalır, SPF her gün şart. Sen skin cycling denedin mi, yoksa her akşam aktif mi kullanıyorsun? #ciltbakımı #ciltbakimi #retinol #ciltbakımrutini #skincycling",
+    "slides": [
+      {"text": "Rutinindeki en *tembel* geceler aslında en önemlileri", "sub": "4 gecelik plan 2. slaytta"},
+      {"title": "*4 gecelik* döngü", "items": ["1. gece: *peeling*", "2. gece: *retinol*", "3. ve 4. gece: sadece *onarım*", "Sonra baştan başla"]},
+      {"title": "1. gece: *peeling*", "body": "Temiz ve kuru cilde kimyasal peeling, ardından nemlendirici. Bu akşam retinol yok."},
+      {"title": "2. gece: *retinol*", "body": "Bezelye kadar retinol ya da retinoid, üstüne nemlendirici. İkisi üst üste binmesin diye bu akşam peeling yok."},
+      {"title": "3. ve 4. gece: *dinlenme*", "body": "Nazik bir temizleyici ve seramid gibi bariyer dostu içerikli bir nemlendirici. Başka hiçbir şey. Çoğu kişinin atladığı kısım bu."},
+      {"title": "*Kendi* cildine göre ayarla", "body": "Cildin hassassa dinlenme gecelerini artırabilirsin. Sabah rutini hep aynı: temizleyici, nemlendirici, SPF."},
+      {"title": "Skin cycling mi deniyorsun? *Işılda* yüzünü tarar, cilt skorunu *döngü döngü* takip eder."}
+    ]
+  }
+}
