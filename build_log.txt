@@ -1,18 +1,18 @@
-slide 1: pixabay px-7098342 (woman relaxing bed)
-slide 2: pixabay px-4943213 (calendar planner notebook)
-slide 3: pixabay px-2535840 (skincare dropper bottle)
-slide 4: pixabay px-635256 (woman applying night cream)
-slide 5: pixabay px-1543166 (face moisturizer jar)
-slide 6: pixabay px-7745139 (woman morning mirror)
+slide 1: pixabay px-8378634 (woman applying serum face)
+slide 2: pixabay px-4644113 (skincare cream fingertip)
+slide 3: pixabay px-3519154 (woman touching cheek)
+slide 4: pixabay px-2359121 (skincare products shelf)
+slide 5: pixabay px-3123468 (skincare routine flatlay)
+slide 6: pixabay px-6560864 (woman mirror reflection)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-30-1-skin-cycling-rest-nights en+tr
-slide 1: pixabay px-3096734 (skincare serum dropper)
-slide 2: pixabay px-4968242 (water drops face)
-slide 3: pixabay px-2768831 (woman towel face)
-slide 4: pixabay px-6006446 (applying face cream)
-slide 5: pixabay px-9950817 (serum drops hand)
-slide 6: pixabay px-4805846 (bathroom sink skincare)
+rendered 2026-10-31-1-azelaic-first-month en+tr
+slide 1: pixabay px-932936 (bathroom shelf skincare products)
+slide 2: pixabay px-1461448 (applying eye cream)
+slide 3: pixabay px-5950348 (face scrub texture)
+slide 4: pixabay px-2001912 (serum bottles collection)
+slide 5: pixabay px-5501688 (cotton pad toner)
+slide 6: pixabay px-614827 (minimal skincare products)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-30-2-hyaluronic-damp-skin en+tr
+rendered 2026-10-31-2-products-to-skip en+tr
