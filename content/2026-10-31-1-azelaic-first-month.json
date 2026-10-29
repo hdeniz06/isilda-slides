@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-31-1-azelaic-first-month",
+  "title": "Azelaic acid first month",
+  "date": "2026-10-31",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F9",
+  "mentions_app": true,
+  "caption": "Azelaic acid keeps showing up on 2026 trend lists, and the first month is where most routines fall apart. A slow start, a little early tingle and the same steps every night are all part of the plan. Then compare photos taken in the same light. Have you tried azelaic acid yet, and how did week one feel? #azelaicacid #skincareroutine #skincaretips #skintok",
+  "slides": [
+    {"type": "hook", "text": "Your *first month* of azelaic acid, week by week", "sub": "slide 3 is the part that scares people", "photo": "woman applying serum face"},
+    {"type": "point", "num": 1, "title": "Weeks 1–2: start *slow*", "body": "Use a pea-sized amount on clean, dry skin a few nights a week. If your skin is fine, build up to daily.", "photo": "skincare cream fingertip"},
+    {"type": "point", "num": 2, "title": "The *tingle* is common", "body": "Mild tingling or itching right after applying is common early on. Burning or a rash isn't, so stop if that happens.", "photo": "woman touching cheek"},
+    {"type": "point", "num": 3, "title": "Weeks 3–4: keep it *boring*", "body": "Same product, same amount, same time. Changing things every few days makes it hard to know what's doing what.", "photo": "skincare products shelf"},
+    {"type": "list", "title": "Where it *fits*", "items": ["Cleanse", "*Azelaic acid* on dry skin", "Moisturizer", "SPF in the morning"], "photo": "skincare routine flatlay"},
+    {"type": "point", "num": 4, "title": "After month one: *compare*", "body": "Tone changes build slowly. Take a photo in the same light at the start and after a month to compare.", "photo": "woman mirror reflection"},
+    {"type": "app", "title": "Starting azelaic acid? I built *Glowtrack* to scan your skin and compare your score *monthly*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Azelaik asitle ilk ay",
+    "caption": "Azelaik asit 2026'nın en çok konuşulan içeriklerinden biri, ama çoğu kişi ilk ayda bırakıyor. Yavaş başlamak, ilk haftalardaki hafif karıncalanma ve her akşam aynı rutin işin bir parçası. Bir ay sonra aynı ışıkta çektiğin fotoğraflarla karşılaştır. Sen azelaik asit denedin mi, ilk haftan nasıl geçti? #ciltbakımı #ciltbakimi #azelaikasit #skincare #skintok",
+    "slides": [
+      {"text": "Azelaik asitle *ilk ayın*, hafta hafta", "sub": "3. slayt çoğu kişiyi korkutuyor"},
+      {"title": "1–2. hafta: *yavaş* başla", "body": "Temiz ve kuru cilde nohut tanesi kadar sür, haftada birkaç akşamla başla. Cildin rahatsa yavaş yavaş her güne çıkar."},
+      {"title": "Hafif *karıncalanma* normal", "body": "İlk zamanlarda sürdükten sonra hafif karıncalanma ya da kaşınma sık görülür. Yanma ya da döküntü normal değil, öyle olursa kullanmayı bırak."},
+      {"title": "3–4. hafta: *sıkıcı* kal", "body": "Aynı ürün, aynı miktar, aynı saat. Birkaç günde bir bir şeyleri değiştirirsen neyin işe yaradığını anlayamazsın."},
+      {"title": "Rutinde *yeri*", "items": ["Temizle", "Kuru cilde *azelaik asit*", "Nemlendirici", "Sabahları SPF"]},
+      {"title": "Bir ay sonra: *karşılaştır*", "body": "Ton farkları yavaş yavaş oturur. Başta ve bir ay sonra aynı ışıkta fotoğraf çek, öyle karşılaştır."},
+      {"title": "Azelaik aside mi başlıyorsun? *Işılda*'yı cildini tarayıp skorunu *aydan aya* karşılaştırman için geliştirdim."}
+    ]
+  }
+}

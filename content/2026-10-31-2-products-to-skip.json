@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-31-2-products-to-skip",
+  "title": "Products you can skip",
+  "date": "2026-10-31",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F2",
+  "mentions_app": true,
+  "caption": "Plenty of routines are built from viral hauls instead of what skin actually needs, and more products can mean more chances for irritation. A gentle cleanser, a moisturizer, daily SPF and one active you chose on purpose cover a lot. Which product in your routine could you live without? #skincareroutine #minimalistskincare #skincaretips #skintok",
+  "slides": [
+    {"type": "hook", "text": "4 products your routine can probably *skip*", "sub": "#4 is the one people argue about", "photo": "bathroom shelf skincare products"},
+    {"type": "point", "num": 1, "title": "A separate *eye cream*", "body": "Many face moisturizers are fine around the eyes. If yours doesn't sting there, a separate eye cream is optional.", "photo": "applying eye cream"},
+    {"type": "point", "num": 2, "title": "Gritty *face scrubs*", "body": "Rough grains can irritate skin. If you want exfoliation, a gentle chemical exfoliant a few times a week is usually kinder.", "photo": "face scrub texture"},
+    {"type": "point", "num": 3, "title": "Stacking *three serums*", "body": "Layering several serums at once raises the odds of irritation and hides what's working. One or two is plenty.", "photo": "serum bottles collection"},
+    {"type": "point", "num": 4, "title": "*Toner*, for most skin", "body": "Today's cleansers don't need a toner to 'balance' skin. Keep yours only if it adds something you want, like hydration.", "photo": "cotton pad toner"},
+    {"type": "list", "title": "What to *keep*", "items": ["Gentle cleanser", "Moisturizer", "*SPF* every morning", "One active you chose on purpose"], "photo": "minimal skincare products"},
+    {"type": "app", "title": "Cutting back? *Glowtrack* scans your skin and builds a routine without the *extras*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Rutinde fazla olan 4 ürün",
+    "caption": "Birçok rutin cildin ihtiyacından değil, viral alışveriş videolarından doğuyor; ürün arttıkça tahriş ihtimali de artabiliyor. Nazik bir temizleyici, nemlendirici, her sabah SPF ve bilerek seçtiğin tek bir aktif çoğu zaman yeterli. Senin rutininde vazgeçebileceğin ürün hangisi? #ciltbakımı #ciltbakimi #sadeciltbakımı #skincare #skintok",
+    "slides": [
+      {"text": "Bu *4 ürün* rutininde boşuna duruyor", "sub": "4.sü en çok tartışılanı"},
+      {"title": "Ayrı bir *göz kremi*", "body": "Birçok yüz nemlendiricisi göz çevresinde de rahatça kullanılabilir. Seninki orada yakmıyorsa ayrı bir göz kremi şart değil."},
+      {"title": "Tanecikli *peeling*", "body": "Sert tanecikler cildi tahriş edebilir. Arınmak istiyorsan haftada birkaç kez nazik bir kimyasal peeling genelde daha yumuşak bir seçenek."},
+      {"title": "Üst üste *üç serum*", "body": "Aynı anda birkaç serum sürmek tahriş ihtimalini artırır, neyin işe yaradığını da göremezsin. Bir iki tane yeter."},
+      {"title": "Çoğu cilt için *tonik*", "body": "Bugünün temizleyicileri cildi 'dengelemek' için toniğe ihtiyaç duymaz. Nem gibi istediğin bir şey katıyorsa tut, yoksa gerek yok."},
+      {"title": "*Kalsın* dediklerin", "items": ["Nazik temizleyici", "Nemlendirici", "Her sabah *SPF*", "Bilerek seçtiğin tek aktif"]},
+      {"title": "Rutinini sadeleştiriyor musun? *Işılda* cildini tarar, sana *fazlalıksız* bir rutin çıkarır."}
+    ]
+  }
+}
