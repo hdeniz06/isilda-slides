@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-01-1-moisturizer-label-3-words",
+  "title": "Moisturizer label in 3 words",
+  "date": "2026-11-01",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F11",
+  "mentions_app": true,
+  "caption": "Moisturizer labels look complicated, but most ingredients do one of three jobs: pull water in, smooth the surface or seal moisture in. Cold air and indoor heating are when the sealing part starts to matter most. Which texture are you using right now: gel, lotion or cream? #moisturizer #winterskincare #skincareingredients #skincaretips #skintok",
+  "slides": [
+    {"type": "hook", "text": "Every moisturizer label comes down to *3 words*", "sub": "#3 is what winter skin misses", "photo": "moisturizer jar ingredients"},
+    {"type": "point", "num": 1, "title": "*Humectants* pull water in", "body": "Glycerin, hyaluronic acid and urea draw water into the top layer of skin. Most light gels are built mainly on these.", "photo": "clear gel texture"},
+    {"type": "point", "num": 2, "title": "*Emollients* smooth the surface", "body": "Squalane, plant oils and fatty alcohols fill in rough, flaky spots so skin feels soft instead of patchy.", "photo": "face oil dropper"},
+    {"type": "point", "num": 3, "title": "*Occlusives* seal it in", "body": "Petrolatum, shea butter and dimethicone form a layer that slows water loss. Cold, dry air is when this part matters most.", "photo": "shea butter cream"},
+    {"type": "list", "title": "Pick for *your* skin", "items": ["Oily: humectant-heavy gel or lotion", "Normal: a lotion with all three", "Dry: a cream with *occlusives* high on the list", "Very dry patches: a thin balm layer at night"], "photo": "woman applying face cream"},
+    {"type": "app", "title": "Gel, lotion or cream? I built *Glowtrack* to scan your skin and build your *winter* routine.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Nemlendirici etiketinin 3 kelimesi",
+    "caption": "Nemlendirici etiketleri karışık görünse de içeriklerin çoğu üç işten birini yapar: suyu çeker, yüzeyi yumuşatır ya da nemi kilitler. Soğuk hava ve kaloriferle birlikte nemi kilitleyen kısım daha da önem kazanıyor. Sen şu an hangisini kullanıyorsun: jel, losyon yoksa krem? #ciltbakımı #ciltbakimi #nemlendirici #kışciltbakımı #skincare",
+    "slides": [
+      {"text": "Her nemlendirici etiketi *3 kelimeye* iner", "sub": "3.sü kışın cildinde eksik olan"},
+      {"title": "*Nem tutucular* suyu çeker", "body": "Gliserin, hyaluronik asit ve üre cildin üst katmanına su çeker. Hafif jellerin çoğu ağırlıklı olarak bunlarla yapılır."},
+      {"title": "*Yumuşatıcılar* pürüzü giderir", "body": "Skualan, bitkisel yağlar ve yağ alkolleri pürüzlü, pul pul bölgeleri doldurur; cilt pütürlü değil yumuşacık hisseder."},
+      {"title": "*Kapatıcılar* nemi kilitler", "body": "Vazelin, shea yağı ve dimetikon su kaybını yavaşlatan bir katman oluşturur. Soğuk, kuru havada en çok bu kısım önem kazanır."},
+      {"title": "Cildine göre *seç*", "items": ["Yağlı: nem tutucu ağırlıklı jel ya da losyon", "Normal: üçünü de içeren bir losyon", "Kuru: kapatıcıları listede üstte olan *krem*", "Çok kuru bölgeler: gece ince bir balm katmanı"]},
+      {"title": "Jel mi, losyon mu, krem mi? *Işılda* cildini tarar, sana *kışlık* bir rutin çıkarır."}
+    ]
+  }
+}

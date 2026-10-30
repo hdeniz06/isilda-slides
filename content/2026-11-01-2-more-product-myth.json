@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-01-2-more-product-myth",
+  "title": "More product isn't better",
+  "date": "2026-11-01",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F5",
+  "mentions_app": true,
+  "caption": "It's easy to assume a thicker layer works harder, but most products only need a small amount, and extra retinoid or spot treatment mostly means extra irritation. Sunscreen is the one step where a generous layer is the whole point. Which product do you think you've been overusing? #skincaretips #skincaremyths #retinol #sunscreen #skintok",
+  "slides": [
+    {"type": "hook", "text": "*More* product doesn't mean *better* results", "sub": "except one step: slide 6", "photo": "skincare products bathroom counter"},
+    {"type": "point", "num": 1, "title": "Retinoid: a *pea-size* amount", "body": "A pea-size amount covers your whole face. Using more mostly adds irritation, not faster results.", "photo": "cream on fingertip"},
+    {"type": "point", "num": 2, "title": "Serum: *a few drops*", "body": "Two or three drops spread across face and neck is usually enough. Extra just sits on top or ends up on your pillow.", "photo": "serum dropper bottle"},
+    {"type": "point", "num": 3, "title": "Cleanser: *a small* amount", "body": "One pump or a nickel-size dab lathers enough for your face. More doesn't clean better and can leave skin feeling tight.", "photo": "foaming cleanser hands"},
+    {"type": "point", "num": 4, "title": "Spot treatment: a *thin dot*", "body": "Put it only on the spot, not around it. Spreading it wide dries out skin that didn't need it.", "photo": "woman looking mirror closeup"},
+    {"type": "point", "num": 5, "title": "The one exception: *SPF*", "body": "Sunscreen only reaches the SPF on its label in a generous layer. This is the one step where more is the point.", "photo": "sunscreen lotion hand"},
+    {"type": "app", "title": "Using less? I built *Glowtrack* to scan your skin and show its score *week to week*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Fazla ürün daha iyi değil",
+    "caption": "Kalın sürünce daha çok işe yarayacağını düşünmek kolay; ama çoğu ürün az miktarda yeterli, fazla retinoid ya da sivilce kremi çoğu zaman sadece fazla tahriş demek. Güneş kremi ise cömert sürmenin asıl mesele olduğu tek adım. Sence hangi ürünü fazla kullanıyordun? #ciltbakımı #ciltbakimi #güneşkremi #ciltbakımıönerileri #skincare",
+    "slides": [
+      {"text": "*Fazla* ürün, *fazla* sonuç demek değil", "sub": "tek istisna 6. slaytta"},
+      {"title": "Retinoid: *bezelye* kadar", "body": "Bezelye tanesi kadar retinoid bütün yüze yeter. Fazlası sonucu hızlandırmaz, çoğu zaman sadece tahrişi artırır."},
+      {"title": "Serum: *birkaç damla*", "body": "Yüz ve boyun için iki üç damla genelde yeterli. Fazlası cildin üstünde kalır ya da yastığına gider."},
+      {"title": "Temizleyici: *az* yeter", "body": "Bir pompa ya da fındık kadar temizleyici yüzün için yeterince köpürür. Fazlası daha iyi temizlemez, cildi gergin bırakabilir."},
+      {"title": "Sivilce kremi: *ince bir nokta*", "body": "Sadece sivilcenin üstüne sür, etrafına yayma. Geniş sürmek, ihtiyacı olmayan cildi de kurutur."},
+      {"title": "Tek istisna: *güneş kremi*", "body": "Güneş kremi etiketteki SPF'ye ancak cömert bir katmanla ulaşır. Fazlasının işe yaradığı tek adım bu."},
+      {"title": "Daha az mı kullanıyorsun? *Işılda* cildini tarar, skorunu *hafta hafta* gösterir."}
+    ]
+  }
+}
