@@ -1,18 +1,17 @@
-slide 1: pixabay px-8378634 (woman applying serum face)
-slide 2: pixabay px-4644113 (skincare cream fingertip)
-slide 3: pixabay px-3519154 (woman touching cheek)
-slide 4: pixabay px-2359121 (skincare products shelf)
-slide 5: pixabay px-3123468 (skincare routine flatlay)
-slide 6: pixabay px-6560864 (woman mirror reflection)
+slide 1: pixabay px-2806800 (moisturizer jar ingredients)
+slide 2: pixabay px-1867636 (clear gel texture)
+slide 3: pixabay px-2535215 (face oil dropper)
+slide 4: pixabay px-5804151 (shea butter cream)
+slide 5: pixabay px-9841606 (woman applying face cream)
+slide 6: app screenshot 0
+slide 6: app screenshot 0 (tr)
+rendered 2026-11-01-1-moisturizer-label-3-words en+tr
+slide 1: pixabay px-4868197 (skincare products bathroom counter)
+slide 2: pixabay px-5574910 (cream on fingertip)
+slide 3: pixabay px-5501535 (serum dropper bottle)
+slide 4: download failed: HTTP Error 429: Too Many Requests
+slide 5: pixabay px-487067 (woman looking mirror closeup)
+slide 6: pixabay px-7639483 (sunscreen lotion hand)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-10-31-1-azelaic-first-month en+tr
-slide 1: pixabay px-932936 (bathroom shelf skincare products)
-slide 2: pixabay px-1461448 (applying eye cream)
-slide 3: pixabay px-5950348 (face scrub texture)
-slide 4: pixabay px-2001912 (serum bottles collection)
-slide 5: pixabay px-5501688 (cotton pad toner)
-slide 6: pixabay px-614827 (minimal skincare products)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-10-31-2-products-to-skip en+tr
+rendered 2026-11-01-2-more-product-myth en+tr
