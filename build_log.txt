@@ -1,17 +1,9 @@
-slide 1: pixabay px-2806800 (moisturizer jar ingredients)
-slide 2: pixabay px-1867636 (clear gel texture)
-slide 3: pixabay px-2535215 (face oil dropper)
-slide 4: pixabay px-5804151 (shea butter cream)
-slide 5: pixabay px-9841606 (woman applying face cream)
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-11-01-1-moisturizer-label-3-words en+tr
-slide 1: pixabay px-4868197 (skincare products bathroom counter)
-slide 2: pixabay px-5574910 (cream on fingertip)
-slide 3: pixabay px-5501535 (serum dropper bottle)
-slide 4: download failed: HTTP Error 429: Too Many Requests
-slide 5: pixabay px-487067 (woman looking mirror closeup)
-slide 6: pixabay px-7639483 (sunscreen lotion hand)
+slide 1: reused pixabay photo
+slide 2: reused pixabay photo
+slide 3: reused pixabay photo
+slide 4: pixabay px-8173091 (washing face)
+slide 5: reused pixabay photo
+slide 6: reused pixabay photo
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
 rendered 2026-11-01-2-more-product-myth en+tr
