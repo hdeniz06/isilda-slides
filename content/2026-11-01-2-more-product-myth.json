@@ -11,7 +11,7 @@
     {"type": "hook", "text": "*More* product doesn't mean *better* results", "sub": "except one step: slide 6", "photo": "skincare products bathroom counter"},
     {"type": "point", "num": 1, "title": "Retinoid: a *pea-size* amount", "body": "A pea-size amount covers your whole face. Using more mostly adds irritation, not faster results.", "photo": "cream on fingertip"},
     {"type": "point", "num": 2, "title": "Serum: *a few drops*", "body": "Two or three drops spread across face and neck is usually enough. Extra just sits on top or ends up on your pillow.", "photo": "serum dropper bottle"},
-    {"type": "point", "num": 3, "title": "Cleanser: *a small* amount", "body": "One pump or a nickel-size dab lathers enough for your face. More doesn't clean better and can leave skin feeling tight.", "photo": "foaming cleanser hands"},
+    {"type": "point", "num": 3, "title": "Cleanser: *a small* amount", "body": "One pump or a nickel-size dab lathers enough for your face. More doesn't clean better and can leave skin feeling tight.", "photo": "washing face"},
     {"type": "point", "num": 4, "title": "Spot treatment: a *thin dot*", "body": "Put it only on the spot, not around it. Spreading it wide dries out skin that didn't need it.", "photo": "woman looking mirror closeup"},
     {"type": "point", "num": 5, "title": "The one exception: *SPF*", "body": "Sunscreen only reaches the SPF on its label in a generous layer. This is the one step where more is the point.", "photo": "sunscreen lotion hand"},
     {"type": "app", "title": "Using less? I built *Glowtrack* to scan your skin and show its score *week to week*.", "screenshot": 0}
