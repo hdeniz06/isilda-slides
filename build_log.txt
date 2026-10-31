@@ -1,9 +1,18 @@
-slide 1: reused pixabay photo
-slide 2: reused pixabay photo
-slide 3: reused pixabay photo
-slide 4: pixabay px-8173091 (washing face)
-slide 5: reused pixabay photo
-slide 6: reused pixabay photo
+slide 1: pixabay px-5528557 (woman looking mirror bathroom)
+slide 2: pixabay px-10201747 (foam cleanser hands)
+slide 3: pixabay px-5581806 (face cream jar)
+slide 4: pixabay px-5308925 (cotton pad face)
+slide 5: pixabay px-4071142 (applying cream cheek)
+slide 6: pixabay px-3322756 (sunscreen face woman)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-01-2-more-product-myth en+tr
+rendered 2026-11-02-1-combination-skin-winter en+tr
+slide 1: pixabay px-8462064 (woman touching under eye)
+slide 2: pixabay px-6307128 (woman eye closeup)
+slide 3: pixabay px-2990358 (eye cream finger)
+slide 4: pixabay px-590490 (woman applying eye cream)
+slide 5: pixabay px-6144774 (serum dropper skincare)
+slide 6: pixabay px-842141 (sunglasses woman sunny)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-11-02-2-gentle-under-eyes en+tr
