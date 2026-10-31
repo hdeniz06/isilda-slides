@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-02-2-gentle-under-eyes",
+  "title": "Gentle under-eye care",
+  "date": "2026-11-02",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F1",
+  "mentions_app": true,
+  "caption": "The skin around your eyes is thinner than the rest of your face, so how you apply things there matters as much as what you apply. A lighter touch, the right placement and keeping strong actives back can make your routine feel a lot more comfortable. How do you usually put on your eye cream? #eyecream #undereye #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "You're probably *rubbing* your under-eyes too hard", "sub": "#3 surprises most people", "photo": "woman touching under eye"},
+    {"type": "point", "num": 1, "title": "The skin there is *thinner*", "body": "The skin around your eyes is thinner than the rest of your face, so it shows rubbing and dryness faster.", "photo": "woman eye closeup"},
+    {"type": "point", "num": 2, "title": "Use your *ring finger*", "body": "It naturally presses the lightest. Tap product on gently instead of dragging or rubbing it across the skin.", "photo": "eye cream finger"},
+    {"type": "point", "num": 3, "title": "Stay on the *bone*, not the lashes", "body": "Apply along the bone under your eye, not right at the lash line. Products spread a little closer on their own.", "photo": "woman applying eye cream"},
+    {"type": "point", "num": 4, "title": "Keep strong *actives* further out", "body": "Retinoids and acids can sting this area. Start further from your eye and use less around it.", "photo": "serum dropper skincare"},
+    {"type": "point", "num": 5, "title": "Don't skip *SPF* here", "body": "Your eye area gets sun too. Pick a sunscreen that doesn't sting your eyes, and wear sunglasses outside.", "photo": "sunglasses woman sunny"},
+    {"type": "app", "title": "Gentle around the eyes, sorted everywhere else. *Glowtrack* scans your face and builds your *full routine*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Göz çevresine nazik bakım",
+    "caption": "Göz çevresindeki cilt yüzünün geri kalanından daha ince; o yüzden oraya ne sürdüğün kadar nasıl sürdüğün de önemli. Hafif bir dokunuş, doğru yer ve güçlü aktifleri biraz uzakta tutmak rutinini çok daha konforlu hale getirir. Sen göz kremini genelde nasıl sürüyorsun? #ciltbakımı #ciltbakimi #gözkremi #gözaltı #skincare",
+    "slides": [
+      {"text": "Göz altını muhtemelen *fazla sert* ovuyorsun", "sub": "3. madde çoğu kişiyi şaşırtıyor"},
+      {"title": "Oradaki cilt *daha ince*", "body": "Göz çevresindeki cilt yüzünün geri kalanından daha incedir; ovalamayı ve kuruluğu daha çabuk belli eder."},
+      {"title": "*Yüzük parmağını* kullan", "body": "En hafif bastıran parmak o. Ürünü sürtüp çekiştirmek yerine hafif hafif vurarak yedir."},
+      {"title": "Kirpiğe değil, *kemiğe* sür", "body": "Ürünü kirpik dibine değil, göz altındaki kemik hattına sür. Ürün kendiliğinden biraz yukarı yayılır zaten."},
+      {"title": "Güçlü *aktifleri* uzak tut", "body": "Retinoid ve asitler bu bölgeyi yakabilir. Gözden biraz uzakta başla, çevresinde daha az kullan."},
+      {"title": "Burada da *güneş kremi* şart", "body": "Göz çevren de güneş görüyor. Gözünü yakmayan bir güneş kremi seç, dışarıda güneş gözlüğü tak."},
+      {"title": "Göz çevresi hafif dokunuş ister. *Işılda* yüzünü tarar, *bütün rutinini* cildine göre kurar."}
+    ]
+  }
+}

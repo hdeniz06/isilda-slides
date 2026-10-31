@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-02-1-combination-skin-winter",
+  "title": "Combination skin in winter",
+  "date": "2026-11-02",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F8",
+  "mentions_app": true,
+  "caption": "Combination skin gets confusing once the cold sets in: your nose still gets shiny while your cheeks start to flake. Instead of picking one routine for your whole face, treat the two zones a little differently. Is your T-zone or your cheeks the harder part for you? #combinationskin #winterskincare #skincareroutine #skincaretips #skintok",
+  "slides": [
+    {"type": "hook", "text": "Oily T-zone, *flaky cheeks*? This is for you", "sub": "#4 is the winter fix", "photo": "woman looking mirror bathroom"},
+    {"type": "point", "num": 1, "title": "One *gentle* cleanser for everything", "body": "A harsh cleanser strips your dry cheeks just to fix your oily nose. A gentle, non-stripping one works for both zones.", "photo": "foam cleanser hands"},
+    {"type": "point", "num": 2, "title": "A *light* moisturizer all over", "body": "Oily areas still need moisture. A lightweight lotion or gel-cream across your whole face is a solid base.", "photo": "face cream jar"},
+    {"type": "point", "num": 3, "title": "Exfoliate the *T-zone* only", "body": "If you use a BHA, keep it on your forehead, nose and chin. Your cheeks can usually skip it.", "photo": "cotton pad face"},
+    {"type": "point", "num": 4, "title": "Add a *richer* layer to cheeks", "body": "In cold, dry weather, pat a little extra cream onto dry patches only. No need to load up your T-zone.", "photo": "applying cream cheek"},
+    {"type": "point", "num": 5, "title": "SPF still covers *everything*", "body": "One sunscreen, whole face, every morning. A lighter fluid texture often feels more comfortable on oilier areas.", "photo": "sunscreen face woman"},
+    {"type": "app", "title": "Two zones, one face. *Glowtrack* scans your skin and builds a routine that *fits both*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Kışın karma cilt",
+    "caption": "Havalar soğuyunca karma cilt iyice kafa karıştırıyor: burnun hâlâ parlarken yanakların pul pul olmaya başlıyor. Bütün yüze tek bir rutin uygulamak yerine iki bölgeye biraz farklı davranmak işini kolaylaştırır. Senin için hangisi daha zor, T bölgen mi yanakların mı? #ciltbakımı #ciltbakimi #karmacilt #kışbakımı #skincare",
+    "slides": [
+      {"text": "T bölgen *parlıyor*, yanakların *kuruyor* mu?", "sub": "kışlık çözüm 4. slaytta"},
+      {"title": "Her yere *tek* nazik temizleyici", "body": "Sert bir temizleyici burnundaki yağı alırken yanaklarını da kurutur. Cildi gerdirmeyen nazik bir temizleyici iki bölgeye de uyar."},
+      {"title": "Her yere *hafif* bir nemlendirici", "body": "Yağlı bölgelerin de neme ihtiyacı var. Bütün yüze hafif bir losyon ya da jel krem iyi bir temel olur."},
+      {"title": "Peelingi *sadece* T bölgesine", "body": "BHA kullanıyorsan alnında, burnunda ve çenende tut. Yanakların genelde bunu atlayabilir."},
+      {"title": "Yanaklara *bir kat daha*", "body": "Soğuk ve kuru havada sadece kuruyan yerlere biraz daha zengin krem sür. T bölgene yüklenmene gerek yok."},
+      {"title": "Güneş kremi *her yere*", "body": "Her sabah tek güneş kremi, bütün yüz. Akışkan dokular yağlı bölgelerde genelde daha rahat hissettirir."},
+      {"title": "Tek yüz, iki farklı bölge. *Işılda* cildini tarar, *ikisine de* uyan rutini çıkarır."}
+    ]
+  }
+}
