@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-03-1-purging-or-breakout",
+  "title": "Purging or breakout?",
+  "date": "2026-11-03",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F4",
+  "mentions_app": true,
+  "caption": "Starting a new active and suddenly seeing bumps can feel like the product is failing. Sometimes it's purging, sometimes it's a product that just doesn't agree with you, and the difference changes what you should do next. Have you ever had a purge from a new product? #skinpurging #retinol #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "It's *purging*, not a breakout, if…", "sub": "#3 is the easiest tell", "photo": "woman checking skin mirror"},
+    {"type": "point", "num": 1, "title": "You just started an *active*", "body": "Purging is linked to ingredients that speed up skin turnover, like retinoids and exfoliating acids. A plain moisturizer shouldn't cause it.", "photo": "serum dropper bottle"},
+    {"type": "point", "num": 2, "title": "It's in your *usual* spots", "body": "Purging tends to show up where you normally get breakouts. Bumps in brand new areas point to something else.", "photo": "woman face closeup"},
+    {"type": "point", "num": 3, "title": "It settles within *weeks*", "body": "A purge is temporary and usually calms down within a few weeks. If it keeps going past that, rethink the product.", "photo": "calendar planner desk"},
+    {"type": "point", "num": 4, "title": "If not, it's probably the *product*", "body": "Stinging, itching or bumps from a non-active product? Stop using it, and patch test the next new thing first.", "photo": "skincare products shelf"},
+    {"type": "list", "title": "While you wait it out", "items": ["Don't add *more* actives", "Hands off, no picking", "Keep moisturizer and SPF", "Use the active less often"], "photo": "woman applying moisturizer"},
+    {"type": "app", "title": "Purge or breakout? *Glowtrack* scans your skin weekly, so one bad morning won't *fool you*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Purging mi, sivilce mi?",
+    "caption": "Yeni bir aktife başlayınca birden çıkan sivilceler, ürün işe yaramıyor gibi hissettirebilir. Bazen bu purging, bazen de cildinin anlaşamadığı bir ürün; aradaki fark bir sonraki adımını değiştiriyor. Sen hiç yeni bir üründen sonra purging yaşadın mı? #ciltbakımı #ciltbakimi #purging #retinol #skincare",
+    "slides": [
+      {"text": "Bu sivilce değil, *purging*… eğer", "sub": "3. madde en kolay ipucu"},
+      {"title": "Yeni bir *aktife* başladıysan", "body": "Purging, cildin yenilenmesini hızlandıran retinoid ve peeling asitleri gibi içeriklerle ilişkili. Sade bir nemlendirici buna yol açmaz."},
+      {"title": "Hep çıkan *yerlerde* çıkıyorsa", "body": "Purging genelde zaten sivilce çıkan bölgelerde olur. Hiç çıkmayan yerlerde beliriyorsa sebep başka."},
+      {"title": "Birkaç *haftada* yatışıyorsa", "body": "Purging geçicidir, genelde birkaç hafta içinde sakinleşir. Daha uzun sürüyorsa ürünü yeniden düşün."},
+      {"title": "Değilse sorun büyük ihtimalle *üründe*", "body": "Aktif içermeyen bir ürün batma, kaşıntı ya da sivilce mi yaptı? Bırak, bir sonrakini önce yama testiyle dene."},
+      {"title": "Bu sürede ne yapmalı?", "items": ["*Yeni* aktif ekleme", "Elleme, sıkma", "Nemlendirici ve güneş kremine devam", "Aktifi daha seyrek kullan"]},
+      {"title": "Purging mi sivilce mi? *Işılda* cildini her hafta tarar, tek kötü sabah seni *yanıltmaz*."}
+    ]
+  }
+}

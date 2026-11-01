@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-03-2-kitchen-on-your-face",
+  "title": "Kitchen hacks to skip",
+  "date": "2026-11-03",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F3",
+  "mentions_app": true,
+  "caption": "DIY skincare hacks look harmless because the ingredients come from your kitchen, but natural doesn't automatically mean gentle on your face. Lemon, baking soda, toothpaste and sugar scrubs are some of the most shared ones, and each has a simpler swap. Which kitchen hack have you tried on your skin? #diyskincare #skincaremyths #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {"type": "hook", "text": "Stop putting your *kitchen* on your face", "sub": "#3 is in most bathrooms too", "photo": "homemade face mask bowl"},
+    {"type": "point", "num": 1, "title": "*Lemon juice* isn't a gentle exfoliant", "body": "It's very acidic, and citrus on skin plus sunlight can cause a reaction. Skip it, especially before going outside.", "photo": "lemon slices kitchen"},
+    {"type": "point", "num": 2, "title": "*Baking soda* throws off your skin", "body": "Your skin's surface is slightly acidic. Baking soda is alkaline, so scrubbing with it can leave skin dry and tight.", "photo": "baking soda spoon"},
+    {"type": "point", "num": 3, "title": "*Toothpaste* is for teeth", "body": "Dabbing it on a pimple can irritate the skin around it and leave a dry, red patch that's harder to cover.", "photo": "toothpaste tube"},
+    {"type": "point", "num": 4, "title": "*Sugar scrubs* are too rough", "body": "Grains with sharp edges are harsh on facial skin. If you exfoliate, pick a gentle option and use it less often.", "photo": "sugar scrub bowl"},
+    {"type": "list", "title": "What to do *instead*", "items": ["A gentle cleanser", "A moisturizer for your skin type", "SPF every morning", "Patch test anything new"], "photo": "skincare products bathroom"},
+    {"type": "app", "title": "Ditch the kitchen hacks. *Glowtrack* scans your skin and builds a routine *made for it*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Yüzüne sürmemen gereken mutfak tüyoları",
+    "caption": "Evde yapılan cilt bakımı tüyoları malzemeler mutfaktan geldiği için masum görünüyor ama doğal olması yüzüne nazik olduğu anlamına gelmiyor. Limon, karbonat, diş macunu ve şekerli peeling en çok paylaşılanlar; her birinin daha basit bir alternatifi var. Sen cildinde hangi mutfak tüyosunu denedin? #ciltbakımı #ciltbakimi #doğalmaske #ciltbakımımitleri #skincare",
+    "slides": [
+      {"text": "Mutfağı *yüzüne* sürmeyi bırak", "sub": "3. madde çoğu banyoda da var"},
+      {"title": "*Limon suyu* nazik bir peeling değil", "body": "Çok asidik; üstelik ciltteki narenciye güneşle birleşince reaksiyon yapabilir. Özellikle dışarı çıkmadan önce hiç sürme."},
+      {"title": "*Karbonat* cildinin dengesini bozar", "body": "Cildinin yüzeyi hafif asidiktir. Karbonat ise bazik; onunla ovmak cildi kuru ve gergin bırakabilir."},
+      {"title": "*Diş macunu* dişler için", "body": "Sivilcenin üstüne sürmek etrafındaki cildi tahriş edip kapatması daha zor, kuru ve kızarık bir leke bırakabilir."},
+      {"title": "*Şekerli peeling* fazla sert", "body": "Keskin kenarlı taneler yüz cildi için çok sert. Peeling yapacaksan nazik bir ürün seç ve daha seyrek kullan."},
+      {"title": "Onun *yerine*", "items": ["Nazik bir temizleyici", "Cilt tipine uygun nemlendirici", "Her sabah güneş kremi", "Yeni her şeye yama testi"]},
+      {"title": "Mutfak tüyolarını boş ver. *Işılda* cildini tarar ve rutinini *cildine göre* kurar."}
+    ]
+  }
+}
