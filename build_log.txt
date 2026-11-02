@@ -1,18 +1,18 @@
-slide 1: pixabay px-858740 (woman checking skin mirror)
-slide 2: pixabay px-5501536 (serum dropper bottle)
-slide 3: pixabay px-7608394 (woman face closeup)
-slide 4: pixabay px-3150341 (calendar planner desk)
-slide 5: pixabay px-5843505 (skincare products shelf)
-slide 6: pixabay px-4597920 (woman applying moisturizer)
+slide 1: pixabay px-5823400 (woman winter scarf snow)
+slide 2: pixabay px-7148036 (woman touching face skin)
+slide 3: pixabay px-5089939 (radiator heater room)
+slide 4: pixabay px-4685862 (woman applying moisturizer)
+slide 5: pixabay px-4528588 (cream jar bathroom)
+slide 6: pixabay px-10446511 (reading product label)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-03-1-purging-or-breakout en+tr
-slide 1: pixabay px-7503901 (homemade face mask bowl)
-slide 2: pixabay px-5017078 (lemon slices kitchen)
-slide 3: pixabay px-6775772 (baking soda spoon)
-slide 4: pixabay px-18729 (toothpaste tube)
-slide 5: pixabay px-5475879 (sugar scrub bowl)
-slide 6: pixabay px-5528562 (skincare products bathroom)
+rendered 2026-11-04-1-ceramides-winter en+tr
+slide 1: pixabay px-3157027 (woman sheet mask)
+slide 2: pixabay px-1867923 (woman sleeping bed)
+slide 3: pixabay px-5183194 (woman mirror morning)
+slide 4: pixabay px-1593837 (serum bottles collection)
+slide 5: pixabay px-3699870 (woman looking at skin)
+slide 6: pixabay px-1317289 (white pillow bedroom)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-03-2-kitchen-on-your-face en+tr
+rendered 2026-11-04-2-morning-shed-myth en+tr
