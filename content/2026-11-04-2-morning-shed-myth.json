@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-04-2-morning-shed-myth",
+  "title": "Morning shed, reality check",
+  "date": "2026-11-04",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F5",
+  "mentions_app": true,
+  "caption": "The morning shed trend looks satisfying: sleep in layers of serums, masks, patches and wraps, then peel it all off for a glowing reveal. But skin changes over weeks, not one night, and stacking strong products can irritate it. Have you tried the morning shed, and did it feel worth it? #morningshed #skincaremyths #nightroutine #skincaretips #skintok",
+  "slides": [
+    {"type": "hook", "text": "The *morning shed* glow-up isn't what it seems", "sub": "slide 6 is what's worth keeping", "photo": "woman sheet mask"},
+    {"type": "point", "num": 1, "title": "What the *morning shed* actually is", "body": "Going to bed in layers of serums, masks, patches and wraps, then peeling it all off on camera the next morning.", "photo": "woman sleeping bed"},
+    {"type": "point", "num": 2, "title": "Skin doesn't change *overnight*", "body": "Your skin renews its surface over weeks. The morning reveal is mostly fresh moisture and good lighting, not a new face.", "photo": "woman mirror morning"},
+    {"type": "point", "num": 3, "title": "Stacking actives can *backfire*", "body": "Layering several strong products in one night raises the chance of redness and stinging, especially if your skin is sensitive.", "photo": "serum bottles collection"},
+    {"type": "point", "num": 4, "title": "Heavy layers aren't for *every* skin", "body": "Thick, sealed-in layers can feel great on dry skin but may feel too heavy for oily or breakout-prone skin.", "photo": "woman looking at skin"},
+    {"type": "list", "title": "What's *worth* keeping", "items": ["One moisturizer that suits you", "A thicker layer on dry patches only", "A clean pillowcase", "Patience: judge in weeks, not nights"], "photo": "white pillow bedroom"},
+    {"type": "app", "title": "Real change takes weeks, not a night. *Glowtrack* scans your skin so you can *see it*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Morning shed akımı gerçekten işe yarıyor mu",
+    "caption": "Morning shed akımı izlemesi keyifli: gece kat kat serum, maske, bant ve sargıyla yatıp sabah hepsini soyarak ışıl ışıl bir yüz göstermek. Ama cilt bir gecede değil haftalar içinde değişir ve güçlü ürünleri üst üste koymak cildi tahriş edebilir. Sen morning shed denedin mi, değdi mi? #ciltbakımı #ciltbakimi #gecebakımı #ciltbakımımitleri #morningshed",
+    "slides": [
+      {"text": "*Morning shed* akımı göründüğü gibi değil", "sub": "6. slaytta gerçekten işe yarayanlar var"},
+      {"title": "*Morning shed* tam olarak ne?", "body": "Gece kat kat serum, maske, bant ve sargıyla yatıp sabah hepsini kamera karşısında soymak."},
+      {"title": "Cilt bir gecede *değişmez*", "body": "Cildin yüzeyini haftalar içinde yeniler. Sabahki o ışıltı çoğunlukla taze nem ve iyi ışık; yeni bir yüz değil."},
+      {"title": "Aktifleri üst üste koymak *ters tepebilir*", "body": "Aynı gece birkaç güçlü ürünü katlamak, özellikle hassas ciltte kızarıklık ve batma ihtimalini artırır."},
+      {"title": "Kalın katmanlar *her cilde* göre değil", "body": "Kalın, üstü kapatılmış katmanlar kuru ciltte iyi hissettirebilir ama yağlı ya da sivilceye yatkın ciltte fazla ağır gelebilir."},
+      {"title": "*Gerçekten* işe yarayanlar", "items": ["Sana uyan tek bir nemlendirici", "Kalın katman sadece kuru bölgelere", "Temiz bir yastık kılıfı", "Sabır: gecelere değil haftalara bak"]},
+      {"title": "Gerçek değişim bir gecede değil, haftalar içinde olur. *Işılda* cildini tarar, sen de değişimi *takip edersin*."}
+    ]
+  }
+}

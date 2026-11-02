@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-04-1-ceramides-winter",
+  "title": "Ceramides for winter",
+  "date": "2026-11-04",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F6",
+  "mentions_app": true,
+  "caption": "Ceramides don't get the hype that flashy serums do, but they're one of the most useful things to look for in a winter moisturizer. Cold air outside and heaters inside both pull water from your skin, and ceramides help your skin hold onto it. Do you check your moisturizer's label for ceramides? #ceramides #winterskincare #skinbarrier #skincaretips #skintok",
+  "slides": [
+    {"type": "hook", "text": "The most *boring* ingredient winter skin wants", "sub": "#3 is the step people skip", "photo": "woman winter scarf snow"},
+    {"type": "point", "num": 1, "title": "*Ceramides* are already in your skin", "body": "They're fats in your skin's outer layer that help hold it together and keep water from escaping. Think of them as the mortar.", "photo": "woman touching face skin"},
+    {"type": "point", "num": 2, "title": "Winter pulls *water* out faster", "body": "Cold, dry air outside and heaters inside both speed up water loss. That's when tight, flaky skin starts showing up.", "photo": "radiator heater room"},
+    {"type": "point", "num": 3, "title": "Where you put them *matters*", "body": "Ceramides work best in a moisturizer you use every day, applied after cleansing while skin is still slightly damp. Morning and night.", "photo": "woman applying moisturizer"},
+    {"type": "point", "num": 4, "title": "They work better *as a team*", "body": "Look for formulas that pair ceramides with humectants like glycerin or hyaluronic acid, plus cholesterol or fatty acids.", "photo": "cream jar bathroom"},
+    {"type": "list", "title": "How to spot them on a *label*", "items": ["Ceramide NP", "Ceramide AP", "Ceramide EOP", "Any name starting with \"ceramide\""], "photo": "reading product label"},
+    {"type": "app", "title": "Swapping moisturizers this winter? I built *Glowtrack* to scan your skin and track how it *responds*.", "screenshot": 0}
+  ],
+  "tr": {
+    "title": "Kışın seramidler",
+    "caption": "Seramidler gösterişli serumlar kadar konuşulmuyor ama kış nemlendiricisinde bakılacak en işe yarar içeriklerden biri. Dışarıdaki soğuk hava da içerideki kalorifer de cildindeki suyu çekiyor; seramidler cildinin bu suyu tutmasına yardım ediyor. Sen nemlendiricinin etiketinde seramid var mı diye bakıyor musun? #ciltbakımı #ciltbakimi #seramid #kışcildi #skincare",
+    "slides": [
+      {"text": "Kışın cildinin istediği en *sıkıcı* içerik", "sub": "3. madde herkesin atladığı adım"},
+      {"title": "*Seramidler* zaten cildinde var", "body": "Cildinin dış katmanındaki yağlardır; onu bir arada tutar, suyun kaçmasını engeller. Tuğlaların arasındaki harç gibi düşün."},
+      {"title": "Kış cildindeki *suyu* daha hızlı çeker", "body": "Dışarıdaki soğuk, kuru hava ve içerideki kalorifer nem kaybını hızlandırır. Gerginlik ve pul pul dökülme o zaman başlar."},
+      {"title": "Nereye sürdüğün *önemli*", "body": "Seramidler en iyi her gün kullandığın nemlendiricide çalışır. Yüzünü yıkadıktan sonra, cildin hâlâ hafif nemliyken sür. Sabah ve akşam."},
+      {"title": "*Takım halinde* daha iyi çalışırlar", "body": "Seramidi gliserin ya da hyaluronik asit gibi nem çekicilerle, ayrıca kolesterol veya yağ asitleriyle birleştiren formüllere bak."},
+      {"title": "Etikette nasıl *bulunur*", "items": ["Ceramide NP", "Ceramide AP", "Ceramide EOP", "\"Ceramide\" ile başlayan her isim"]},
+      {"title": "Kışa özel nemlendiriciye mi geçiyorsun? *Işılda*'yı cildini tarayıp nasıl *tepki verdiğini* takip edesin diye geliştirdim."}
+    ]
+  }
+}
