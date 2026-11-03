@@ -1,18 +1,18 @@
-slide 1: pixabay px-5823400 (woman winter scarf snow)
-slide 2: pixabay px-7148036 (woman touching face skin)
-slide 3: pixabay px-5089939 (radiator heater room)
-slide 4: pixabay px-4685862 (woman applying moisturizer)
-slide 5: pixabay px-4528588 (cream jar bathroom)
-slide 6: pixabay px-10446511 (reading product label)
+slide 1: pixabay px-10159885 (woman cold wind winter)
+slide 2: pixabay px-5823403 (woman winter scarf outdoors)
+slide 3: pixabay px-10497516 (snowy mountain sunshine)
+slide 4: pixabay px-2788337 (bathroom sink water)
+slide 5: pixabay px-7178732 (woman applying moisturizer)
+slide 6: pixabay px-7684380 (woman scarf snow)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-04-1-ceramides-winter en+tr
-slide 1: pixabay px-3157027 (woman sheet mask)
-slide 2: pixabay px-1867923 (woman sleeping bed)
-slide 3: pixabay px-5183194 (woman mirror morning)
-slide 4: pixabay px-1593837 (serum bottles collection)
-slide 5: pixabay px-3699870 (woman looking at skin)
-slide 6: pixabay px-1317289 (white pillow bedroom)
+rendered 2026-11-05-1-windburn-cheeks en+tr
+slide 1: pixabay px-4919935 (washing face sink)
+slide 2: pixabay px-6002642 (foam cleanser hands)
+slide 3: pixabay px-7048016 (woman bathroom mirror)
+slide 4: pixabay px-3688233 (woman massaging face)
+slide 5: pixabay px-10546704 (woman touching face skin)
+slide 6: pixabay px-5311726 (towel face bathroom)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-04-2-morning-shed-myth en+tr
+rendered 2026-11-05-2-sixty-second-wash en+tr
