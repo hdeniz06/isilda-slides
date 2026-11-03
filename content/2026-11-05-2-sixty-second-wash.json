@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-05-2-sixty-second-wash",
+  "title": "The 60-second face wash",
+  "date": "2026-11-05",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F9",
+  "mentions_app": true,
+  "caption": "Most of us splash, rub for a few seconds and rinse. The 60-second rule is simple: massage your cleanser in for a full minute so it has time to break down sunscreen, makeup and oil. Gentle pressure matters more than the clock, though. How long does your face wash actually take? #facewash #60secondrule #cleansing #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Your face wash takes 10 seconds. *Try 60.*",
+      "sub": "#3 is where most people mess up",
+      "photo": "washing face sink"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "What the *60-second rule* is",
+      "body": "Instead of a quick splash, you massage your cleanser into your skin for a full minute, then rinse.",
+      "photo": "foam cleanser hands"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Why the extra *time* helps",
+      "body": "A longer wash gives your cleanser time to break down sunscreen, makeup and oil, especially around your nose, hairline and jaw.",
+      "photo": "woman bathroom mirror"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "A minute of *massage*, not scrubbing",
+      "body": "Use your fingertips and light pressure. A full minute of hard rubbing just irritates your skin.",
+      "photo": "woman massaging face"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Listen to *your skin*",
+      "body": "If it feels tight or stings afterward, shorten the wash or try a gentler cleanser. Acne washes: follow the label.",
+      "photo": "woman touching face skin"
+    },
+    {
+      "type": "list",
+      "title": "The full *minute*, step by step",
+      "items": [
+        "*Lukewarm* water, never hot",
+        "Fingertips, small circles, 60 seconds",
+        "Pat dry with a *clean* towel",
+        "Moisturize while skin is still damp"
+      ],
+      "photo": "towel face bathroom"
+    },
+    {
+      "type": "app",
+      "title": "Trying 60 seconds? *Glowtrack* scans your skin weekly, so you'll see if it *shows*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "60 saniyelik yüz yıkama",
+    "caption": "Çoğumuz yüzümüze su çarpıp birkaç saniye ovuyor ve duruluyoruz. 60 saniye kuralı basit: temizleyiciyi tam bir dakika boyunca masaj yaparak uygula ki güneş kremini, makyajı ve yağı çözmeye vakti olsun. Ama burada süreden çok nazik dokunuş önemli. Senin yüz yıkaman gerçekte kaç saniye sürüyor? #ciltbakımı #ciltbakimi #yüztemizleme #60saniyekuralı #skincare",
+    "slides": [
+      {
+        "text": "Yüzünü 10 saniyede yıkıyorsun. *60 dene.*",
+        "sub": "3. maddede çoğu kişi hata yapıyor"
+      },
+      {
+        "title": "*60 saniye kuralı* nedir",
+        "body": "Yüzüne su çarpıp geçmek yerine, temizleyiciyi tam bir dakika boyunca masaj yaparak uygularsın, sonra durularsın."
+      },
+      {
+        "title": "Fazladan *süre* neden işe yarar",
+        "body": "Uzun yıkama, temizleyiciye güneş kremini, makyajı ve yağı çözme vakti verir. Özellikle burun, saç dibi ve çene hattında."
+      },
+      {
+        "title": "Bir dakika *masaj*, ovalamak değil",
+        "body": "Parmak uçlarını kullan, hafif bastır. Bir dakika boyunca sertçe ovalamak cildini sadece tahriş eder."
+      },
+      {
+        "title": "*Cildini* dinle",
+        "body": "Sonrasında gerginlik ya da yanma hissediyorsan süreyi kısalt veya daha nazik bir temizleyici dene. Sivilce jellerinde etiketteki talimata uy."
+      },
+      {
+        "title": "Adım adım *tam bir dakika*",
+        "items": [
+          "*Ilık* su, asla sıcak değil",
+          "Parmak uçları, küçük daireler, 60 saniye",
+          "*Temiz* bir havluyla tamponla",
+          "Cilt hâlâ nemliyken nemlendir"
+        ]
+      },
+      {
+        "title": "60 saniyeyi mi deniyorsun? *Işılda* cildini her hafta tarar, *farkı* kendin görürsün."
+      }
+    ]
+  }
+}

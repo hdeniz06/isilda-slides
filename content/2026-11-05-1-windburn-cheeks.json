@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-05-1-windburn-cheeks",
+  "title": "Cold wind and red cheeks",
+  "date": "2026-11-05",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F12",
+  "mentions_app": true,
+  "caption": "Those red, tight cheeks after a cold, windy walk aren't a winter glow. Wind pulls moisture from your skin, and winter sun can add to it, especially around snow. A few small changes before and after you head out make a real difference in how your skin feels. What's the first thing you do when you come in from the cold? #winterskincare #windburn #skincaretips #dryskin #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Red cheeks after the cold *aren't a glow*",
+      "sub": "#3 is what most people do wrong",
+      "photo": "woman cold wind winter"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "That's often *windburn*",
+      "body": "Cold, dry wind pulls moisture from your skin's outer layer. Red, tight, stinging cheeks after a windy walk are the classic signs.",
+      "photo": "woman winter scarf outdoors"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "It can be *sun* too",
+      "body": "Winter UV still reaches you, and snow reflects it back up at your face. Some of that redness may be sun, not just wind.",
+      "photo": "snowy mountain sunshine"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Don't warm up with *hot water*",
+      "body": "A hot rinse feels great after the cold, but it dries your skin even more. Wash your face with lukewarm water instead.",
+      "photo": "bathroom sink water"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Give your *actives* a break",
+      "body": "If your skin stings, skip retinol, acids and scrubs for a few nights. Keep it to a gentle cleanser and moisturizer.",
+      "photo": "woman applying moisturizer"
+    },
+    {
+      "type": "list",
+      "title": "Before you head *out*",
+      "items": [
+        "A *richer* moisturizer in the morning",
+        "*SPF* on any exposed skin",
+        "Lip balm, ideally with SPF",
+        "A scarf over your cheeks and nose"
+      ],
+      "photo": "woman scarf snow"
+    },
+    {
+      "type": "app",
+      "title": "Windy weeks show. *Glowtrack* scans your skin, scores it, and builds your *routine* from there.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Soğuk rüzgar ve kızaran yanaklar",
+    "caption": "Soğukta, rüzgarda yürüdükten sonra kızaran ve geren yanaklar kış ışıltısı değil. Rüzgar cildindeki nemi çekiyor, kış güneşi de buna eklenebiliyor; özellikle karlı havada. Dışarı çıkmadan önce ve eve dönünce yapacağın birkaç küçük değişiklik cildinin nasıl hissettiğini çok değiştirir. Soğuktan eve girince ilk ne yapıyorsun? #ciltbakımı #ciltbakimi #kışcildi #kurucilt #skincare",
+    "slides": [
+      {
+        "text": "Soğuktan kızaran yanaklar *ışıltı değil*",
+        "sub": "3. maddeyi çoğu kişi yanlış yapıyor"
+      },
+      {
+        "title": "Buna *rüzgar yanığı* deniyor",
+        "body": "Soğuk ve kuru rüzgar cildinin dış katmanındaki nemi çeker. Rüzgarlı bir yürüyüşten sonra kızaran, geren, yanan yanaklar tam olarak bu."
+      },
+      {
+        "title": "İşin içinde *güneş* de olabilir",
+        "body": "Kışın da UV ışınları sana ulaşır, kar da onları yüzüne geri yansıtır. O kızarıklığın bir kısmı rüzgardan değil, güneşten olabilir."
+      },
+      {
+        "title": "Isınmak için *sıcak suya* koşma",
+        "body": "Soğuktan gelince sıcak su çok iyi gelir ama cildini daha da kurutur. Yüzünü ılık suyla yıka."
+      },
+      {
+        "title": "*Aktiflere* biraz ara ver",
+        "body": "Cildin yanıyorsa birkaç gece retinol, asit ve peelingi bırak. Nazik bir temizleyici ve nemlendiriciyle idare et."
+      },
+      {
+        "title": "Dışarı *çıkmadan önce*",
+        "items": [
+          "Sabah *daha zengin* bir nemlendirici",
+          "Açıkta kalan her yere *SPF*",
+          "Dudak balmı, mümkünse SPF'li",
+          "Yanakları ve burnu kapatan bir atkı"
+        ]
+      },
+      {
+        "title": "Rüzgarlı haftalar cilde yansır. *Işılda* cildini tarar, puanlar ve *rutinini* oradan kurar."
+      }
+    ]
+  }
+}
