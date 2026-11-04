@@ -1,18 +1,18 @@
-slide 1: pixabay px-10159885 (woman cold wind winter)
-slide 2: pixabay px-5823403 (woman winter scarf outdoors)
-slide 3: pixabay px-10497516 (snowy mountain sunshine)
-slide 4: pixabay px-2788337 (bathroom sink water)
-slide 5: pixabay px-7178732 (woman applying moisturizer)
-slide 6: pixabay px-7684380 (woman scarf snow)
+slide 1: pixabay px-3605609 (skincare toner bottle)
+slide 2: pixabay px-2322901 (woman washing face)
+slide 3: pixabay px-5519873 (cosmetic bottles)
+slide 4: pixabay px-9034408 (woman holding cosmetic bottle)
+slide 5: pixabay px-6999335 (skincare serum dropper)
+slide 6: pixabay px-10110422 (woman applying skincare)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-05-1-windburn-cheeks en+tr
-slide 1: pixabay px-4919935 (washing face sink)
-slide 2: pixabay px-6002642 (foam cleanser hands)
-slide 3: pixabay px-7048016 (woman bathroom mirror)
-slide 4: pixabay px-3688233 (woman massaging face)
-slide 5: pixabay px-10546704 (woman touching face skin)
-slide 6: pixabay px-5311726 (towel face bathroom)
+rendered 2026-11-06-1-toner-wish-i-knew en+tr
+slide 1: pixabay px-4925625 (washing hands sink)
+slide 2: pixabay px-2657635 (water tap hands)
+slide 3: pixabay px-890561 (hand towel bathroom)
+slide 4: pixabay px-2727806 (hand cream tube)
+slide 5: pixabay px-1166842 (winter gloves snow)
+slide 6: pixabay px-7639482 (hands applying lotion)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-05-2-sixty-second-wash en+tr
+rendered 2026-11-06-2-winter-hand-washing en+tr
