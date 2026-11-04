@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-06-1-toner-wish-i-knew",
+  "title": "Toner: what I wish I knew",
+  "date": "2026-11-06",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F10",
+  "mentions_app": true,
+  "caption": "Toner is one of the most confusing steps because the same word covers very different products: some hydrate, some exfoliate, some are mostly alcohol. Whether you need one depends on what's in the bottle and what else is in your routine. Do you use a toner, or did you skip it? #toner #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Things I wish I knew before buying *toner*",
+      "sub": "#3 changes how you shop",
+      "photo": "skincare toner bottle"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Toner is *optional*",
+      "body": "Old-school toners wiped off leftover residue. Today's cleansers rinse clean, so toner is an extra step, not a must.",
+      "photo": "woman washing face"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Toner means *three* different things",
+      "body": "Hydrating toners add water-binding ingredients. Exfoliating toners carry acids. Astringent toners often lean on alcohol. Same word, very different jobs.",
+      "photo": "cosmetic bottles"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Read the *label*, not the name",
+      "body": "Glycerin or hyaluronic acid near the top? Hydrating. Glycolic, lactic or salicylic acid? That's an exfoliant, so treat it like one.",
+      "photo": "woman holding cosmetic bottle"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Acid toners *count* as exfoliating",
+      "body": "An acid toner plus a scrub or acid serum on the same night can be too much. Pick one.",
+      "photo": "skincare serum dropper"
+    },
+    {
+      "type": "list",
+      "title": "How to use it, *if* you do",
+      "items": [
+        "Right *after* cleansing",
+        "Before serum and moisturizer",
+        "Press in with *clean hands*",
+        "Acid toner: start a few nights a week"
+      ],
+      "photo": "woman applying skincare"
+    },
+    {
+      "type": "app",
+      "title": "Toner or not? *Glowtrack* scans your skin and builds a routine with only *what fits*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Tonik: keşke bilseydim",
+    "caption": "Tonik, cilt bakımının en kafa karıştıran adımı; çünkü aynı isim bambaşka ürünleri kapsıyor: kimi nem verir, kimi peeling yapar, kimi neredeyse tamamen alkoldür. İhtiyacın olup olmadığı şişenin içindekine ve rutininde başka ne olduğuna bağlı. Sen tonik kullanıyor musun, yoksa bu adımı atladın mı? #ciltbakımı #ciltbakimi #tonik #ciltbakımrutini #skincare",
+    "slides": [
+      {
+        "text": "*Tonik* almadan önce keşke bilseydim",
+        "sub": "3. madde alışverişini değiştirecek"
+      },
+      {
+        "title": "Tonik *şart* değil",
+        "body": "Eski tonikler temizleyiciden kalan kalıntıyı alırdı. Bugünkü temizleyiciler zaten temiz durulanıyor; yani tonik ekstra bir adım, zorunlu değil."
+      },
+      {
+        "title": "Tonik aslında *üç* farklı şey",
+        "body": "Nem veren tonikler suyu tutan içerikler ekler. Peeling tonikler asit taşır. Sıkılaştırıcılar çoğu zaman alkole yaslanır. İsim aynı, iş bambaşka."
+      },
+      {
+        "title": "İsme değil, *içeriğe* bak",
+        "body": "Listenin başında gliserin ya da hyaluronik asit varsa nem verir. Glikolik, laktik ya da salisilik asit varsa peelingdir, ona göre kullan."
+      },
+      {
+        "title": "Asitli tonik de *peeling* sayılır",
+        "body": "Aynı akşam hem asitli tonik hem de peeling ya da asitli serum kullanmak fazla gelebilir. Birini seç."
+      },
+      {
+        "title": "Kullanacaksan *böyle* kullan",
+        "items": [
+          "Temizledikten hemen *sonra*",
+          "Serum ve nemlendiriciden önce",
+          "*Temiz ellerle* bastırarak",
+          "Asitliyse haftada birkaç akşamla başla"
+        ]
+      },
+      {
+        "title": "Tonik lazım mı, değil mi? *Işılda* cildini tarar, rutinine sadece *işine yarayanı* koyar."
+      }
+    ]
+  }
+}

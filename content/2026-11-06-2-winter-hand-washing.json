@@ -1,0 +1,102 @@
+{
+  "id": "2026-11-06-2-winter-hand-washing",
+  "title": "Winter hand washing mistakes",
+  "date": "2026-11-06",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F1",
+  "mentions_app": true,
+  "caption": "Winter is rough on hands: cold air outside, heated air inside and more washing than ever. A few small changes to how you wash and dry them can make them feel a lot less tight, and none of them cost anything. Which of these do you already do? #handcare #winterskincare #dryhands #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "You're probably washing your hands *wrong* this winter",
+      "sub": "#4 takes 10 seconds",
+      "photo": "washing hands sink"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "*Hot* water is mistake one",
+      "body": "It strips more of your skin's natural oils. Lukewarm water cleans just as well and leaves hands less tight.",
+      "photo": "water tap hands"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Rubbing them dry with a *towel*",
+      "body": "Rough drying adds friction to already dry skin. Pat your hands instead, until they're just slightly damp.",
+      "photo": "hand towel bathroom"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Saving *hand cream* for later",
+      "body": "Cream applied right after washing helps hold water in your skin. Keep a tube right next to the sink.",
+      "photo": "hand cream tube"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Heading out with *bare hands*",
+      "body": "Cold, windy air dries hands fast. Gloves take ten seconds to put on and keep the wind off your skin.",
+      "photo": "winter gloves snow"
+    },
+    {
+      "type": "list",
+      "title": "Your winter *hand* routine",
+      "items": [
+        "*Lukewarm* water, gentle soap",
+        "Pat dry, don't rub",
+        "Cream after every wash",
+        "*Gloves* outside and for dishes",
+        "Thicker cream before bed"
+      ],
+      "photo": "hands applying lotion"
+    },
+    {
+      "type": "app",
+      "title": "Hands done, now your face: *Glowtrack* scans it and tracks your *skin score*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Kışın el yıkama hataları",
+    "caption": "Kış eller için zorlu bir mevsim: dışarıda soğuk hava, içeride kalorifer ve her zamankinden sık yıkama. Ellerini nasıl yıkayıp kuruladığındaki birkaç küçük değişiklik gerginlik hissini epey azaltabilir, üstelik hiçbiri para gerektirmiyor. Sen bunlardan hangisini zaten yapıyorsun? #ciltbakımı #ciltbakimi #elbakımı #kışbakımı #skincare",
+    "slides": [
+      {
+        "text": "Kışın ellerini muhtemelen *yanlış* yıkıyorsun",
+        "sub": "4. madde 10 saniye sürüyor"
+      },
+      {
+        "title": "İlk hata: *sıcak* su",
+        "body": "Cildin doğal yağlarını daha çok alır. Ilık su da aynı şekilde temizler ve ellerde daha az gerginlik bırakır."
+      },
+      {
+        "title": "Havluyla *ovalayarak* kurulamak",
+        "body": "Zaten kuru olan cilde ekstra sürtünme demek. Ellerini hafif nemli kalana kadar tamponlayarak kurula."
+      },
+      {
+        "title": "El kremini *sonraya* bırakmak",
+        "body": "Yıkadıktan hemen sonra sürülen krem, suyu ciltte tutmaya yardımcı olur. Bir tüpü lavabonun hemen yanında tut."
+      },
+      {
+        "title": "Dışarı *eldivensiz* çıkmak",
+        "body": "Soğuk ve rüzgarlı hava elleri hızla kurutur. Eldiven takmak on saniye sürer ve rüzgarı cildinden uzak tutar."
+      },
+      {
+        "title": "Kış için *el* rutinin",
+        "items": [
+          "*Ilık* su, nazik sabun",
+          "Ovalama, tamponla",
+          "Her yıkamadan sonra krem",
+          "Dışarıda ve bulaşıkta *eldiven*",
+          "Yatmadan önce daha yoğun krem"
+        ]
+      },
+      {
+        "title": "Eller tamam, sıra yüzünde: *Işılda* onu tarar ve *cilt skorunu* takip eder."
+      }
+    ]
+  }
+}
