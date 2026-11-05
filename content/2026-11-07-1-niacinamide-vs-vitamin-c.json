@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-07-1-niacinamide-vs-vitamin-c",
+  "title": "Niacinamide vs vitamin C",
+  "date": "2026-11-07",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F7",
+  "mentions_app": true,
+  "caption": "Niacinamide and vitamin C are two of the most talked-about serums right now, and the old rule that you can't use them together still shows up in comments. Here's where each one usually fits, how to layer them, and what to do if your skin gets touchy. Do you use one, both, or neither? #niacinamide #vitaminc #skincareroutine #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Niacinamide or vitamin C: which goes *first*?",
+      "sub": "and the 'never mix them' rule, slide 3",
+      "photo": "skincare serum bottle"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Vitamin C loves *mornings*",
+      "body": "It's an antioxidant, so most people use it in the morning, right under their SPF. Niacinamide works morning or night.",
+      "photo": "morning skincare routine"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "The *never mix* rule is outdated",
+      "body": "It comes from old lab tests using pure ingredients and heat. Today's formulas are generally fine to layer together.",
+      "photo": "dropper bottles table"
+    },
+    {
+      "type": "list",
+      "title": "How to *layer* both",
+      "items": [
+        "Cleanse, then pat dry",
+        "*Thinnest* serum goes first",
+        "Usually vitamin C, then niacinamide",
+        "Moisturizer on top",
+        "*SPF* last in the morning"
+      ],
+      "photo": "woman applying serum"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Tingling or redness? *Split them*",
+      "body": "Use vitamin C in the morning and niacinamide at night. Patch test new products first and add one at a time.",
+      "photo": "night skincare mirror"
+    },
+    {
+      "type": "app",
+      "title": "Morning C, night niacinamide? I built *Glowtrack* to scan your skin and plan *both* routines.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Niasinamid mi C vitamini mi",
+    "caption": "Niasinamid ve C vitamini şu sıralar en çok konuşulan iki serum; \"ikisi birlikte kullanılmaz\" kuralı da hâlâ yorumlarda dönüp duruyor. Hangisinin rutinde nereye oturduğunu, nasıl kat kat sürüleceğini ve cildin hassaslaşırsa ne yapacağını topladık. Sen hangisini kullanıyorsun: biri mi, ikisi mi, hiçbiri mi? #ciltbakımı #ciltbakimi #niasinamid #cvitamini #skincare",
+    "slides": [
+      {
+        "text": "Niasinamid mi C vitamini mi: hangisi *önce*?",
+        "sub": "\"asla karıştırma\" kuralı 3. slaytta"
+      },
+      {
+        "title": "C vitamini *sabahı* sever",
+        "body": "Antioksidan olduğu için çoğu kişi onu sabah, güneş kreminin hemen altında kullanır. Niasinamid sabah da olur, akşam da."
+      },
+      {
+        "title": "\"Asla karıştırma\" kuralı *eskidi*",
+        "body": "Saf maddeler ve ısıyla yapılan eski laboratuvar testlerinden geliyor. Bugünkü ürünler genelde rahatça üst üste sürülebiliyor."
+      },
+      {
+        "title": "İkisini nasıl *sıralarsın*",
+        "items": [
+          "Temizle, hafifçe kurula",
+          "En *akışkan* serum önce",
+          "Genelde önce C vitamini, sonra niasinamid",
+          "Üstüne nemlendirici",
+          "Sabahları en son *güneş kremi*"
+        ]
+      },
+      {
+        "title": "Batma ya da kızarıklık mı? *Ayır*",
+        "body": "C vitaminini sabah, niasinamidi akşam kullan. Yeni ürünü önce küçük bir bölgede dene ve tek tek ekle."
+      },
+      {
+        "title": "Sabah C, akşam niasinamid? *Işılda*'yı cildini tarayıp *iki rutini de* planlasın diye geliştirdim."
+      }
+    ]
+  }
+}

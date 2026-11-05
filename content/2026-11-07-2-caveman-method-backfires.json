@@ -1,0 +1,102 @@
+{
+  "id": "2026-11-07-2-caveman-method-backfires",
+  "title": "Caveman method backfires",
+  "date": "2026-11-07",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F2",
+  "mentions_app": true,
+  "caption": "The caveman method, where you stop washing your face and skip every product, keeps popping up on TikTok as a way to let skin reset itself. There's one useful idea buried in it, but skipping everything comes with real trade-offs. Would you ever try it, or is it a hard no? #cavemanmethod #skincaremyths #skincaretips #minimalistskincare #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "4 ways the *caveman method* backfires",
+      "sub": "plus the one thing it gets right",
+      "photo": "woman looking mirror"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Sunscreen and makeup *stay put*",
+      "body": "Water alone doesn't fully remove them. Left on overnight, they sit on your skin with the day's oil and sweat.",
+      "photo": "makeup removal face"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Buildup can mean *clogged pores*",
+      "body": "Oil and dead skin keep collecting without a cleanser. If you're breakout-prone, that buildup can mean more clogged pores.",
+      "photo": "close up skin"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "No SPF means *daily* UV",
+      "body": "Sun exposure is a major cause of dark spots and wrinkles. Skipping sunscreen leaves that exposure adding up every day.",
+      "photo": "sunlight face outdoors"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Skin doesn't *reset* itself",
+      "body": "How oily your skin gets depends largely on genes, hormones and climate. There's no good evidence that leaving it alone balances it.",
+      "photo": "oily skin face"
+    },
+    {
+      "type": "list",
+      "title": "What it gets *right*",
+      "items": [
+        "Over-washing can irritate skin",
+        "You don't need *10 products*",
+        "Basics: gentle cleanser at night",
+        "Moisturizer if you feel dry",
+        "*SPF* every morning"
+      ],
+      "photo": "minimal skincare products"
+    },
+    {
+      "type": "app",
+      "title": "Less, not nothing. *Glowtrack* scans your skin, scores it, and shows which basics it *needs*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Caveman method neden ters teper",
+    "caption": "Yüzünü hiç yıkamadığın ve tüm ürünleri bıraktığın \"caveman method\", cildi kendi kendine dengelemenin yolu diye TikTok'ta sürekli karşımıza çıkıyor. İçinde işe yarar bir fikir var ama her şeyi bırakmanın da bedelleri var. Sen dener miydin, yoksa kesinlikle hayır mı? #ciltbakımı #ciltbakimi #ciltbakımımitleri #sadeciltbakımı #skincare",
+    "slides": [
+      {
+        "text": "*Caveman method* 4 yerden ters tepiyor",
+        "sub": "bir de doğru bildiği tek şey var"
+      },
+      {
+        "title": "Güneş kremi ve makyaj *yerinde kalır*",
+        "body": "Sadece suyla tam çıkmazlar. Gece boyunca günün yağı ve teriyle birlikte cildinin üstünde kalırlar."
+      },
+      {
+        "title": "Birikim *gözenekleri tıkayabilir*",
+        "body": "Temizleyici olmadan yağ ve ölü deri birikmeye devam eder. Sivilceye yatkınsan bu birikim daha çok tıkalı gözenek demek olabilir."
+      },
+      {
+        "title": "Güneş kremi yoksa *her gün* UV",
+        "body": "Güneş, lekelerin ve kırışıklıkların başlıca sebeplerinden. Kremi atlarsan bu etki her gün üst üste biner."
+      },
+      {
+        "title": "Cilt kendini *sıfırlamaz*",
+        "body": "Cildinin ne kadar yağlandığı büyük ölçüde genlere, hormonlara ve iklime bağlı. Kendi haline bırakınca dengelendiğine dair sağlam bir kanıt yok."
+      },
+      {
+        "title": "*Doğru* bildiği şey",
+        "items": [
+          "Fazla yıkamak cildi tahriş edebilir",
+          "*10 ürüne* ihtiyacın yok",
+          "Temel adım: akşam nazik temizleyici",
+          "Kuruluk varsa nemlendirici",
+          "Her sabah *güneş kremi*"
+        ]
+      },
+      {
+        "title": "Az ürün, sıfır değil. *Işılda* cildini tarar, puanlar ve hangi temel adımlara *ihtiyacı* olduğunu gösterir."
+      }
+    ]
+  }
+}
