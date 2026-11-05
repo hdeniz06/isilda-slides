@@ -1,18 +1,17 @@
-slide 1: pixabay px-3605609 (skincare toner bottle)
-slide 2: pixabay px-2322901 (woman washing face)
-slide 3: pixabay px-5519873 (cosmetic bottles)
-slide 4: pixabay px-9034408 (woman holding cosmetic bottle)
-slide 5: pixabay px-6999335 (skincare serum dropper)
-slide 6: pixabay px-10110422 (woman applying skincare)
+slide 1: pixabay px-4287983 (skincare serum bottle)
+slide 2: pixabay px-3096733 (morning skincare routine)
+slide 3: pixabay px-791588 (dropper bottles table)
+slide 4: pixabay px-4512224 (woman applying serum)
+slide 5: pixabay px-10324870 (night skincare mirror)
+slide 6: app screenshot 0
+slide 6: app screenshot 0 (tr)
+rendered 2026-11-07-1-niacinamide-vs-vitamin-c en+tr
+slide 1: pixabay px-5592843 (woman looking mirror)
+slide 2: pixabay px-9677974 (makeup removal face)
+slide 3: pixabay px-8324068 (close up skin)
+slide 4: pixabay px-3629453 (sunlight face outdoors)
+slide 5: pixabay px-3625320 (oily skin face)
+slide 6: pixabay px-1191908 (minimal skincare products)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-06-1-toner-wish-i-knew en+tr
-slide 1: pixabay px-4925625 (washing hands sink)
-slide 2: pixabay px-2657635 (water tap hands)
-slide 3: pixabay px-890561 (hand towel bathroom)
-slide 4: pixabay px-2727806 (hand cream tube)
-slide 5: pixabay px-1166842 (winter gloves snow)
-slide 6: pixabay px-7639482 (hands applying lotion)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-11-06-2-winter-hand-washing en+tr
+rendered 2026-11-07-2-caveman-method-backfires en+tr
