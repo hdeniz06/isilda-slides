@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-08-1-face-shaving-myth",
+  "title": "Face shaving myth",
+  "date": "2026-11-08",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F5",
+  "mentions_app": true,
+  "caption": "Face shaving and dermaplaning are all over TikTok, and the first comment is always the same: won't it grow back thicker? It won't, but a few simple rules keep your skin calm afterward. Have you ever shaved your peach fuzz, or is it a hard no for you? #faceshaving #dermaplaning #peachfuzz #skincaremyths #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Shaving won't make your peach fuzz *thicker*",
+      "sub": "but #4 is the rule people skip",
+      "photo": "woman face closeup"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Why it *feels* thicker",
+      "body": "Shaving cuts hair at a blunt edge, so regrowth feels stubbly. It doesn't change how thick, dark or fast it grows.",
+      "photo": "woman touching cheek"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Start with a *fresh* blade",
+      "body": "Use a clean, sharp razor made for your face. A dull or shared blade drags across skin and irritates it.",
+      "photo": "razor blade closeup"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "*Clean* skin first",
+      "body": "Wash off makeup and SPF. Hold your skin taut and use short, light strokes in the direction hair grows.",
+      "photo": "woman washing face"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Skip it on *breakouts*",
+      "body": "Running a blade over active spots or irritated skin can make them worse. Wait until your skin calms down.",
+      "photo": "woman looking mirror"
+    },
+    {
+      "type": "list",
+      "title": "After you *shave*",
+      "items": [
+        "No acids or retinol *that night*",
+        "A gentle moisturizer",
+        "*SPF* the next morning",
+        "No need to do it daily"
+      ],
+      "photo": "moisturizer cream jar"
+    },
+    {
+      "type": "app",
+      "title": "Fuzz or no fuzz, I built *Glowtrack* to scan your skin and give it a *score*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Yüz tıraşı miti",
+    "caption": "Yüz tıraşı ve dermaplaning TikTok'ta her yerde, ilk yorum da hep aynı: \"Daha kalın çıkmaz mı?\" Çıkmaz, ama cildinin sonrasında rahat etmesi için birkaç basit kural var. Sen hiç yüzündeki ince tüyleri tıraş ettin mi, yoksa sana göre değil mi? #ciltbakımı #ciltbakimi #yüztıraşı #dermaplaning #skincare",
+    "slides": [
+      {
+        "text": "Yüzünü tıraş edince tüy *kalın* çıkmaz",
+        "sub": "ama 4. kuralı herkes atlıyor"
+      },
+      {
+        "title": "Neden *kalın* gibi gelir",
+        "body": "Tıraş tüyü küt keser, bu yüzden uzarken batar gibi hissettirir. Tüyün kalınlığı, rengi ya da çıkma hızı değişmez."
+      },
+      {
+        "title": "*Yeni* bir jiletle başla",
+        "body": "Yüz için yapılmış, temiz ve keskin bir jilet kullan. Körelmiş ya da ortak kullanılan jilet cildi sürter ve tahriş eder."
+      },
+      {
+        "title": "Önce cildini *temizle*",
+        "body": "Makyajı ve güneş kremini çıkar. Cildini gergin tut, tüyün çıktığı yönde kısa ve hafif hareketlerle ilerle."
+      },
+      {
+        "title": "Sivilce varsa *bekle*",
+        "body": "Aktif sivilcelerin ya da tahrişli cildin üstünden jilet geçirmek durumu kötüleştirebilir. Cildin sakinleşene kadar bekle."
+      },
+      {
+        "title": "Tıraştan *sonra*",
+        "items": [
+          "O gece asit ve retinol *yok*",
+          "Nazik bir nemlendirici",
+          "Sabah *güneş kremi*",
+          "Her gün yapmana gerek yok"
+        ]
+      },
+      {
+        "title": "Tüy olsun olmasın, *Işılda* cildini tarar ve ona bir *puan* verir. Uygulamayı ben geliştirdim."
+      }
+    ]
+  }
+}

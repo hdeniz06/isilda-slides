@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-08-2-open-jar-symbol",
+  "title": "The open jar symbol",
+  "date": "2026-11-08",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F6",
+  "mentions_app": true,
+  "caption": "That tiny open-jar symbol on the back of your skincare is the period-after-opening mark. It tells you how long a product is meant to be used once you open it, and sunscreen gets its own expiration date too. When did you last check the products on your shelf? #skincaretips #skincareshelf #expiredproducts #sunscreen #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "The tiny *open jar* on your label matters",
+      "sub": "most people never check it",
+      "photo": "skincare products shelf"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "What the *jar icon* means",
+      "body": "That little open jar with \"12M\" or \"6M\" means use it within that many months after opening.",
+      "photo": "cosmetic jar lid"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Opening *starts* the clock",
+      "body": "Air, light and fingers dipping in all wear a product down. A sealed tube and a half-used jar don't age the same.",
+      "photo": "fingers face cream jar"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Sunscreen has a *real* date",
+      "body": "Check the expiration date on your SPF. Past it, it may not protect as well as the label says. Replace it.",
+      "photo": "sunscreen bottle"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Signs it's *turned*",
+      "body": "A new smell, a color change, separating or a grainy texture. If it's changed, keep it off your face.",
+      "photo": "cream texture closeup"
+    },
+    {
+      "type": "list",
+      "title": "Make it *last*",
+      "items": [
+        "Close caps *tightly*",
+        "Keep it out of a *steamy* shower",
+        "Clean fingers or a spatula",
+        "Write the *opening date* on it"
+      ],
+      "photo": "bathroom shelf cosmetics"
+    },
+    {
+      "type": "app",
+      "title": "Shelf cleared? *Glowtrack* scans your skin and plans your routine before you *rebuy*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Açık kavanoz işareti",
+    "caption": "Cilt bakım ürünlerinin arkasındaki o minik açık kavanoz işareti, ürünü açtıktan sonra ne kadar süre kullanman gerektiğini gösteriyor. Güneş kreminin de ayrıca bir son kullanma tarihi var. Sen en son ne zaman rafındaki ürünlerin tarihine baktın? #ciltbakımı #ciltbakimi #güneşkremi #ciltbakımıönerileri #skincare",
+    "slides": [
+      {
+        "text": "Kutudaki minik *açık kavanoz* önemli",
+        "sub": "çoğu kişi hiç bakmıyor"
+      },
+      {
+        "title": "*Kavanoz* işareti ne demek",
+        "body": "Üstünde \"12M\" ya da \"6M\" yazan o küçük açık kavanoz, ürünü açtıktan sonra o kadar ay içinde kullan demek."
+      },
+      {
+        "title": "Süre *açınca* başlar",
+        "body": "Hava, ışık ve içine giren parmaklar ürünü yıpratır. Kapalı bir tüple yarısı bitmiş kavanoz aynı hızda eskimez."
+      },
+      {
+        "title": "Güneş kreminin *gerçek* bir tarihi var",
+        "body": "Güneş kremindeki son kullanma tarihine bak. Tarihi geçtiyse etikette yazdığı kadar korumayabilir. Yenisini al."
+      },
+      {
+        "title": "Bozulduğunu *böyle* anlarsın",
+        "body": "Kokusu değişmiş, rengi dönmüş, ayrışmış ya da pütürlü olmuşsa artık yüzüne sürme."
+      },
+      {
+        "title": "*Uzun* dayansın diye",
+        "items": [
+          "Kapağı *sıkıca* kapat",
+          "Buharlı banyoda *bırakma*",
+          "Temiz parmak ya da spatula",
+          "Üstüne *açtığın tarihi* yaz"
+        ]
+      },
+      {
+        "title": "Rafı boşalttın mı? *Işılda* cildini tarar ve yeni bir şey almadan önce *rutinini* planlar."
+      }
+    ]
+  }
+}
