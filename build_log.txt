@@ -1,17 +1,18 @@
-slide 1: pixabay px-4287983 (skincare serum bottle)
-slide 2: pixabay px-3096733 (morning skincare routine)
-slide 3: pixabay px-791588 (dropper bottles table)
-slide 4: pixabay px-4512224 (woman applying serum)
-slide 5: pixabay px-10324870 (night skincare mirror)
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-11-07-1-niacinamide-vs-vitamin-c en+tr
-slide 1: pixabay px-5592843 (woman looking mirror)
-slide 2: pixabay px-9677974 (makeup removal face)
-slide 3: pixabay px-8324068 (close up skin)
-slide 4: pixabay px-3629453 (sunlight face outdoors)
-slide 5: pixabay px-3625320 (oily skin face)
-slide 6: pixabay px-1191908 (minimal skincare products)
+slide 1: pixabay px-1107721 (woman face closeup)
+slide 2: pixabay px-5596494 (woman touching cheek)
+slide 3: pixabay px-5146216 (razor blade closeup)
+slide 4: pixabay px-657116 (woman washing face)
+slide 5: pixabay px-7290101 (woman looking mirror)
+slide 6: pixabay px-6894717 (moisturizer cream jar)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-07-2-caveman-method-backfires en+tr
+rendered 2026-11-08-1-face-shaving-myth en+tr
+slide 1: pixabay px-4523469 (skincare products shelf)
+slide 2: pixabay px-1975089 (cosmetic jar lid)
+slide 3: pixabay px-3060101 (fingers face cream jar)
+slide 4: pixabay px-565914 (sunscreen bottle)
+slide 5: pixabay px-545371 (cream texture closeup)
+slide 6: pixabay px-665158 (bathroom shelf cosmetics)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-11-08-2-open-jar-symbol en+tr
