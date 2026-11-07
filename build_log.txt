@@ -1,18 +1,18 @@
-slide 1: pixabay px-1107721 (woman face closeup)
-slide 2: pixabay px-5596494 (woman touching cheek)
-slide 3: pixabay px-5146216 (razor blade closeup)
-slide 4: pixabay px-657116 (woman washing face)
-slide 5: pixabay px-7290101 (woman looking mirror)
-slide 6: pixabay px-6894717 (moisturizer cream jar)
+slide 1: pixabay px-7442795 (skincare bottles shelf)
+slide 2: pixabay px-4246063 (white cream jar)
+slide 3: pixabay px-20978 (woman smelling lotion)
+slide 4: pixabay px-1576564 (reading product label)
+slide 5: pixabay px-8429709 (woman applying face cream)
+slide 6: pixabay px-4518814 (cream on wrist)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-08-1-face-shaving-myth en+tr
-slide 1: pixabay px-4523469 (skincare products shelf)
-slide 2: pixabay px-1975089 (cosmetic jar lid)
-slide 3: pixabay px-3060101 (fingers face cream jar)
-slide 4: pixabay px-565914 (sunscreen bottle)
-slide 5: pixabay px-545371 (cream texture closeup)
-slide 6: pixabay px-665158 (bathroom shelf cosmetics)
+rendered 2026-11-09-1-unscented-vs-fragrance-free en+tr
+slide 1: pixabay px-2405565 (face oil dropper bottle)
+slide 2: pixabay px-1868459 (water drops skin)
+slide 3: pixabay px-4257913 (skincare products row)
+slide 4: pixabay px-15599 (woman applying sunscreen face)
+slide 5: pixabay px-7436286 (oil drops hands)
+slide 6: pixabay px-3150293 (woman looking mirror bathroom)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-08-2-open-jar-symbol en+tr
+rendered 2026-11-09-2-winter-face-oil en+tr
