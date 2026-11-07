@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-09-1-unscented-vs-fragrance-free",
+  "title": "Unscented vs fragrance-free",
+  "date": "2026-11-09",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F7",
+  "mentions_app": true,
+  "caption": "Unscented and fragrance-free sound like the same promise, but they aren't. One means nothing was added for scent, the other just means the product shouldn't smell like anything. When winter leaves your skin dry and touchy, that difference matters. Did you know these labels meant different things? #fragrancefree #sensitiveskin #skincaretips #winterskincare #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Unscented vs fragrance-free: *not the same thing*",
+      "sub": "check slide 3, that's where it hides",
+      "photo": "skincare bottles shelf"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "*Fragrance-free*: nothing added for scent",
+      "body": "No fragrance is added to make it smell nice. It's the label to look for when your skin reacts easily.",
+      "photo": "white cream jar"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "*Unscented* just means no smell",
+      "body": "The product shouldn't smell, but it can still contain masking ingredients that cover the scent of other ingredients.",
+      "photo": "woman smelling lotion"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Read the *ingredient list*",
+      "body": "Look for fragrance, parfum or aroma. Essential oils can add scent too, even when fragrance isn't on the list.",
+      "photo": "reading product label"
+    },
+    {
+      "type": "list",
+      "title": "When it matters *most*",
+      "items": [
+        "Your skin *stings* easily",
+        "Dry, cracked *winter* skin",
+        "Products near your eyes",
+        "Leave-on steps like *moisturizer*"
+      ],
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Still reacting? *Patch test*",
+      "body": "Even fragrance-free products can bother some skin. Try a new one on a small spot for a few days first.",
+      "photo": "cream on wrist"
+    },
+    {
+      "type": "app",
+      "title": "Touchy winter skin? I built *Glowtrack* to scan your skin and build a routine that *fits*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Kokusuz mu, parfümsüz mü?",
+    "caption": "Kokusuz ve parfümsüz aynı şeyi vaat ediyor gibi duruyor ama değil. Biri ürüne koku için hiçbir şey eklenmediğini söyler, diğeri sadece ürünün kokmadığını. Kış cildini kurutup hassaslaştırdığında bu fark önem kazanıyor. Bu iki etiketin farklı olduğunu biliyor muydun? #ciltbakımı #ciltbakimi #hassascilt #kışbakımı #skincare",
+    "slides": [
+      {
+        "text": "Kokusuz ile parfümsüz *aynı şey değil*",
+        "sub": "3. slayta bak, orada saklanıyor"
+      },
+      {
+        "title": "*Parfümsüz*: koku için hiçbir şey eklenmemiş",
+        "body": "Ürüne güzel koksun diye parfüm eklenmemiş demek. Cildin kolay tepki veriyorsa bakman gereken etiket bu."
+      },
+      {
+        "title": "*Kokusuz* sadece kokmuyor demek",
+        "body": "Ürün kokmaz ama içinde diğer maddelerin kokusunu bastırmak için eklenmiş maddeler olabilir."
+      },
+      {
+        "title": "*İçerik listesini* oku",
+        "body": "Fragrance, parfum ya da aroma yazıyor mu bak. Listede parfüm yazmasa bile uçucu yağlar da koku katabilir."
+      },
+      {
+        "title": "En çok *ne zaman* önemli",
+        "items": [
+          "Cildin çabuk *kızarıyorsa*",
+          "Kışın kuruyup *çatlayan* cilt",
+          "Göz çevresine sürdüklerin",
+          "*Nemlendirici* gibi durulanmayanlar"
+        ]
+      },
+      {
+        "title": "Hâlâ tepki mi var? *Yama testi*",
+        "body": "Parfümsüz ürünler bile bazı ciltlere dokunabilir. Yeni ürünü önce birkaç gün küçük bir bölgede dene."
+      },
+      {
+        "title": "Kışın cildin hassaslaştı mı? *Işılda*'yı, cildini tarayıp ona *uyan* bir rutin kursun diye geliştirdim."
+      }
+    ]
+  }
+}

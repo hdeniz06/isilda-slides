@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-09-2-winter-face-oil",
+  "title": "Face oil in winter",
+  "date": "2026-11-09",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F12",
+  "mentions_app": true,
+  "caption": "Cold air and indoor heating make winter the season people finally reach for face oil. It can make dry skin feel softer, but only if you know what it does, where it goes and how much to use. Here's the simple version before you buy one. Are you team face oil or team skip it? #faceoil #winterskincare #dryskin #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Winter is when *face oil* finally makes sense",
+      "sub": "check slide 3 before you buy one",
+      "photo": "face oil dropper bottle"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Oil doesn't add *water*",
+      "body": "Face oil softens skin and helps hold moisture in, but it doesn't hydrate on its own. It works on top of hydration.",
+      "photo": "water drops skin"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Oil goes *near the end*",
+      "body": "Thin, water-based steps first, oil on top. Underneath, it can make it harder for those lighter layers to sink in.",
+      "photo": "skincare products row"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Mornings: *SPF* stays last",
+      "body": "Using oil in the morning? Keep it light and put sunscreen on top. At night, oil can be your last step.",
+      "photo": "woman applying sunscreen face"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "A *few drops* is plenty",
+      "body": "Warm a few drops between your palms and press them onto your face. Extra just sits on top and feels greasy.",
+      "photo": "oil drops hands"
+    },
+    {
+      "type": "list",
+      "title": "Go *easy* if your skin…",
+      "items": [
+        "Breaks out *easily*",
+        "Gets *oily* by noon",
+        "Hasn't tried this oil yet: *patch test*"
+      ],
+      "photo": "woman looking mirror bathroom"
+    },
+    {
+      "type": "app",
+      "title": "Oil or no oil? *Glowtrack* scans your skin and builds your routine *step by step*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Kışın yüz yağı",
+    "caption": "Soğuk hava ve kaloriferler kışı yüz yağının en çok arandığı mevsim yapıyor. Kuru cildi daha yumuşak hissettirebilir ama ne işe yaradığını, rutinde nereye geldiğini ve ne kadar kullanılacağını bilirsen. Almadan önce kısa versiyonu burada. Sen yüz yağı kullanıyor musun, yoksa hiç sana göre değil mi? #ciltbakımı #ciltbakimi #yüzyağı #kurucilt #skincare",
+    "slides": [
+      {
+        "text": "Yüz yağı tam da *kışın* işe yarar",
+        "sub": "almadan önce 3. slayta bak"
+      },
+      {
+        "title": "Yağ cilde *su* katmaz",
+        "body": "Yüz yağı cildi yumuşatır ve nemi içeride tutmaya yardım eder ama tek başına nem vermez. Nemin üstüne gelir."
+      },
+      {
+        "title": "Yağ rutinin *sonuna* yakın",
+        "body": "Önce hafif, su bazlı ürünler, yağ en üste. Altta kalırsa o hafif katmanların cilde yerleşmesini zorlaştırabilir."
+      },
+      {
+        "title": "Sabah *güneş kremi* en sonda",
+        "body": "Sabah yağ kullanıyorsan az sür ve üstüne güneş kremini sür. Akşam yağ son adımın olabilir."
+      },
+      {
+        "title": "*Birkaç damla* yeterli",
+        "body": "Birkaç damlayı avuçlarında ısıt, yüzüne bastırarak yay. Fazlası üstte kalır ve cildi yağlı gösterir."
+      },
+      {
+        "title": "Cildin şöyleyse *dikkat*",
+        "items": [
+          "Kolay *sivilceleniyorsa*",
+          "Öğlene doğru *yağlanıyorsa*",
+          "Bu yağı ilk kez deniyorsan: *yama testi*"
+        ]
+      },
+      {
+        "title": "Yağ mı, değil mi? *Işılda* cildini tarar ve rutinini *adım adım* kurar. Uygulamayı ben geliştirdim."
+      }
+    ]
+  }
+}
