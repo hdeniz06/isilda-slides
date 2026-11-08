@@ -1,18 +1,18 @@
-slide 1: pixabay px-7442795 (skincare bottles shelf)
-slide 2: pixabay px-4246063 (white cream jar)
-slide 3: pixabay px-20978 (woman smelling lotion)
-slide 4: pixabay px-1576564 (reading product label)
-slide 5: pixabay px-8429709 (woman applying face cream)
-slide 6: pixabay px-4518814 (cream on wrist)
+slide 1: pixabay px-7577808 (woman applying night cream)
+slide 2: pixabay px-3180072 (woman touching face mirror)
+slide 3: pixabay px-2135774 (frosty window winter)
+slide 4: pixabay px-10115390 (bedroom night lamp)
+slide 5: pixabay px-5301748 (moisturizer cream jar)
+slide 6: pixabay px-10295083 (sunscreen bottle)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-09-1-unscented-vs-fragrance-free en+tr
-slide 1: pixabay px-2405565 (face oil dropper bottle)
-slide 2: pixabay px-1868459 (water drops skin)
-slide 3: pixabay px-4257913 (skincare products row)
-slide 4: pixabay px-15599 (woman applying sunscreen face)
-slide 5: pixabay px-7436286 (oil drops hands)
-slide 6: pixabay px-3150293 (woman looking mirror bathroom)
+rendered 2026-11-10-1-winter-retinol-signs en+tr
+slide 1: pixabay px-6878042 (bathroom mirror light)
+slide 2: pixabay px-6135236 (woman looking mirror bathroom)
+slide 3: pixabay px-5718084 (woman window daylight)
+slide 4: pixabay px-10545016 (morning coffee window)
+slide 5: pixabay px-10483215 (woman taking selfie)
+slide 6: pixabay px-476977 (calendar notebook desk)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-09-2-winter-face-oil en+tr
+rendered 2026-11-10-2-progress-photo-lighting en+tr
