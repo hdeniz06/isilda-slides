@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-10-1-winter-retinol-signs",
+  "title": "Retinol too much in winter",
+  "date": "2026-11-10",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F4",
+  "mentions_app": true,
+  "caption": "Cold air outside and dry heat inside can make the same retinol routine that felt fine in summer suddenly feel harsh. These are the signs it's too much right now, plus three simple ways to adjust without giving it up. Has your retinol felt different since it got cold? #retinol #winterskincare #dryskin #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Your retinol is *too much* for winter if…",
+      "sub": "3 easy fixes after the signs",
+      "photo": "woman applying night cream"
+    },
+    {
+      "type": "list",
+      "title": "The *signs* to watch",
+      "items": [
+        "Moisturizer *stings* going on",
+        "Flakes around your *nose and mouth*",
+        "Skin feels *tight* all day",
+        "Red, *shiny* patches that stay"
+      ],
+      "photo": "woman touching face mirror"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "*Why* winter changes things",
+      "body": "Cold air outside and heating inside pull moisture from skin. The same retinol routine from summer can suddenly feel harsher.",
+      "photo": "frosty window winter"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Fix 1: *fewer* nights",
+      "body": "Drop to every second or third night for a while. Spacing it out is a normal adjustment, not quitting.",
+      "photo": "bedroom night lamp"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Fix 2: the *sandwich*",
+      "body": "Thin layer of moisturizer, a pea-sized amount of retinol, then moisturizer again. It cushions retinol on dry skin.",
+      "photo": "moisturizer cream jar"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Fix 3: give it *space*",
+      "body": "Skip exfoliating acids on retinol nights and keep SPF every morning. If irritation doesn't settle, check with a dermatologist.",
+      "photo": "sunscreen bottle"
+    },
+    {
+      "type": "app",
+      "title": "Retinol feeling harsher lately? *Glowtrack* scans your skin and tracks how it *responds* each week.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Kışın retinol fazla gelirse",
+    "caption": "Dışarıda soğuk, içeride kalorifer derken yazın hiç sorun çıkarmayan retinol rutini kışın birden sert gelmeye başlayabilir. Şu an sana fazla geldiğini gösteren işaretler ve retinolü bırakmadan yapabileceğin üç basit ayar burada. Hava soğuyunca senin retinolün de farklı mı gelmeye başladı? #ciltbakımı #ciltbakimi #retinol #kışcildi #skincare",
+    "slides": [
+      {
+        "text": "Şunlar varsa retinol kışın sana *fazla* geliyor",
+        "sub": "işaretlerden sonra 3 kolay ayar"
+      },
+      {
+        "title": "*İşaretler* bunlar",
+        "items": [
+          "Nemlendirici sürünce *batıyor*",
+          "Burun ve ağız çevresi *pul pul*",
+          "Cilt gün boyu *gergin*",
+          "Geçmeyen *kızarık*, parlak bölgeler"
+        ]
+      },
+      {
+        "title": "Kış neden *fark* yaratıyor",
+        "body": "Dışarıda soğuk hava, içeride kalorifer cildin nemini çeker. Yazın rahat kullandığın retinol birden sert gelmeye başlayabilir."
+      },
+      {
+        "title": "1. ayar: *daha seyrek*",
+        "body": "Bir süre iki ya da üç gecede bir kullan. Arayı açmak bırakmak değil, cildine uyum süresi tanımak."
+      },
+      {
+        "title": "2. ayar: *sandviç* yöntemi",
+        "body": "İnce bir kat nemlendirici, bezelye kadar retinol, üstüne yine nemlendirici. Kuru ciltte retinolün sertliğini yumuşatır."
+      },
+      {
+        "title": "3. ayar: araya *mesafe* koy",
+        "body": "Retinol gecelerinde asitli peeling kullanma, sabahları güneş kremini atlama. Tahriş geçmiyorsa bir dermatoloğa danış."
+      },
+      {
+        "title": "Retinol sert mi geliyor? *Işılda* cildini tarar, her hafta nasıl *tepki* verdiğini takip eder."
+      }
+    ]
+  }
+}

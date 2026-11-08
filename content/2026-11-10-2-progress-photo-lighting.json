@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-10-2-progress-photo-lighting",
+  "title": "Progress photos done right",
+  "date": "2026-11-10",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F3",
+  "mentions_app": true,
+  "caption": "Bathroom lighting, a different time of day or a new angle can make your skin look better or worse than it really is. If you want to know whether your routine is doing anything, your progress photos need the same conditions every time. Here are four rules for a fair comparison. Do you take skin progress photos, or just check the mirror? #skincareroutine #progresspics #skincaretips #glowup #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Stop checking your skin in *bathroom lighting*",
+      "sub": "the 4-rule photo check inside",
+      "photo": "bathroom mirror light"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Lighting *changes everything*",
+      "body": "Overhead bathroom lights cast shadows that make texture and pores look deeper. A different bulb can make your skin look totally different.",
+      "photo": "woman looking mirror bathroom"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Rule 1: *same light*",
+      "body": "Face a window in daylight, no filter, no flash. Same spot every time, so the light isn't what changed.",
+      "photo": "woman window daylight"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Rule 2: *same time* of day",
+      "body": "Skin can look puffier in the morning and shinier by evening. Pick one time and stick to it.",
+      "photo": "morning coffee window"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Rule 3: *bare skin*, same angle",
+      "body": "Clean face, no makeup, before skincare. Front and both sides, phone at eye level.",
+      "photo": "woman taking selfie"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "Rule 4: compare *weeks*, not days",
+      "body": "Day-to-day changes are mostly noise. Line up photos a few weeks apart to see what's actually shifting.",
+      "photo": "calendar notebook desk"
+    },
+    {
+      "type": "app",
+      "title": "Same light, real progress: I built *Glowtrack* to scan your skin and track your *skin score*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Doğru ilerleme fotoğrafı",
+    "caption": "Banyo ışığı, günün farklı bir saati ya da başka bir açı cildini olduğundan iyi veya kötü gösterebilir. Rutininin gerçekten işe yarayıp yaramadığını görmek istiyorsan fotoğrafları her seferinde aynı koşullarda çekmen gerekiyor. Adil bir karşılaştırma için dört kural burada. Sen cildinin fotoğrafını çekiyor musun, yoksa sadece aynaya mı bakıyorsun? #ciltbakımı #ciltbakimi #ciltbakımrutini #öncesonrası #skincare",
+    "slides": [
+      {
+        "text": "Cildini *banyo ışığında* kontrol etmeyi bırak",
+        "sub": "4 kurallı fotoğraf testi içeride"
+      },
+      {
+        "title": "Işık her şeyi *değiştirir*",
+        "body": "Tavandaki banyo ışığı gölge düşürür, gözenekler ve doku olduğundan derin görünür. Başka bir ampulde cildin bambaşka görünebilir."
+      },
+      {
+        "title": "1. kural: *aynı ışık*",
+        "body": "Gün ışığında pencereye dön; filtre yok, flaş yok. Hep aynı yerde çek ki değişen şey ışık olmasın."
+      },
+      {
+        "title": "2. kural: günün *aynı saati*",
+        "body": "Cilt sabah daha şiş, akşam daha parlak görünebilir. Bir saat seç ve hep o saatte çek."
+      },
+      {
+        "title": "3. kural: *çıplak cilt*, aynı açı",
+        "body": "Temiz yüz, makyaj yok, bakımdan önce. Önden ve iki yandan, telefon göz hizasında."
+      },
+      {
+        "title": "4. kural: günleri değil *haftaları* kıyasla",
+        "body": "Günlük farklar çoğunlukla yanıltır. Neyin gerçekten değiştiğini görmek için birkaç hafta arayla çektiğin fotoğrafları yan yana koy."
+      },
+      {
+        "title": "Aynı ışık, gerçek ilerleme: *Işılda*'yı cildini tarayıp *cilt skorunu* takip etmen için geliştirdim."
+      }
+    ]
+  }
+}
