@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-11-1-ingredient-list-order",
+  "title": "How to read an ingredient list",
+  "date": "2026-11-11",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F1",
+  "mentions_app": true,
+  "caption": "Ingredient lists aren't random. Ingredients above 1% are listed from most to least, and below that line the order stops telling you much. That's why the hyped ingredient on the front of the bottle can end up near the very bottom of the list. Which ingredient do you always look for on the label first? #skincaretips #ingredientlist #skincareroutine #skintok #skincare101",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "You're probably reading your *ingredient list* wrong",
+      "sub": "the 1% rule is on slide 3",
+      "photo": "skincare product label"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "It's listed *highest amount first*",
+      "body": "Ingredients go from most to least by amount. The first few usually make up most of the formula.",
+      "photo": "cosmetic bottles shelf"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Below 1%, *order means less*",
+      "body": "Ingredients at 1% or less can be listed in any order. Past that line, position won't tell you who's stronger.",
+      "photo": "serum dropper bottle"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Find the *1% line*",
+      "body": "Preservatives like phenoxyethanol are usually used at 1% or less. What comes after them is likely a small amount.",
+      "photo": "woman reading bottle"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Water first is *totally normal*",
+      "body": "Most creams and serums are mostly water, so seeing it at the top isn't a red flag or a sign of a weak product.",
+      "photo": "water drops glass"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "Long names aren't *automatically scary*",
+      "body": "Tocopherol is vitamin E. Sodium hyaluronate is a form of hyaluronic acid. Look names up before you panic.",
+      "photo": "skincare products flat lay"
+    },
+    {
+      "type": "app",
+      "title": "Label decoded. Now your skin: *Glowtrack* scans it and builds a routine that *matches*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "İçerik listesi nasıl okunur",
+    "caption": "Ürünlerin içerik listesi rastgele yazılmıyor. %1'in üzerindeki maddeler çoktan aza doğru sıralanıyor, bu sınırın altında ise sıra pek bir şey anlatmıyor. Şişenin önünde parlayan o yıldız içerik bu yüzden listenin en sonlarında çıkabiliyor. Sen etikette ilk hangi içeriğe bakıyorsun? #ciltbakımı #ciltbakimi #içerikanalizi #ciltbakımrutini #skincare",
+    "slides": [
+      {
+        "text": "Ürün etiketini muhtemelen *yanlış okuyorsun*",
+        "sub": "%1 kuralı 3. slaytta"
+      },
+      {
+        "title": "En *çok olan* en başta yazılır",
+        "body": "Maddeler miktarına göre çoktan aza sıralanır. İlk birkaç madde genelde formülün büyük kısmını oluşturur."
+      },
+      {
+        "title": "%1'in altında *sıra önemsizleşir*",
+        "body": "%1 ve altındaki maddeler istenen sırayla yazılabilir. O sınırdan sonra hangisinin daha fazla olduğunu sıradan anlayamazsın."
+      },
+      {
+        "title": "*%1 çizgisini* bul",
+        "body": "Phenoxyethanol gibi koruyucular genelde %1 veya altında kullanılır. Ondan sonra gelenler büyük ihtimalle az miktardadır."
+      },
+      {
+        "title": "Su en başta mı? *Gayet normal*",
+        "body": "Kremlerin ve serumların çoğu büyük oranda sudur. Suyun en üstte olması ürünün zayıf olduğunu göstermez."
+      },
+      {
+        "title": "Uzun isimler *korkutucu değil*",
+        "body": "Tocopherol, E vitaminidir. Sodium hyaluronate, hyaluronik asidin bir formudur. Paniklemeden önce adını bir arat."
+      },
+      {
+        "title": "Etiketi çözdün, sıra cildinde: *Işılda* cildini tarar, ihtiyacına *uyan* rutini çıkarır."
+      }
+    ]
+  }
+}

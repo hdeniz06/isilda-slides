@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-11-2-tight-skin-mornings",
+  "title": "Tight, dry skin in the morning",
+  "date": "2026-11-11",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F8",
+  "mentions_app": true,
+  "caption": "Heated winter air is dry, and you spend hours breathing and sleeping in it every night. If your face feels tight or flaky when you wake up, your night routine and your bedroom air are the first places to look. Here are four simple changes to try this week. Does your skin feel tighter in the morning or at night? #dryskin #winterskincare #nightroutine #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Waking up with *tight, dry skin*? Save this",
+      "sub": "#4 is about your bedroom air",
+      "photo": "woman waking up bed"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Wash *gentler* at night",
+      "body": "Swap a strong foaming cleanser for a creamy or low-foam one, and use lukewarm water instead of hot.",
+      "photo": "washing face sink"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Go *richer* before bed",
+      "body": "A gel can feel thin in heated air. A cream at night gives dry skin more to hold on to.",
+      "photo": "face cream jar"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Seal *only the dry patches*",
+      "body": "Add a thin layer of petrolatum or a balm on flaky spots like cheeks or around the nose. No need to coat everything.",
+      "photo": "applying cream cheek"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Check your *bedroom air*",
+      "body": "Heating dries out indoor air. A humidifier adds moisture back; clean it as the instructions say.",
+      "photo": "humidifier bedroom"
+    },
+    {
+      "type": "app",
+      "title": "Tight mornings? *Glowtrack* scans your skin, scores it, and builds a *night routine* around it.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Sabahları gergin, kuru cilt",
+    "caption": "Kaloriferli kış havası kuru ve her gece saatlerce o havada uyuyoruz. Sabah uyandığında yüzün geriliyor ya da pul pul oluyorsa, ilk bakılacak yer gece rutinin ve yatak odanın havası. Bu hafta deneyebileceğin dört basit değişiklik burada. Senin cildin sabah mı daha çok geriliyor, akşam mı? #ciltbakımı #ciltbakimi #kurucilt #kışciltbakımı #skincare",
+    "slides": [
+      {
+        "text": "Sabahları cildin *gergin ve kuru* mu? Kaydet",
+        "sub": "4. madde yatak odanın havası"
+      },
+      {
+        "title": "Gece *daha nazik* yıka",
+        "body": "Çok köpüren temizleyici yerine kremsi ya da az köpüren bir tane kullan, sıcak değil ılık suyla yıka."
+      },
+      {
+        "title": "Yatmadan önce *daha yoğun* nemlendir",
+        "body": "Kalorifer havasında jel nemlendirici hafif kalabilir. Gece krem kıvamında bir ürün kuru cilde daha çok destek olur."
+      },
+      {
+        "title": "Sadece *kuru bölgeleri* kapat",
+        "body": "Pul pul olan yanaklara ya da burun kenarlarına ince bir kat vazelin veya balm sür. Tüm yüzü kaplamana gerek yok."
+      },
+      {
+        "title": "Yatak odanın *havasına* bak",
+        "body": "Kalorifer içerideki havayı kurutur. Nemlendirici cihaz havaya nemi geri verir; kullanım talimatına göre temizlemeyi unutma."
+      },
+      {
+        "title": "Sabahları gerginlik mi var? *Işılda* cildini tarar, puanlar ve ona göre bir *gece rutini* çıkarır."
+      }
+    ]
+  }
+}
