@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-12-2-peptides-wish-i-knew",
+  "title": "Peptides: what to know first",
+  "date": "2026-11-12",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F10",
+  "mentions_app": true,
+  "caption": "Peptides are one of the most hyped ingredients right now, and the word shows up on everything from serums to eye creams. Before you buy one, it helps to know what the label is really telling you and how long to give it. Here are five things worth knowing first. Have you tried a peptide product yet, or are you still on the fence? #peptides #skincareingredients #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Wish I knew this before trying *peptides*",
+      "sub": "#2 changes how you shop",
+      "photo": "skincare serum bottle"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Peptides are a *family*, not one thing",
+      "body": "Peptides are short chains of amino acids, and products use many different types. \"Peptide serum\" alone tells you very little.",
+      "photo": "serum dropper glass"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Check *where* it sits on the label",
+      "body": "Ingredients are listed from most to least. If the peptide shows up at the very end, there's likely only a little in there.",
+      "photo": "reading product label"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "They usually *layer* easily",
+      "body": "Most peptides feel gentle and fit into any routine. Copper peptides are the one people often keep apart from strong acids.",
+      "photo": "woman applying serum"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Give it *weeks*, not days",
+      "body": "Like most leave-on products, changes are slow. Use it consistently for a couple of months before you decide.",
+      "photo": "calendar planner desk"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "It doesn't replace *SPF*",
+      "body": "No serum stands in for daily sunscreen. Peptides are an extra; cleanser, moisturizer and SPF still come first.",
+      "photo": "sunscreen bottle"
+    },
+    {
+      "type": "app",
+      "title": "Peptides take patience. *Glowtrack* scans your skin weekly, so you can *look back* later.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Peptitler: önce bunu bil",
+    "caption": "Peptitler şu an en çok konuşulan içeriklerden biri, serumdan göz kremine her şeyin üstünde bu kelimeyi görüyorsun. Almadan önce etiketin sana gerçekte ne söylediğini ve ürüne ne kadar süre tanıman gerektiğini bilmek işini kolaylaştırır. İşte önceden bilmeye değer beş şey. Sen peptitli bir ürün denedin mi, yoksa hâlâ kararsız mısın? #ciltbakımı #ciltbakimi #peptit #serum #skincare",
+    "slides": [
+      {
+        "text": "*Peptitleri* denemeden önce keşke bunları bilseydim",
+        "sub": "2. madde alışveriş şeklini değiştirir"
+      },
+      {
+        "title": "Peptit tek bir şey değil, *bir aile*",
+        "body": "Peptitler kısa amino asit zincirleri ve ürünlerde çok farklı türleri var. Sadece \"peptit serumu\" yazması pek bir şey anlatmaz."
+      },
+      {
+        "title": "Etikette *nerede* olduğuna bak",
+        "body": "İçerikler çoktan aza sıralanır. Peptit listenin en sonundaysa, üründe büyük ihtimalle çok az var."
+      },
+      {
+        "title": "Rutine *kolayca* uyar",
+        "body": "Peptitlerin çoğu nazik hissettirir ve her rutine girer. Bakır peptitler ise genelde güçlü asitlerden ayrı kullanılır."
+      },
+      {
+        "title": "Günler değil, *haftalar* ver",
+        "body": "Çoğu durulanmayan üründe olduğu gibi değişim yavaş olur. Karar vermeden önce birkaç ay düzenli kullan."
+      },
+      {
+        "title": "Güneş kreminin *yerini tutmaz*",
+        "body": "Hiçbir serum günlük güneş kreminin yerini almaz. Peptit ekstra bir adım; temizleyici, nemlendirici ve SPF hâlâ önce gelir."
+      },
+      {
+        "title": "Peptitler sabır ister. *Işılda* cildini her hafta tarar, böylece sonradan *geriye bakabilirsin*."
+      }
+    ]
+  }
+}

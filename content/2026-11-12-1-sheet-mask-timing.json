@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-12-1-sheet-mask-timing",
+  "title": "Sheet mask mistakes",
+  "date": "2026-11-12",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F3",
+  "mentions_app": true,
+  "caption": "Sheet masks are everywhere once the heating comes on, but a few small habits decide whether they feel worth it. Longer isn't better, and what you do right after the mask matters as much as the mask itself. Here are four things to get right next time. How long do you usually keep yours on? #sheetmask #winterskincare #skincaretips #dryskin #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Stop leaving your sheet mask on *too long*",
+      "sub": "#3 is the step most people skip",
+      "photo": "woman sheet mask"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Follow the *time* on the pack",
+      "body": "Most packs list a time, often around 15 to 20 minutes. Once the sheet starts drying out, take it off.",
+      "photo": "relaxing face mask"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Start on *clean* skin",
+      "body": "Cleanse first, so the serum sits on your skin instead of on leftover sunscreen, makeup and oil from the day.",
+      "photo": "washing face sink"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Seal it with *moisturizer*",
+      "body": "Pat the leftover serum in, then follow with your moisturizer. In dry winter air, that last layer helps hold everything in.",
+      "photo": "applying face cream"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Check for *fragrance* first",
+      "body": "Many masks are scented. If your skin gets irritated easily, look for fragrance-free ones and read the ingredient list.",
+      "photo": "reading product label"
+    },
+    {
+      "type": "app",
+      "title": "Masks are a bonus step. *Glowtrack* scans your skin and builds the *daily routine* around it.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Kağıt maske hataları",
+    "caption": "Kaloriferler yanınca kağıt maskeler yine elden düşmüyor, ama verimli olup olmamaları birkaç küçük alışkanlığa bağlı. Daha uzun tutmak daha iyi demek değil ve maskeden hemen sonra yaptığın şey en az maskenin kendisi kadar önemli. Bir dahaki sefere dikkat etmen gereken dört şey burada. Sen maskeni genelde ne kadar tutuyorsun? #ciltbakımı #ciltbakimi #kağıtmaske #kışciltbakımı #sheetmask",
+    "slides": [
+      {
+        "text": "Kağıt maskeni *fazla uzun* tutmayı bırak",
+        "sub": "3. adımı çoğu kişi atlıyor"
+      },
+      {
+        "title": "Paketteki *süreye* uy",
+        "body": "Çoğu pakette süre yazar, genelde 15-20 dakika civarı. Maske kurumaya başladıysa çıkarma vakti gelmiştir."
+      },
+      {
+        "title": "*Temiz* cilde uygula",
+        "body": "Önce yüzünü yıka ki serum gün boyu biriken güneş kremi, makyaj ve yağın üstünde değil, cildinde kalsın."
+      },
+      {
+        "title": "Ardından *nemlendiriciyle* kapat",
+        "body": "Kalan serumu cildine hafifçe vurarak yedir, sonra nemlendiricini sür. Kuru kış havasında bu son kat her şeyi yerinde tutar."
+      },
+      {
+        "title": "Önce *parfüme* bak",
+        "body": "Maskelerin çoğu parfümlü. Cildin kolay tahriş oluyorsa parfümsüz olanları seç ve içerik listesini oku."
+      },
+      {
+        "title": "Maske ekstra bir adım. *Işılda* cildini tarar ve *günlük rutinini* ona göre kurar."
+      }
+    ]
+  }
+}
