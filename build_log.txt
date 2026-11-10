@@ -1,17 +1,17 @@
-slide 1: pixabay px-4257914 (skincare product label)
-slide 2: pixabay px-8492233 (cosmetic bottles shelf)
-slide 3: pixabay px-939216 (serum dropper bottle)
-slide 4: pixabay px-8205187 (woman reading bottle)
-slide 5: pixabay px-5047787 (water drops glass)
-slide 6: pixabay px-6051633 (skincare products flat lay)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-11-11-1-ingredient-list-order en+tr
-slide 1: pixabay px-1850893 (woman waking up bed)
-slide 2: pixabay px-9108319 (washing face sink)
-slide 3: pixabay px-3433922 (face cream jar)
-slide 4: pixabay px-4944589 (applying cream cheek)
-slide 5: pixabay px-511884 (humidifier bedroom)
+slide 1: pixabay px-6981972 (woman sheet mask)
+slide 2: pixabay px-7781076 (relaxing face mask)
+slide 3: pixabay px-2442565 (washing face sink)
+slide 4: pixabay px-6382302 (applying face cream)
+slide 5: pixabay px-3180220 (reading product label)
 slide 6: app screenshot 0
 slide 6: app screenshot 0 (tr)
-rendered 2026-11-11-2-tight-skin-mornings en+tr
+rendered 2026-11-12-1-sheet-mask-timing en+tr
+slide 1: pixabay px-1301164 (skincare serum bottle)
+slide 2: pixabay px-2222825 (serum dropper glass)
+slide 3: pixabay px-10283354 (reading product label)
+slide 4: pixabay px-7048742 (woman applying serum)
+slide 5: pixabay px-1850268 (calendar planner desk)
+slide 6: pixabay px-2437757 (sunscreen bottle)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-11-12-2-peptides-wish-i-knew en+tr
