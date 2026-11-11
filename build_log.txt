@@ -1,17 +1,16 @@
-slide 1: pixabay px-6981972 (woman sheet mask)
-slide 2: pixabay px-7781076 (relaxing face mask)
-slide 3: pixabay px-2442565 (washing face sink)
-slide 4: pixabay px-6382302 (applying face cream)
-slide 5: pixabay px-3180220 (reading product label)
+slide 1: pixabay px-4104004 (woman legs lotion)
+slide 2: pixabay px-4467220 (shower water running)
+slide 3: pixabay px-6894720 (applying body cream)
+slide 4: pixabay px-6894722 (body cream jar)
+slide 5: pixabay px-8445521 (bath towel bathroom)
 slide 6: app screenshot 0
 slide 6: app screenshot 0 (tr)
-rendered 2026-11-12-1-sheet-mask-timing en+tr
-slide 1: pixabay px-1301164 (skincare serum bottle)
-slide 2: pixabay px-2222825 (serum dropper glass)
-slide 3: pixabay px-10283354 (reading product label)
-slide 4: pixabay px-7048742 (woman applying serum)
-slide 5: pixabay px-1850268 (calendar planner desk)
-slide 6: pixabay px-2437757 (sunscreen bottle)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-11-12-2-peptides-wish-i-knew en+tr
+rendered 2026-11-13-1-flaky-winter-shins en+tr
+slide 1: pixabay px-172094 (white towel bathroom)
+slide 2: pixabay px-8594205 (woman drying face towel)
+slide 3: pixabay px-3315996 (folded towels shelf)
+slide 4: pixabay px-1839565 (towel hanging hook)
+slide 5: pixabay px-7459035 (laundry detergent washing)
+slide 6: app screenshot 0
+slide 6: app screenshot 0 (tr)
+rendered 2026-11-13-2-towel-habits en+tr
