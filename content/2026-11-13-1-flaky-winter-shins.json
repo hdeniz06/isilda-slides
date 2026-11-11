@@ -1,0 +1,79 @@
+{
+  "id": "2026-11-13-1-flaky-winter-shins",
+  "title": "Flaky winter shins, 3 steps",
+  "date": "2026-11-13",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F11",
+  "mentions_app": true,
+  "caption": "Cold air, heaters and long hot showers hit the skin on your legs first, which is why shins start looking flaky and ashy every winter. You don't need a big body routine to keep them comfortable, just three habits done consistently. Save this for your next shower. Do your legs get dry in winter, or is it just your face? #bodycare #dryskin #winterskincare #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Flaky winter shins? Only *3 steps* matter",
+      "sub": "step 2 has a time limit",
+      "photo": "woman legs lotion"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Shorter, *lukewarm* showers",
+      "body": "Long hot showers strip the oils your skin needs to hold water. Keep it short and warm, not steaming.",
+      "photo": "shower water running"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Moisturize while skin is *still damp*",
+      "body": "Pat dry with a towel, then apply body cream within a few minutes. Damp skin holds on to more water.",
+      "photo": "applying body cream"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Go *thicker* for winter",
+      "body": "Swap thin lotions for a cream. Look for glycerin, ceramides or shea butter on the label.",
+      "photo": "body cream jar"
+    },
+    {
+      "type": "list",
+      "title": "What to *skip* this winter",
+      "items": ["Scrubbing hard with a loofah", "Heavily scented body washes", "Waiting until skin itches to moisturize"],
+      "photo": "bath towel bathroom"
+    },
+    {
+      "type": "app",
+      "title": "Shins sorted. Your face gets its own plan: *Glowtrack* scans it and builds a *routine*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Kışın pul pul bacaklar, 3 adım",
+    "caption": "Soğuk hava, kaloriferler ve uzun sıcak duşlar ilk önce bacaklarındaki cildi etkiler, kış gelince bacakların pul pul ve beyaz görünmesi bu yüzden. Rahat bir cilt için uzun bir vücut rutinine gerek yok, düzenli yapılan üç alışkanlık yeter. Bir sonraki duşun için kaydet. Senin de kışın bacakların kuruyor mu, yoksa sadece yüzün mü? #ciltbakımı #ciltbakimi #vücutbakımı #kurucilt #skincare",
+    "slides": [
+      {
+        "text": "Bacakların pul pul mu? *3 adım* yeter",
+        "sub": "2. adımın bir süresi var"
+      },
+      {
+        "title": "Daha kısa, *ılık* duş",
+        "body": "Uzun sıcak duşlar, cildin nemi tutmak için ihtiyaç duyduğu yağları alır. Duşu kısa tut, su ılık olsun, buhar değil."
+      },
+      {
+        "title": "Cildin *nemliyken* kremle",
+        "body": "Havluyla hafifçe kurula, sonra birkaç dakika içinde vücut kremini sür. Nemli cilt suyu daha iyi tutar."
+      },
+      {
+        "title": "Kışın *daha yoğun* krem",
+        "body": "İnce losyon yerine krem kullan. Etikette gliserin, seramid ya da shea yağı ara."
+      },
+      {
+        "title": "Bu kış *bunları bırak*",
+        "items": ["Kese ya da lifle sert ovalamak", "Yoğun parfümlü duş jelleri", "Kaşınana kadar kremi beklemek"]
+      },
+      {
+        "title": "Bacaklar tamam. Yüzün kendi planını hak ediyor: *Işılda* cildini tarar ve sana bir *rutin* çıkarır."
+      }
+    ]
+  }
+}

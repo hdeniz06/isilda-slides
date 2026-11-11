@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-13-2-towel-habits",
+  "title": "Towel habits that undo skincare",
+  "date": "2026-11-13",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F2",
+  "mentions_app": true,
+  "caption": "Your towel touches your face more often than any serum, yet it's the one part of the routine nobody thinks about. A few small changes in how you dry off and wash your towels can make your skin feel calmer, especially when winter already has it on edge. Here are four habits worth changing. Which one were you doing without realizing? #skincaretips #skincareroutine #sensitiveskin #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "4 towel habits *undoing* your skincare",
+      "sub": "#3 happens every morning",
+      "photo": "white towel bathroom"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Rubbing your face *dry*",
+      "body": "Friction adds up, especially on dry winter skin. Gently pat your face with the towel instead of scrubbing it.",
+      "photo": "woman drying face towel"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Using your *body towel* on your face",
+      "body": "That towel has been everywhere else first. Keep a separate, smaller towel just for your face.",
+      "photo": "folded towels shelf"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Reusing the same *damp* towel all week",
+      "body": "A towel that never fully dries stays a warm, damp spot. Hang it to dry and swap it every few uses.",
+      "photo": "towel hanging hook"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Washing it with *scented* softener",
+      "body": "Fragrance from detergent or fabric softener stays in the towel. If your skin is sensitive, choose fragrance-free laundry products.",
+      "photo": "laundry detergent washing"
+    },
+    {
+      "type": "app",
+      "title": "Swapped your towel? I built *Glowtrack* to scan your skin and track its *score* weekly.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Cilt bakımını bozan havlu alışkanlıkları",
+    "caption": "Havlun yüzüne herhangi bir serumdan daha sık değiyor ama rutinin kimsenin düşünmediği kısmı o. Nasıl kurulandığın ve havlunu nasıl yıkadığınla ilgili küçük değişiklikler, özellikle kış cildi zaten hassaslaştırmışken cildinin daha rahat hissetmesine yardımcı olabilir. İşte değiştirmeye değer dört alışkanlık. Hangisini farkında olmadan yapıyordun? #ciltbakımı #ciltbakimi #ciltbakımrutini #hassascilt #skincare",
+    "slides": [
+      {
+        "text": "Cilt bakımını *bozan* 4 havlu alışkanlığı",
+        "sub": "3. maddeyi her sabah yapıyorsun"
+      },
+      {
+        "title": "Yüzünü *ovalayarak* kurulamak",
+        "body": "Sürtünme birikir, hele kışın kuru ciltte. Havluyla ovalamak yerine yüzüne hafifçe bastırarak kurula."
+      },
+      {
+        "title": "Yüzünü *vücut havlusuyla* kurulamak",
+        "body": "O havlu önce her yere değdi. Sadece yüzün için ayrı, küçük bir havlu kullan."
+      },
+      {
+        "title": "Aynı *nemli* havluyu bütün hafta kullanmak",
+        "body": "Hiç tam kurumayan havlu ılık ve nemli kalır. Asarak kurut ve birkaç kullanımda bir değiştir."
+      },
+      {
+        "title": "*Kokulu* yumuşatıcıyla yıkamak",
+        "body": "Deterjan ve yumuşatıcıdaki koku havluda kalır. Cildin hassassa parfümsüz çamaşır ürünleri seç."
+      },
+      {
+        "title": "Havlunu değiştirdin mi? Cildini tarayıp *skorunu* her hafta takip etmen için *Işılda*'yı geliştirdim."
+      }
+    ]
+  }
+}
