@@ -1,0 +1,89 @@
+{
+  "id": "2026-11-14-2-micellar-vs-cleanser",
+  "title": "Micellar water vs cleanser",
+  "date": "2026-11-14",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F7",
+  "mentions_app": true,
+  "caption": "Micellar water and face cleanser both say they clean, but they're built for different nights. One is a no-rinse shortcut for light days, the other is a proper wash for heavy makeup and sunscreen. Here's how to tell which one your night needs and how to use micellar water without rubbing your skin raw. Are you team micellar or team sink? #skincaretips #micellarwater #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Micellar water vs cleanser: which one is *enough*?",
+      "sub": "most people skip the last tip",
+      "photo": "cotton pads bathroom"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "What micellar water *actually* is",
+      "body": "Water with tiny clusters of mild cleansing agents that grab makeup, oil and dirt. That's why it works without rinsing.",
+      "photo": "clear water bottle"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "When micellar water is *enough*",
+      "body": "Light makeup, a quick morning refresh, or nights you're too tired for the sink. Easy and gentle for most skin.",
+      "photo": "woman cotton pad face"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "When you need a *real wash*",
+      "body": "Heavy makeup, water-resistant SPF, or oily skin after a long day. Use micellar first, then a gentle cleanser.",
+      "photo": "washing face sink"
+    },
+    {
+      "type": "list",
+      "title": "How to use it *gently*",
+      "items": [
+        "Soak the pad, don't skimp",
+        "Press and hold on makeup, then wipe",
+        "Swipe once, no back-and-forth scrubbing",
+        "Rinse with water if skin feels tacky"
+      ],
+      "photo": "skincare bathroom shelf"
+    },
+    {
+      "type": "app",
+      "title": "Micellar night or full wash? I built *Glowtrack* to scan your skin and plan your *routine* around it.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Misel su mu, temizleyici mi",
+    "caption": "Misel su da yüz temizleyici de temizlediğini söylüyor ama ikisi farklı akşamlar için. Biri hafif günler için durulamasız bir kısayol, diğeri yoğun makyaj ve güneş kremi için gerçek bir yıkama. Akşamının hangisini istediğini nasıl anlayacağın ve misel suyu cildini ovalamadan nasıl kullanacağın burada. Sen misel suyu mu tercih ediyorsun, lavaboyu mu? #ciltbakımı #ciltbakimi #miselsu #ciltbakımrutini #skincare",
+    "slides": [
+      {
+        "text": "Misel su mu, temizleyici mi: hangisi *yeter*?",
+        "sub": "son ipucunu çoğu kişi atlıyor"
+      },
+      {
+        "title": "Misel su *aslında* ne?",
+        "body": "Makyajı, yağı ve kiri tutan minik, nazik temizleyici kümeler içeren su. Bu yüzden durulamadan da işini görür."
+      },
+      {
+        "title": "Misel su ne zaman *yeter*?",
+        "body": "Hafif makyaj, sabah hızlı bir tazelenme ya da lavaboya gidecek halin olmayan akşamlar. Çoğu cilt için pratik ve nazik."
+      },
+      {
+        "title": "Ne zaman *gerçek bir yıkama* lazım?",
+        "body": "Yoğun makyaj, suya dayanıklı güneş kremi ya da uzun bir günün sonunda yağlanan cilt. Önce misel su, sonra nazik bir temizleyici."
+      },
+      {
+        "title": "*Nazikçe* kullanmanın yolu",
+        "items": [
+          "Pamuğu iyice ıslat, cimrilik yapma",
+          "Makyajın üstüne bastırıp bekle, sonra sil",
+          "Tek seferde sil, ileri geri ovalama",
+          "Cilt yapış yapış kalırsa suyla durula"
+        ]
+      },
+      {
+        "title": "Misel su mu, tam yıkama mı? Cildini tarayıp rutinini ona göre kurman için *Işılda*'yı geliştirdim."
+      }
+    ]
+  }
+}

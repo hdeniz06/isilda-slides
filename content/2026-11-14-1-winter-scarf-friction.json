@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-14-1-winter-scarf-friction",
+  "title": "Winter scarf and your skin",
+  "date": "2026-11-14",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F12",
+  "mentions_app": true,
+  "caption": "Scarf season means something new sits against your chin and cheeks for hours every day. Breath, sweat, leftover moisturizer and wool friction all meet in the same spot, and most of us wash our scarves maybe once a winter. Four small fixes make a big difference. When did you last wash yours? #winterskincare #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Your *winter scarf* rubs more than you think",
+      "sub": "most people skip #1",
+      "photo": "woman winter scarf"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Wash it like a *pillowcase*",
+      "body": "It sits on your chin and mouth all day, collecting breath moisture, sweat and product. Wash it regularly, not once a season.",
+      "photo": "knitted scarf"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Let your skincare *settle* first",
+      "body": "Wrapping a scarf over fresh moisturizer or SPF wipes it right off. Give it a few minutes before you head out.",
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Add a *soft layer*",
+      "body": "If wool feels scratchy, a smooth cotton or silk layer between it and your skin cuts down the friction.",
+      "photo": "silk scarf"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Take it off *indoors*",
+      "body": "A warm, damp scarf against your face in a heated room isn't cozy for long. Hang it up when you get inside.",
+      "photo": "coat rack scarf"
+    },
+    {
+      "type": "app",
+      "title": "Scarf sorted? I built *Glowtrack* to scan your skin and see how it holds up *all winter*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Atkın ve cildin",
+    "caption": "Atkı mevsimi demek, çenenle yanaklarına her gün saatlerce yeni bir şeyin değmesi demek. Nefes, ter, nemlendirici kalıntısı ve yünün sürtünmesi aynı noktada buluşuyor; çoğumuz atkımızı ise kışta belki bir kez yıkıyoruz. Dört küçük değişiklik fark yaratıyor. Sen atkını en son ne zaman yıkadın? #ciltbakımı #ciltbakimi #kışciltbakımı #ciltbakımrutini #skincare",
+    "slides": [
+      {
+        "text": "*Atkın* sandığından fazla sürtünüyor",
+        "sub": "çoğu kişi 1. maddeyi atlıyor"
+      },
+      {
+        "title": "Onu *yastık kılıfı* gibi yıka",
+        "body": "Bütün gün çenene ve ağzına değiyor; nefesinin nemini, teri ve ürün kalıntısını topluyor. Sezonda bir kez değil, düzenli yıka."
+      },
+      {
+        "title": "Önce bakımın *otursun*",
+        "body": "Nemlendiriciyi ya da güneş kremini sürer sürmez atkıyı dolarsan hepsi atkıya geçer. Çıkmadan önce birkaç dakika bekle."
+      },
+      {
+        "title": "Araya *yumuşak* bir kat ekle",
+        "body": "Yün batıyorsa cildinle atkı arasına pamuklu ya da ipek, pürüzsüz bir kat koymak sürtünmeyi azaltır."
+      },
+      {
+        "title": "İçeri girince *çıkar*",
+        "body": "Sıcak bir odada yüzüne değen nemli, ılık atkı uzun süre rahat hissettirmez. Eve girince çıkar ve as."
+      },
+      {
+        "title": "Atkı halloldu mu? Cildini tarayıp kış boyunca nasıl gittiğini *görmen* için *Işılda*'yı geliştirdim."
+      }
+    ]
+  }
+}
