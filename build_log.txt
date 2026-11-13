@@ -1,16 +1,18 @@
-slide 1: pixabay px-6858276 (woman winter scarf)
-slide 2: pixabay px-4783123 (knitted scarf)
-slide 3: pixabay px-1284304 (woman applying face cream)
-slide 4: pixabay px-2605521 (silk scarf)
-slide 5: pixabay px-1358813 (coat rack scarf)
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-11-14-1-winter-scarf-friction en+tr
-slide 1: pixabay px-3146661 (cotton pads bathroom)
-slide 2: pixabay px-1838772 (clear water bottle)
-slide 3: pixabay px-5374622 (woman cotton pad face)
-slide 4: pixabay px-4164831 (washing face sink)
-slide 5: pixabay px-6822245 (skincare bathroom shelf)
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-11-14-2-micellar-vs-cleanser en+tr
+slide 1: pixabay px-3341843 (shower water head)
+slide 2: pixabay px-3974264 (woman hair shower)
+slide 3: pixabay px-7474105 (shower gel bathroom)
+slide 4: pixabay px-9609512 (hair clip bun)
+slide 5: pixabay px-5241709 (woman forehead hair)
+slide 6: pixabay px-2603012 (bathroom towel shelf)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-11-15-1-shower-order en+tr
+slide 1: pixabay px-5886569 (woman gym workout)
+slide 2: pixabay px-5391029 (cotton pad face)
+slide 3: pixabay px-4630950 (towel gym sweat)
+slide 4: pixabay px-196497 (washing face sink)
+slide 5: pixabay px-5902416 (running winter outdoor)
+slide 6: pixabay px-933127 (gym bag towel)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-11-15-2-after-workout-skin en+tr
