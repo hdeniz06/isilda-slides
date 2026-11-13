@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-15-1-shower-order",
+  "title": "Shower order and your back",
+  "date": "2026-11-15",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F3",
+  "mentions_app": true,
+  "caption": "Conditioner is made to coat your hair, and whatever rinses off has to go somewhere: usually your back, chest and hairline. Changing the order you wash in is a free, simple habit swap for your shower. Here's the order that keeps hair products off your skin, plus a winter-friendly finish. What do you wash first, hair or body? #showerroutine #bodycare #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Stop rinsing your *conditioner* last",
+      "sub": "your back might be why",
+      "photo": "shower water head"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Conditioner can *linger* on skin",
+      "body": "Its rich, coating ingredients can stay on your back, chest and hairline, and that leftover film may clog pores there.",
+      "photo": "woman hair shower"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Wash your *body* last",
+      "body": "Shampoo, conditioner, then body wash and face. That way your final rinse takes any hair-product residue with it.",
+      "photo": "shower gel bathroom"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Clip your hair *up*",
+      "body": "Letting conditioner sit for a few minutes? Twist your hair up with a clip so it isn't resting on your back.",
+      "photo": "hair clip bun"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Don't forget your *hairline*",
+      "body": "Conditioner and styling products build up along your forehead and neck. Rinse those edges well before stepping out.",
+      "photo": "woman forehead hair"
+    },
+    {
+      "type": "list",
+      "title": "Your *winter* shower, in order",
+      "items": [
+        "Lukewarm water, not hot",
+        "Shampoo, then conditioner",
+        "Body wash and face last",
+        "Pat dry, moisturize within minutes"
+      ],
+      "photo": "bathroom towel shelf"
+    },
+    {
+      "type": "app",
+      "title": "Shower sorted. For your face, I built *Glowtrack* to scan it and plan your *routine*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Duş sırası ve sırtın",
+    "caption": "Saç kremi saçını kaplamak için yapılıyor; durulanınca da bir yere gidiyor: genelde sırtına, göğsüne ve saç çizgine. Duşta yıkama sıranı değiştirmek bedava ve basit bir alışkanlık değişikliği. Saç ürünlerini cildinden uzak tutan sıra ve kışa uygun bir kapanış burada. Sen duşta önce neyi yıkıyorsun, saçını mı vücudunu mu? #ciltbakımı #ciltbakimi #vücutbakımı #duşrutini #skincare",
+    "slides": [
+      {
+        "text": "Saç kremini *en son* durulamayı bırak",
+        "sub": "sırtındaki sivilcelerin sebebi bu olabilir"
+      },
+      {
+        "title": "Saç kremi cildinde *kalabilir*",
+        "body": "Saçı kaplayan zengin içerikleri sırtında, göğsünde ve saç çizginde kalabilir; bu ince tabaka oradaki gözenekleri tıkayabilir."
+      },
+      {
+        "title": "Vücudunu *en son* yıka",
+        "body": "Önce şampuan, sonra saç kremi, en son vücut ve yüz. Böylece son durulama saç ürünü kalıntısını da götürür."
+      },
+      {
+        "title": "Saçını *topla*",
+        "body": "Saç kremini birkaç dakika bekletiyor musun? Saçını bir tokayla topla ki sırtına değmesin."
+      },
+      {
+        "title": "*Saç çizgini* unutma",
+        "body": "Saç kremi ve şekillendiriciler alnında ve ensende birikir. Duştan çıkmadan bu kenarları iyice durula."
+      },
+      {
+        "title": "*Kışa uygun* duş sırası",
+        "items": [
+          "Sıcak değil, ılık su",
+          "Önce şampuan, sonra saç kremi",
+          "En son vücut ve yüz",
+          "Hafifçe kurula, birkaç dakika içinde nemlendir"
+        ]
+      },
+      {
+        "title": "Duş tamam. Yüzün için *Işılda*'yı geliştirdim: cildini tarar, *rutinini* planlar."
+      }
+    ]
+  }
+}

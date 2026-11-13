@@ -1,0 +1,102 @@
+{
+  "id": "2026-11-15-2-after-workout-skin",
+  "title": "Skincare for after-work workouts",
+  "date": "2026-11-15",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F8",
+  "mentions_app": true,
+  "caption": "Training after work means sweat on top of a full day of makeup, sunscreen and city air. A few small habits before and after the gym keep your skincare from getting undone. Here's what to do before, during and after, plus what to pack, including the step most people skip on winter runs. What's in your gym bag right now? #gymskincare #workoutroutine #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "If you work out *after work*, save this",
+      "sub": "#4 is the one everyone skips",
+      "photo": "woman gym workout"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Take your *makeup* off first",
+      "body": "Foundation mixed with sweat sits on your skin the whole session. A quick micellar swipe before you start is enough.",
+      "photo": "cotton pad face"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "*Press* sweat, don't scrub it",
+      "body": "Use a clean towel and pat gently. Rubbing a gym towel across your face adds friction and spreads whatever is on it.",
+      "photo": "towel gym sweat"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Wash *soon* after",
+      "body": "Use a gentle cleanser when you're done. If you can't wash right away, at least change out of your sweaty clothes.",
+      "photo": "washing face sink"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Running outside? Still wear *SPF*",
+      "body": "Winter daylight still has UV. Put sunscreen on before outdoor runs, and cover your ears and the back of your neck too.",
+      "photo": "running winter outdoor"
+    },
+    {
+      "type": "list",
+      "title": "Your gym bag *skin kit*",
+      "items": [
+        "Micellar water and cotton pads",
+        "Travel-size gentle cleanser",
+        "A clean towel just for your face",
+        "A fresh shirt to change into",
+        "Moisturizer for after"
+      ],
+      "photo": "gym bag towel"
+    },
+    {
+      "type": "app",
+      "title": "Tracking your workouts? Track your skin too: *Glowtrack* scans your face and logs your *skin score*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "İş çıkışı spor yapanlara cilt bakımı",
+    "caption": "İş çıkışı spor yapmak, bütün günün makyajı, güneş kremi ve şehir havası üstüne bir de ter demek. Spordan önce ve sonra birkaç küçük alışkanlık, cilt bakımının boşa gitmesini engeller. Önce, sırasında ve sonrasında ne yapacağın, çantana ne koyacağın ve kışın dışarıda koşarken çoğu kişinin atladığı adım burada. Senin spor çantanda şu an ne var? #ciltbakımı #ciltbakimi #sporsonrası #spor #skincare",
+    "slides": [
+      {
+        "text": "İş çıkışı spor yapıyorsan *bunu kaydet*",
+        "sub": "4. maddeyi herkes atlıyor"
+      },
+      {
+        "title": "Önce *makyajını* çıkar",
+        "body": "Terle karışan fondöten bütün antrenman boyunca cildinde kalır. Başlamadan önce misel suyla hızlıca silmek yeterli."
+      },
+      {
+        "title": "Teri *bastırarak* al, ovalama",
+        "body": "Temiz bir havluyla nazikçe bastır. Spor havlusunu yüzünde gezdirmek sürtünme yaratır, üstündekini de yayar."
+      },
+      {
+        "title": "*Hemen* yıka",
+        "body": "Bitince nazik bir temizleyiciyle yüzünü yıka. Hemen yıkayamıyorsan en azından terli kıyafetlerini değiştir."
+      },
+      {
+        "title": "Dışarıda mı koşuyorsun? *Güneş kremi* sür",
+        "body": "Kış güneşinde de UV var. Dışarıda koşmadan önce güneş kremi sür; kulaklarını ve enseni de unutma."
+      },
+      {
+        "title": "Spor çantana *cilt seti*",
+        "items": [
+          "Misel su ve pamuk",
+          "Seyahat boyu nazik temizleyici",
+          "Sadece yüzün için temiz bir havlu",
+          "Değiştirmek için temiz bir tişört",
+          "Sonrası için nemlendirici"
+        ]
+      },
+      {
+        "title": "Antrenmanlarını takip ediyorsan cildini de et: *Işılda* yüzünü tarar ve *cilt skorunu* kaydeder."
+      }
+    ]
+  }
+}
