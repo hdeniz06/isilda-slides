@@ -1,18 +1,18 @@
-slide 1: pixabay px-3341843 (shower water head)
-slide 2: pixabay px-3974264 (woman hair shower)
-slide 3: pixabay px-7474105 (shower gel bathroom)
-slide 4: pixabay px-9609512 (hair clip bun)
-slide 5: pixabay px-5241709 (woman forehead hair)
-slide 6: pixabay px-2603012 (bathroom towel shelf)
+slide 1: pixabay px-2604540 (airplane window seat)
+slide 2: pixabay px-10374419 (woman applying face cream)
+slide 3: pixabay px-7883816 (airplane window sunlight)
+slide 4: pixabay px-3862645 (face mist spray)
+slide 5: pixabay px-977976 (travel size bottles)
+slide 6: pixabay px-8003000 (travel toiletry bag)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-15-1-shower-order en+tr
-slide 1: pixabay px-5886569 (woman gym workout)
-slide 2: pixabay px-5391029 (cotton pad face)
-slide 3: pixabay px-4630950 (towel gym sweat)
-slide 4: pixabay px-196497 (washing face sink)
-slide 5: pixabay px-5902416 (running winter outdoor)
-slide 6: pixabay px-933127 (gym bag towel)
+rendered 2026-11-16-1-plane-skin-habits en+tr
+slide 1: pixabay px-2603551 (woman sleeping pillow)
+slide 2: pixabay px-5223774 (white pillow bed)
+slide 3: pixabay px-4716169 (fresh bed linen)
+slide 4: pixabay px-3055841 (woman hair tie)
+slide 5: pixabay px-4981573 (woman night skincare)
+slide 6: pixabay px-7389701 (silk fabric)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-15-2-after-workout-skin en+tr
+rendered 2026-11-16-2-pillowcase-habits en+tr
