@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-16-2-pillowcase-habits",
+  "title": "Your pillowcase and your skin",
+  "date": "2026-11-16",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F6",
+  "mentions_app": true,
+  "caption": "You can do a careful night routine and then press your face into the same fabric for eight hours, night after night. Your pillowcase collects oil, sweat, hair products and leftover skincare, so it quietly becomes part of your routine. Here's how often to swap it and the small habits around it. How often do you actually change yours? #pillowcase #nightroutine #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "The *last thing* your skin touches each night",
+      "sub": "#3 is the one nobody thinks about",
+      "photo": "woman sleeping pillow"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "It's your *pillowcase*",
+      "body": "Every night it picks up oil, sweat, hair product and whatever you just applied. Then your face lies on it again.",
+      "photo": "white pillow bed"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Swap it *more often*",
+      "body": "Change it at least once a week, or flip it to the clean side midweek. Keep a spare set ready so it's easy.",
+      "photo": "fresh bed linen"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Your *hair* touches it too",
+      "body": "Hair oils and styling products rub off onto the fabric. If you use them, tie your hair back at night.",
+      "photo": "woman hair tie"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Let your routine *settle* first",
+      "body": "Give your night products a few minutes before lying down, so more of them stays on your skin, not the pillow.",
+      "photo": "woman night skincare"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "Silk isn't *magic*",
+      "body": "It feels smoother and drags less, but a clean cotton pillowcase does the main job. How often you change it matters more.",
+      "photo": "silk fabric"
+    },
+    {
+      "type": "app",
+      "title": "Pillowcase changed? Now your skin: I built *Glowtrack* to *scan* it and build your routine.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Yastık kılıfın ve cildin",
+    "caption": "Özenle gece rutinini yapıp sonra her gece sekiz saat boyunca yüzünü aynı kumaşa bastırıyorsun. Yastık kılıfı yağı, teri, saç ürünlerini ve bakımından kalanları topluyor, yani sessizce rutininin bir parçası oluyor. Ne sıklıkla değiştirmen gerektiği ve etrafındaki küçük alışkanlıklar burada. Sen kılıfını gerçekte ne sıklıkla değiştiriyorsun? #ciltbakımı #ciltbakimi #gecerutini #yastıkkılıfı #skincare",
+    "slides": [
+      {
+        "text": "Cildinin her gece *son dokunduğu* şey",
+        "sub": "3. maddeyi kimse düşünmüyor"
+      },
+      {
+        "title": "*Yastık kılıfın*",
+        "body": "Her gece yağı, teri, saç ürünlerini ve az önce sürdüğün bakımı toplar. Sonra yüzün yine onun üstüne yatar."
+      },
+      {
+        "title": "*Daha sık* değiştir",
+        "body": "En az haftada bir değiştir ya da hafta ortasında temiz tarafına çevir. Yedek bir takım hazırda dursun, iş kolaylaşır."
+      },
+      {
+        "title": "*Saçın* da ona değiyor",
+        "body": "Saç yağları ve şekillendiriciler kumaşa geçer. Bunları kullanıyorsan geceleri saçını topla."
+      },
+      {
+        "title": "Önce bakımın *otursun*",
+        "body": "Yatmadan önce gece ürünlerine birkaç dakika ver; böylece daha fazlası yastıkta değil cildinde kalır."
+      },
+      {
+        "title": "İpek *sihirli* değil",
+        "body": "Daha kaygan ve daha az sürtünür ama asıl işi temiz bir pamuk kılıf da görür. Kumaştan çok, ne sıklıkla değiştirdiğin önemli."
+      },
+      {
+        "title": "Kılıfı değiştirdin mi? Sıra cildinde: *Işılda* cildini *tarar* ve sana göre rutin kurar."
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "2026-11-16-1-plane-skin-habits",
+  "title": "Plane habits drying your skin",
+  "date": "2026-11-16",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F2",
+  "mentions_app": true,
+  "caption": "Holiday travel season means hours in some of the driest air your skin will see all year. A few small changes before and during the flight keep you from landing with tight, flaky skin. Here are the four habits to drop, plus what to pack in your carry-on. Window seat or aisle seat, and what's always in your bag? #travelskincare #holidaytravel #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "4 plane habits *drying out* your skin",
+      "sub": "#2 is the one window seats miss",
+      "photo": "airplane window seat"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Boarding with *bare* skin",
+      "body": "Cabin air is very dry. Put on moisturizer before you board, so your skin doesn't start the flight already thirsty.",
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Skipping *SPF* by the window",
+      "body": "Plane windows block most UVB, but UVA can still get through. On a daytime window seat, wear sunscreen like you would outside.",
+      "photo": "airplane window sunlight"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "*Misting* without sealing it in",
+      "body": "Water mist evaporates fast in dry cabin air. Pat on a little moisturizer after spraying, or skip the mist entirely.",
+      "photo": "face mist spray"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Packing *brand-new* products",
+      "body": "A trip is the worst time to test something new. Bring what your skin already knows, just in travel sizes.",
+      "photo": "travel size bottles"
+    },
+    {
+      "type": "list",
+      "title": "Your carry-on *skin kit*",
+      "items": [
+        "Travel-size moisturizer",
+        "Sunscreen for the window seat",
+        "Lip balm",
+        "Micellar water for after landing",
+        "Hand cream"
+      ],
+      "photo": "travel toiletry bag"
+    },
+    {
+      "type": "app",
+      "title": "Holiday trip ahead? *Glowtrack* scans your skin before and after, so you can *compare*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Uçakta cildini kurutan alışkanlıklar",
+    "caption": "Tatil ve yılbaşı yolculukları, cildinin yıl boyunca gördüğü en kuru havada saatler geçirmesi demek. Uçuştan önce ve uçuş sırasında yapacağın birkaç küçük değişiklik, gergin ve pul pul bir ciltle inmeni engeller. Bırakman gereken dört alışkanlık ve el bagajına koyman gerekenler burada. Sen cam kenarı mı koridor mu, çantandan hiç eksik etmediğin ne? #ciltbakımı #ciltbakimi #seyahat #uçakyolculuğu #skincare",
+    "slides": [
+      {
+        "text": "Uçakta cildini *kurutan* 4 alışkanlık",
+        "sub": "2. maddeyi cam kenarındakiler kaçırıyor"
+      },
+      {
+        "title": "Uçağa *nemlendiricisiz* binmek",
+        "body": "Kabin havası çok kuru. Uçağa binmeden nemlendiricini sür ki cildin yolculuğa susuz başlamasın."
+      },
+      {
+        "title": "Cam kenarında *güneş kremini* atlamak",
+        "body": "Uçak camları UVB'nin çoğunu tutar ama UVA geçebilir. Gündüz cam kenarındaysan, dışarıdaymış gibi güneş kremi sür."
+      },
+      {
+        "title": "Yüz spreyini sıkıp *bırakmak*",
+        "body": "Kuru kabin havasında su spreyi hemen buharlaşır. Sıktıktan sonra biraz nemlendirici sür ya da spreyi hiç kullanma."
+      },
+      {
+        "title": "Yolculukta *yeni ürün* denemek",
+        "body": "Yeni bir şey denemek için en kötü zaman seyahat. Cildinin zaten tanıdığı ürünleri küçük boylarda yanına al."
+      },
+      {
+        "title": "El bagajına *cilt seti*",
+        "items": [
+          "Seyahat boyu nemlendirici",
+          "Cam kenarı için güneş kremi",
+          "Dudak balmı",
+          "İnince kullanmak için misel su",
+          "El kremi"
+        ]
+      },
+      {
+        "title": "Yolculuk mu var? *Işılda* cildini öncesinde ve sonrasında tarar, skorlarını *karşılaştırırsın*."
+      }
+    ]
+  }
+}
