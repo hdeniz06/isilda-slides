@@ -1,17 +1,9 @@
-slide 1: pixabay px-614824 (skincare serum bottle)
-slide 2: pixabay px-5843504 (woman applying sunscreen)
-slide 3: pixabay px-4837854 (night skincare routine)
-slide 4: pixabay px-4644496 (woman applying face cream)
-slide 5: pixabay px-6594102 (calm morning bathroom)
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-11-17-1-longevity-basics en+tr
-slide 1: pixabay px-10430557 (skincare products shelf)
-slide 2: pixabay px-939640 (single skincare bottle)
-slide 3: pixabay px-7893592 (woman looking mirror)
-slide 4: pixabay px-4618067 (woman touching face)
-slide 5: pixabay px-1733345 (selfie window light)
-slide 6: pixabay px-6886588 (notebook writing coffee)
+slide 1: pixabay px-5515970 (skincare products bathroom)
+slide 2: pixabay px-1690887 (skincare dropper bottle)
+slide 3: pixabay px-7461585 (woman looking mirror)
+slide 4: pixabay px-6896229 (woman touching face)
+slide 5: pixabay px-8056006 (selfie window light)
+slide 6: pixabay px-3176775 (notebook writing coffee)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-17-2-judge-in-week-four en+tr
+rendered 2026-11-17-2-week-four-rule en+tr
