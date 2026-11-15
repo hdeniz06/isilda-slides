@@ -1,5 +1,5 @@
 {
-  "id": "2026-11-17-2-judge-in-week-four",
+  "id": "2026-11-17-2-week-four-rule",
   "title": "Judge new products in week 4",
   "date": "2026-11-17",
   "slot": 2,
@@ -12,14 +12,14 @@
       "type": "hook",
       "text": "Judge new products in *week 4*, not *day 2*",
       "sub": "#1 is the rule everyone skips",
-      "photo": "skincare products shelf"
+      "photo": "skincare products bathroom"
     },
     {
       "type": "point",
       "num": 1,
       "title": "Change *one thing* at a time",
       "body": "Start three products together and you can't tell which one helped, or which one irritated. Add one, then wait.",
-      "photo": "single skincare bottle"
+      "photo": "skincare dropper bottle"
     },
     {
       "type": "point",
