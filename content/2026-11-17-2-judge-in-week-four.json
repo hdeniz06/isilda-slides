@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-17-2-judge-in-week-four",
+  "title": "Judge new products in week 4",
+  "date": "2026-11-17",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F9",
+  "mentions_app": true,
+  "caption": "Most of us decide whether a new product works after two or three days, usually while starting two other products at the same time. That makes it almost impossible to know what helped and what irritated. Here's a simple four-week way to test one thing properly. What's the last product you gave up on too fast? #skincaretips #skincareroutine #newproduct #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Judge new products in *week 4*, not *day 2*",
+      "sub": "#1 is the rule everyone skips",
+      "photo": "skincare products shelf"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Change *one thing* at a time",
+      "body": "Start three products together and you can't tell which one helped, or which one irritated. Add one, then wait.",
+      "photo": "single skincare bottle"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Days 1–14: watch for *irritation*",
+      "body": "Stinging that lingers, redness or new bumps are your signal to stop using it, not to push through.",
+      "photo": "woman looking mirror"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Weeks 2–4: *feel* comes first",
+      "body": "Softer, more comfortable skin often shows early. Changes in texture and tone usually take longer, often a couple of months.",
+      "photo": "woman touching face"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "*Same* photo, every week",
+      "body": "Same window light, same angle, no filter. Compare week 1 to week 4, not yesterday to today.",
+      "photo": "selfie window light"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "Note *what else* changed",
+      "body": "Weather, sleep, a new cleanser or a busy week can shift your skin too. A quick note keeps the comparison fair.",
+      "photo": "notebook writing coffee"
+    },
+    {
+      "type": "app",
+      "title": "Testing one product? I built *Glowtrack* to scan your skin weekly, so *day 1* stays on record.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Yeni ürünü 4. haftada değerlendir",
+    "caption": "Çoğumuz yeni bir ürünün işe yarayıp yaramadığına iki üç günde karar veriyoruz, üstelik genelde aynı anda iki ürüne daha başlamışken. Böyle olunca neyin iyi geldiğini, neyin tahriş ettiğini anlamak neredeyse imkânsız. Tek bir ürünü düzgünce denemenin dört haftalık basit yolu burada. Sen en son hangi ürünü fazla erken bıraktın? #ciltbakımı #ciltbakimi #ciltbakımrutini #skincare",
+    "slides": [
+      {
+        "text": "Yeni ürünü *2. günde* değil, *4. haftada* değerlendir",
+        "sub": "1. kuralı herkes atlıyor"
+      },
+      {
+        "title": "Bir seferde *tek değişiklik*",
+        "body": "Üç ürüne birden başlarsan hangisinin iyi geldiğini, hangisinin tahriş ettiğini bilemezsin. Birini ekle, sonra bekle."
+      },
+      {
+        "title": "1–14. gün: *tahrişe* dikkat",
+        "body": "Geçmeyen batma, kızarıklık ya da yeni sivilceler kullanmayı bırakman gerektiğinin işareti. Zorlama."
+      },
+      {
+        "title": "2–4. hafta: önce *his* değişir",
+        "body": "Daha yumuşak, daha rahat bir cilt genelde erken fark edilir. Doku ve ton değişimi daha uzun sürer, çoğu zaman birkaç ay."
+      },
+      {
+        "title": "Her hafta *aynı* fotoğraf",
+        "body": "Aynı pencere ışığı, aynı açı, filtre yok. Dünle bugünü değil, 1. haftayla 4. haftayı karşılaştır."
+      },
+      {
+        "title": "*Başka ne* değişti, not al",
+        "body": "Hava, uyku, yeni bir temizleyici ya da yoğun bir hafta da cildini etkileyebilir. Kısa bir not karşılaştırmayı adil tutar."
+      },
+      {
+        "title": "Tek ürün mü deniyorsun? *Işılda*'yı cildini her hafta taraman için geliştirdim, *ilk gün* kayıtta kalsın."
+      }
+    ]
+  }
+}

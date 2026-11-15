@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-17-1-longevity-basics",
+  "title": "Longevity skincare basics",
+  "date": "2026-11-17",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F5",
+  "mentions_app": true,
+  "caption": "\"Skin longevity\" is the buzzword of the season, and it usually arrives with a brand-new serum attached. But the steps doing the long-term work are the ones you probably already own: daily SPF, a retinoid you can tolerate, a moisturizer you actually use. Which of these four is the hardest for you to keep up? #skinlongevity #skincaretips #sunscreen #retinol #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "*Longevity skincare* doesn't start with a new serum",
+      "sub": "4 basics doing the long-term work",
+      "photo": "skincare serum bottle"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "SPF, *every* day",
+      "body": "UV exposure is a major driver of visible skin aging. Daily broad-spectrum SPF 30+ is your longest-game step.",
+      "photo": "woman applying sunscreen"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "A *retinoid* at night",
+      "body": "Retinoids are among the most studied ingredients for visible aging. Start slow, a few nights a week, and pair with SPF.",
+      "photo": "night skincare routine"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "A *boring* moisturizer, daily",
+      "body": "A comfortable skin barrier makes every other step easier to stick with. A steady moisturizer beats rotating new launches.",
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "*Years*, not weeks",
+      "body": "Long-term means a routine you keep. Gentle cleansing, enough sleep and hands off your face add up quietly.",
+      "photo": "calm morning bathroom"
+    },
+    {
+      "type": "app",
+      "title": "Long game? I built *Glowtrack* to scan your skin and track its *score* for months.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Longevity bakımının temelleri",
+    "caption": "Bu sezonun moda kelimesi \"skin longevity\", yani uzun vadeli cilt bakımı. Genelde yanında yepyeni bir serumla geliyor. Ama uzun vadede asıl işi yapan adımlar muhtemelen zaten dolabında: her gün SPF, cildinin kaldırabildiği bir retinoid ve gerçekten kullandığın bir nemlendirici. Bu dördünden hangisini sürdürmek sana en zor geliyor? #ciltbakımı #ciltbakimi #güneşkremi #retinol #skincare",
+    "slides": [
+      {
+        "text": "*Longevity* bakımı yeni bir serumla başlamaz",
+        "sub": "Uzun vadede işi yapan 4 temel adım"
+      },
+      {
+        "title": "Her gün *SPF*",
+        "body": "Güneş ışınları cildin görünür yaşlanmasında başlıca etkenlerden biri. Her gün geniş spektrumlu SPF 30+ en uzun vadeli adımın."
+      },
+      {
+        "title": "Akşamları *retinoid*",
+        "body": "Retinoidler görünür yaşlanma konusunda en çok çalışılan içeriklerden. Yavaş başla, haftada birkaç akşam, yanında mutlaka SPF."
+      },
+      {
+        "title": "*Sıkıcı* ama düzenli nemlendirici",
+        "body": "Rahat bir cilt bariyeri diğer adımları sürdürmeyi kolaylaştırır. Her ay yeni ürün denemektense aynı nemlendiriciye devam et."
+      },
+      {
+        "title": "Haftalar değil, *yıllar*",
+        "body": "Uzun vade, sürdürebildiğin rutin demek. Nazik temizlik, yeterli uyku ve yüzüne dokunmamak sessizce birikir."
+      },
+      {
+        "title": "Uzun vadeli düşünüyorsan: *Işılda* cildini tarar ve *skorunu* aylarca takip eder."
+      }
+    ]
+  }
+}
