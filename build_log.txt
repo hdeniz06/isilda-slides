@@ -1,18 +1,17 @@
-slide 1: pixabay px-2604540 (airplane window seat)
-slide 2: pixabay px-10374419 (woman applying face cream)
-slide 3: pixabay px-7883816 (airplane window sunlight)
-slide 4: pixabay px-3862645 (face mist spray)
-slide 5: pixabay px-977976 (travel size bottles)
-slide 6: pixabay px-8003000 (travel toiletry bag)
+slide 1: pixabay px-614824 (skincare serum bottle)
+slide 2: pixabay px-5843504 (woman applying sunscreen)
+slide 3: pixabay px-4837854 (night skincare routine)
+slide 4: pixabay px-4644496 (woman applying face cream)
+slide 5: pixabay px-6594102 (calm morning bathroom)
+slide 6: app screenshot 0
+slide 6: app screenshot 0 (tr)
+rendered 2026-11-17-1-longevity-basics en+tr
+slide 1: pixabay px-10430557 (skincare products shelf)
+slide 2: pixabay px-939640 (single skincare bottle)
+slide 3: pixabay px-7893592 (woman looking mirror)
+slide 4: pixabay px-4618067 (woman touching face)
+slide 5: pixabay px-1733345 (selfie window light)
+slide 6: pixabay px-6886588 (notebook writing coffee)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-16-1-plane-skin-habits en+tr
-slide 1: pixabay px-2603551 (woman sleeping pillow)
-slide 2: pixabay px-5223774 (white pillow bed)
-slide 3: pixabay px-4716169 (fresh bed linen)
-slide 4: pixabay px-3055841 (woman hair tie)
-slide 5: pixabay px-4981573 (woman night skincare)
-slide 6: pixabay px-7389701 (silk fabric)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-11-16-2-pillowcase-habits en+tr
+rendered 2026-11-17-2-judge-in-week-four en+tr
