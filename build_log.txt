@@ -1,9 +1,18 @@
-slide 1: pixabay px-5515970 (skincare products bathroom)
-slide 2: pixabay px-1690887 (skincare dropper bottle)
-slide 3: pixabay px-7461585 (woman looking mirror)
-slide 4: pixabay px-6896229 (woman touching face)
-slide 5: pixabay px-8056006 (selfie window light)
-slide 6: pixabay px-3176775 (notebook writing coffee)
+slide 1: pixabay px-10502041 (woman washing face sink)
+slide 2: pixabay px-4868196 (foaming face cleanser)
+slide 3: pixabay px-2198759 (woman touching cheek mirror)
+slide 4: pixabay px-2806817 (applying moisturizer face)
+slide 5: pixabay px-4145772 (woman bathroom mirror)
+slide 6: pixabay px-7089304 (gentle cleanser bottle)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-17-2-week-four-rule en+tr
+rendered 2026-11-18-1-harsh-cleanser-signs en+tr
+slide 1: pixabay px-1733351 (holiday party woman)
+slide 2: pixabay px-8227623 (skincare serum bottle)
+slide 3: pixabay px-4072031 (face scrub jar)
+slide 4: pixabay px-2193458 (makeup sponge foundation)
+slide 5: pixabay px-9752525 (micellar water cotton pad)
+slide 6: pixabay px-2987578 (woman morning sunlight)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-11-18-2-party-prep-mistakes en+tr
