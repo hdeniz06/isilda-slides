@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-18-1-harsh-cleanser-signs",
+  "title": "Signs your cleanser is too harsh",
+  "date": "2026-11-18",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F4",
+  "mentions_app": true,
+  "caption": "Cold air and indoor heating already pull moisture from your skin, and a cleanser that strips too much makes winter even rougher. The signs are easy to brush off as just having dry skin. If a few of these sound familiar, your face wash might be the first thing worth swapping. Which of these signs have you noticed after washing? #skincaretips #cleanser #dryskin #winterskincare #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Your cleanser is *too harsh* if…",
+      "sub": "#3 is the one people blame on everything else",
+      "photo": "woman washing face sink"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "It feels *squeaky clean*",
+      "body": "That squeaky feeling usually means the oils your skin needs went down the drain along with the dirt.",
+      "photo": "foaming face cleanser"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "*Tight* before you moisturize",
+      "body": "If your face feels tight within minutes of rinsing, your cleanser is likely stripping more than it should.",
+      "photo": "woman touching cheek mirror"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Your moisturizer suddenly *stings*",
+      "body": "Products that never bothered you start to sting right after washing. Freshly stripped skin often reacts this way.",
+      "photo": "applying moisturizer face"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "*Red* or *flaky* after every wash",
+      "body": "Patches around your nose or cheeks that show up after cleansing, then calm down later, point back to your wash.",
+      "photo": "woman bathroom mirror"
+    },
+    {
+      "type": "list",
+      "title": "What to try *instead*",
+      "items": [
+        "A gentle, low-foam or cream cleanser",
+        "Lukewarm water, never hot",
+        "Fragrance-free if your skin is touchy",
+        "Pat dry, then moisturize right away"
+      ],
+      "photo": "gentle cleanser bottle"
+    },
+    {
+      "type": "app",
+      "title": "Switching cleansers? *Glowtrack* scans your skin and builds a routine *gentle* enough for winter.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Temizleyicin fazla sert olabilir",
+    "caption": "Soğuk hava ve kaloriferler zaten cildin nemini çekiyor; fazla arındıran bir temizleyici kışı daha da zorlaştırıyor. İşaretleri de çoğu zaman 'cildim kuru zaten' deyip geçiyoruz. Bunlardan birkaçı tanıdık geliyorsa, değiştirmeye değer ilk ürün yüz temizleyicin olabilir. Yüzünü yıkadıktan sonra sen hangisini fark ediyorsun? #ciltbakımı #ciltbakimi #kurucilt #kışciltbakımı #skincare",
+    "slides": [
+      {
+        "text": "Temizleyicin *fazla sert*, eğer…",
+        "sub": "3. maddeyi herkes başka şeye bağlıyor"
+      },
+      {
+        "title": "*Gıcır gıcır* hissettiriyorsa",
+        "body": "O gıcırtı hissi genelde cildinin ihtiyaç duyduğu yağların da kirle birlikte gidere aktığı anlamına gelir."
+      },
+      {
+        "title": "Nemlendiriciden önce *gerginlik*",
+        "body": "Duruladıktan birkaç dakika sonra yüzün geriliyorsa, temizleyicin gerekenden fazlasını alıyor olabilir."
+      },
+      {
+        "title": "Nemlendirici birden *yakıyorsa*",
+        "body": "Hiç sorun çıkarmayan ürünler yüzünü yıkar yıkamaz batmaya başlıyor. Yağı alınmış cilt sık sık böyle tepki verir."
+      },
+      {
+        "title": "Her yıkamadan sonra *kızarıklık*",
+        "body": "Burun kenarında ya da yanaklarda yıkadıktan sonra çıkıp sonra geçen pullanma ve kızarıklık, temizleyiciyi işaret eder."
+      },
+      {
+        "title": "Bunun *yerine* dene",
+        "items": [
+          "Az köpüren ya da kremsi, nazik bir temizleyici",
+          "Ilık su, asla sıcak değil",
+          "Hassas ciltsen parfümsüz",
+          "Tamponlayarak kurula, hemen nemlendir"
+        ]
+      },
+      {
+        "title": "Temizleyici mi değiştiriyorsun? *Işılda* cildini tarar ve kışa uygun, *nazik* bir rutin hazırlar."
+      }
+    ]
+  }
+}

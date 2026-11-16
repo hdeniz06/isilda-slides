@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-18-2-party-prep-mistakes",
+  "title": "Holiday party skin prep, done right",
+  "date": "2026-11-18",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F1",
+  "mentions_app": true,
+  "caption": "Holiday party season is almost here, and the week before a big night is when most of us panic and try everything at once. New masks, a strong scrub, a fresh serum the night before. Usually the simple plan works better. Here's how to get your skin ready without surprises. What's your go-to move before a big night out? #skincaretips #holidayskincare #partyseason #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "You're probably prepping for parties *backwards*",
+      "sub": "#2 is the one everyone does",
+      "photo": "holiday party woman"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "No *new* products party week",
+      "body": "Try new serums or masks weeks ahead. A surprise reaction the night before is the last thing you want.",
+      "photo": "skincare serum bottle"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Skip the *last-minute* scrub",
+      "body": "A harsh scrub or strong peel right before an event can leave skin red and flaky. A gentle cleanse is enough.",
+      "photo": "face scrub jar"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Moisturize *before* makeup",
+      "body": "Give your moisturizer a few minutes to sink in. Makeup tends to cling to dry patches and settle into flakes.",
+      "photo": "makeup sponge foundation"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Take it all off, *even at 2am*",
+      "body": "Leave a gentle cleanser or micellar water by the sink, so tired you still removes makeup before bed.",
+      "photo": "micellar water cotton pad"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "Next morning: *basics only*",
+      "body": "Gentle cleanse, moisturizer, SPF. Save strong actives for when your skin feels calm again.",
+      "photo": "woman morning sunlight"
+    },
+    {
+      "type": "app",
+      "title": "Party season ahead? *Glowtrack* scans your skin and builds a *calm* routine for the busy weeks.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Parti öncesi cilt hazırlığı",
+    "caption": "Yılbaşı ve davet sezonu yaklaşıyor; büyük geceden önceki hafta da çoğumuzun panikleyip her şeyi aynı anda denediği zaman. Yeni maske, sert bir peeling, bir gece önce yepyeni bir serum. Oysa genelde sade plan daha iyi sonuç veriyor. Cildini sürprizsiz hazırlamanın yolu burada. Sen önemli bir geceden önce ne yaparsın? #ciltbakımı #ciltbakimi #yılbaşı #makyaj #skincare",
+    "slides": [
+      {
+        "text": "Partiye cildini muhtemelen *ters* hazırlıyorsun",
+        "sub": "2. maddeyi herkes yapıyor"
+      },
+      {
+        "title": "Parti haftası *yeni ürün* yok",
+        "body": "Yeni serum ya da maskeyi haftalar önce dene. Bir gece önce çıkan sürpriz bir tepki, isteyeceğin son şey."
+      },
+      {
+        "title": "*Son dakika* peelingi atla",
+        "body": "Etkinlikten hemen önce sert bir peeling cildini kızarık ve pul pul bırakabilir. Nazik bir temizlik yeter."
+      },
+      {
+        "title": "Makyajdan *önce* nemlendir",
+        "body": "Nemlendiricine emilmesi için birkaç dakika ver. Makyaj kuru bölgelere yapışır, pullanmaların içine çöker."
+      },
+      {
+        "title": "Gece *2'de* bile hepsini sil",
+        "body": "Lavabonun yanına nazik bir temizleyici ya da misel su koy, yorgun hâlinle bile makyajı silmeden yatma."
+      },
+      {
+        "title": "Ertesi sabah: *sadece temel*",
+        "body": "Nazik temizlik, nemlendirici, güneş kremi. Güçlü aktifleri cildin sakinleşene kadar beklet."
+      },
+      {
+        "title": "Davet sezonu mu geliyor? *Işılda* cildini tarar ve yoğun haftalar için *sakin* bir rutin hazırlar."
+      }
+    ]
+  }
+}
