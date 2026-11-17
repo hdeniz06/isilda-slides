@@ -1,8 +1,8 @@
-slide 1: reused pixabay photo
-slide 2: reused pixabay photo
-slide 3: reused pixabay photo
-slide 4: reused pixabay photo
-slide 5: reused pixabay photo
+slide 1: pixabay px-2682798 (woman skincare routine)
+slide 2: pixabay px-4743445 (washing hands soap)
+slide 3: pixabay px-6391400 (moisturizer cream hand)
+slide 4: pixabay px-7099106 (woman touching face)
+slide 5: pixabay px-2094682 (woman bathroom mirror morning)
 slide 6: app screenshot 0
 slide 6: app screenshot 0 (tr)
-rendered 2026-11-19-2-how-you-apply en+tr
+rendered 2026-11-19-2-apply-it-right en+tr
