@@ -1,17 +1,8 @@
-slide 1: pixabay px-3913086 (woman looking mirror)
-slide 2: pixabay px-9841281 (adhesive tape roll)
-slide 3: pixabay px-6137450 (woman touching cheek)
-slide 4: pixabay px-3084912 (face oil dropper)
-slide 5: pixabay px-4662826 (woman inner arm skin)
-slide 6: pixabay px-9455997 (phone selfie window light)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-11-19-1-face-tape-myth en+tr
-slide 1: pixabay px-10499067 (woman applying serum)
-slide 2: pixabay px-2389777 (washing hands soap)
-slide 3: pixabay px-3433919 (face cream jar)
-slide 4: pixabay px-4073232 (woman touching face)
-slide 5: pixabay px-2094684 (woman bathroom mirror morning)
+slide 1: reused pixabay photo
+slide 2: reused pixabay photo
+slide 3: reused pixabay photo
+slide 4: reused pixabay photo
+slide 5: reused pixabay photo
 slide 6: app screenshot 0
 slide 6: app screenshot 0 (tr)
 rendered 2026-11-19-2-how-you-apply en+tr
