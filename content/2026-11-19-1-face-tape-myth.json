@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-19-1-face-tape-myth",
+  "title": "Face taping, the honest version",
+  "date": "2026-11-19",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F5",
+  "mentions_app": true,
+  "caption": "Face taping keeps popping up on the FYP, with people waking up, peeling it off and calling it a lift. Tape can hold skin in place while it's on, but that's about it. If you try it in winter, the bigger issue is what daily peeling does to dry skin. Here's what to know first. Have you tried face taping, and did anything last past lunch? #skincaremyths #facetaping #skincaretips #winterskincare #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Face tape won't *erase* your wrinkles",
+      "sub": "what it actually does: slide 2",
+      "photo": "woman looking mirror"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "It's a *temporary* hold",
+      "body": "Tape keeps skin still while it's on. Once it's off, your face moves the way it always does again.",
+      "photo": "adhesive tape roll"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Daily peeling *adds up*",
+      "body": "Pulling adhesive off every morning can leave dry winter skin red, tight or irritated.",
+      "photo": "woman touching cheek"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Never *rip* it off",
+      "body": "Loosen the edges with water or a little oil, peel slowly, then follow with moisturizer.",
+      "photo": "face oil dropper"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Patch test the *tape* too",
+      "body": "Try it on a small spot first. If it itches or stings, that tape isn't for your face.",
+      "photo": "woman inner arm skin"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "Check *hours* later, not seconds",
+      "body": "Take a photo in the same light right after and again by afternoon. That shows what actually lasts.",
+      "photo": "phone selfie window light"
+    },
+    {
+      "type": "app",
+      "title": "Tape off, lights on. *Glowtrack* scans your skin each week, so you see what *really sticks*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Yüz bandının gerçeği",
+    "caption": "Yüz bandı akışta sürekli karşımıza çıkıyor: sabah bandı çıkarıp yüzü gerilmiş gibi gösteren videolar. Bant takılıyken cildi sabit tutar ama hikâye aşağı yukarı burada biter. Kışın deneyeceksen asıl mesele, her sabah bandı sökmenin kuru cilde yaptıkları. Denemeden önce bilmen gerekenler burada. Sen yüz bandını denedin mi, etkisi öğleni gördü mü? #ciltbakımı #ciltbakimi #kışbakımı #yüzbandı #skincaremyths",
+    "slides": [
+      {
+        "text": "Yüz bandı kırışıklıkları *silmez*",
+        "sub": "Gerçekte ne yaptığı 2. slaytta"
+      },
+      {
+        "title": "Etkisi *geçici*",
+        "body": "Bant takılıyken cildi sabit tutar. Çıkardığın anda yüzün her zamanki gibi hareket etmeye devam eder."
+      },
+      {
+        "title": "Her sabah sökmek *birikir*",
+        "body": "Yapışkanı her gün çekip çıkarmak, kışın zaten kuru olan cildi kızartabilir, gerebilir, tahriş edebilir."
+      },
+      {
+        "title": "Asla *çekip koparma*",
+        "body": "Kenarlarını suyla ya da biraz yağla yumuşat, yavaşça çıkar, ardından nemlendiricini sür."
+      },
+      {
+        "title": "Bandı da *test et*",
+        "body": "Önce küçük bir bölgede dene. Kaşındırıyor ya da yakıyorsa o bant yüzüne göre değil."
+      },
+      {
+        "title": "Saniyeler değil, *saatler* sonra bak",
+        "body": "Aynı ışıkta çıkarır çıkarmaz bir fotoğraf, öğleden sonra bir fotoğraf daha çek. Neyin kaldığını o gösterir."
+      },
+      {
+        "title": "Bant çıktı, gerçek ortada. *Işılda* cildini her hafta tarar, neyin *kalıcı* olduğunu görürsün."
+      }
+    ]
+  }
+}

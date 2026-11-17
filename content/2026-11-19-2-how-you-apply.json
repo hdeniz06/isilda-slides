@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-19-2-how-you-apply",
+  "title": "How you apply it matters",
+  "date": "2026-11-19",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F6",
+  "mentions_app": true,
+  "caption": "We spend ages picking the right serum and about three seconds putting it on. How you apply your skincare changes how it feels, how it layers and whether your makeup pills by noon. None of these steps cost anything, they just take a little more care. Which one do you skip when you're in a rush? #skincaretips #skincareroutine #skincare101 #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Your serum is fine. *How you apply it* isn't.",
+      "sub": "#4 is the step everyone rushes",
+      "photo": "woman applying serum"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Start with *clean hands*",
+      "body": "Wash your hands before you touch your face, or you're spreading the day onto freshly cleansed skin.",
+      "photo": "washing hands soap"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Use *less* than you think",
+      "body": "A few drops of serum, a pea-size bit of moisturizer. The exception is sunscreen: be generous with that one.",
+      "photo": "face cream jar"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Press and spread, don't *drag*",
+      "body": "Use your fingertips and a light touch. Rubbing hard tugs at skin, and dry winter skin feels it more.",
+      "photo": "woman touching face"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Give each layer *a minute*",
+      "body": "Let each step settle before the next, especially before sunscreen and makeup, so nothing pills or slides.",
+      "photo": "woman bathroom mirror morning"
+    },
+    {
+      "type": "app",
+      "title": "Technique sorted. *Glowtrack* scans your skin and builds the routine you'll be *applying*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Nasıl sürdüğün de önemli",
+    "caption": "Doğru serumu seçmek için saatler harcıyoruz, sürmek için ise üç saniye. Ürünü nasıl uyguladığın; nasıl hissettirdiğini, katmanların nasıl oturduğunu ve öğlene kadar makyajın topaklanıp topaklanmayacağını değiştiriyor. Bu adımların hiçbiri para istemiyor, sadece biraz özen istiyor. Acelen olduğunda hangisini atlıyorsun? #ciltbakımı #ciltbakimi #ciltbakımrutini #skincaretips #skincare",
+    "slides": [
+      {
+        "text": "Serumunda sorun yok. *Sürme şeklinde* var.",
+        "sub": "4. adımı herkes aceleye getiriyor"
+      },
+      {
+        "title": "*Temiz ellerle* başla",
+        "body": "Yüzüne dokunmadan önce ellerini yıka, yoksa günün tüm kirini yeni temizlenmiş cildine taşırsın."
+      },
+      {
+        "title": "Sandığından *az* kullan",
+        "body": "Serumdan birkaç damla, nemlendiriciden nohut kadar yeter. Tek istisna güneş kremi: onda cömert ol."
+      },
+      {
+        "title": "Bastırarak yay, *sürtme*",
+        "body": "Parmak uçlarınla, hafif dokun. Sertçe ovmak cildi çeker; kışın kuruyan cilt bunu daha çok hisseder."
+      },
+      {
+        "title": "Her katmana *bir dakika* ver",
+        "body": "Her adımın oturmasını bekle, özellikle güneş kremi ve makyajdan önce. Böylece topaklanma ya da kayma olmaz."
+      },
+      {
+        "title": "Tekniği hallettin. *Işılda* cildini tarar ve süreceğin rutini *sana göre* hazırlar."
+      }
+    ]
+  }
+}
