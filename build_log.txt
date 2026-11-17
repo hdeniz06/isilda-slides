@@ -1,18 +1,17 @@
-slide 1: pixabay px-10502041 (woman washing face sink)
-slide 2: pixabay px-4868196 (foaming face cleanser)
-slide 3: pixabay px-2198759 (woman touching cheek mirror)
-slide 4: pixabay px-2806817 (applying moisturizer face)
-slide 5: pixabay px-4145772 (woman bathroom mirror)
-slide 6: pixabay px-7089304 (gentle cleanser bottle)
+slide 1: pixabay px-3913086 (woman looking mirror)
+slide 2: pixabay px-9841281 (adhesive tape roll)
+slide 3: pixabay px-6137450 (woman touching cheek)
+slide 4: pixabay px-3084912 (face oil dropper)
+slide 5: pixabay px-4662826 (woman inner arm skin)
+slide 6: pixabay px-9455997 (phone selfie window light)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-18-1-harsh-cleanser-signs en+tr
-slide 1: pixabay px-1733351 (holiday party woman)
-slide 2: pixabay px-8227623 (skincare serum bottle)
-slide 3: pixabay px-4072031 (face scrub jar)
-slide 4: pixabay px-2193458 (makeup sponge foundation)
-slide 5: pixabay px-9752525 (micellar water cotton pad)
-slide 6: pixabay px-2987578 (woman morning sunlight)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-11-18-2-party-prep-mistakes en+tr
+rendered 2026-11-19-1-face-tape-myth en+tr
+slide 1: pixabay px-10499067 (woman applying serum)
+slide 2: pixabay px-2389777 (washing hands soap)
+slide 3: pixabay px-3433919 (face cream jar)
+slide 4: pixabay px-4073232 (woman touching face)
+slide 5: pixabay px-2094684 (woman bathroom mirror morning)
+slide 6: app screenshot 0
+slide 6: app screenshot 0 (tr)
+rendered 2026-11-19-2-how-you-apply en+tr
