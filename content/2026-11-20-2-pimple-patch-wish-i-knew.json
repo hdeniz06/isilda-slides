@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-20-2-pimple-patch-wish-i-knew",
+  "title": "Pimple patches: wish I knew",
+  "date": "2026-11-20",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F10",
+  "mentions_app": true,
+  "caption": "Pimple patches look like the easiest step in skincare, but a few small details decide whether they stick, stay on and actually stop you from picking. They're a cover for one spot, not a fix for your whole face, and they work best on spots that have come to the surface. Do you wear yours overnight or during the day too? #pimplepatch #acnetips #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Wish I knew this before using *pimple patches*",
+      "sub": "#3 is why yours keep falling off",
+      "photo": "woman looking mirror face"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "They work best on *surface* spots",
+      "body": "Plain hydrocolloid patches absorb fluid from spots that have come to a head. Deep bumps under the skin have nothing to draw out.",
+      "photo": "woman face closeup skin"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Their best trick: *no picking*",
+      "body": "A patch covers the spot so your fingers can't reach it, which is half the battle when you're tempted to squeeze.",
+      "photo": "woman hand cheek"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Stick it on *clean, dry* skin",
+      "body": "Patch first, then do the rest of your routine around it. Serum or moisturizer underneath stops it from sticking.",
+      "photo": "washing face sink"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Swap it when it turns *white*",
+      "body": "A white center means it has absorbed fluid. Peel it off gently and use a fresh one instead of leaving it on.",
+      "photo": "woman bathroom mirror"
+    },
+    {
+      "type": "list",
+      "title": "Quick patch *rules*",
+      "items": [
+        "One spot, one patch",
+        "Peel *slowly*, never rip",
+        "Medicated patch? Skip other *spot treatments* there"
+      ],
+      "photo": "skincare morning routine"
+    },
+    {
+      "type": "app",
+      "title": "One patch, one spot. I built *Glowtrack* to scan your *whole face* and plan your routine.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Sivilce bandı: keşke bilseydim",
+    "caption": "Sivilce bandı cilt bakımının en kolay adımı gibi görünüyor ama yapışıp yapışmayacağını, yerinde kalıp kalmayacağını ve seni sıkmaktan gerçekten alıkoyup koymayacağını birkaç küçük detay belirliyor. Bant tek bir sivilceyi kapatır, tüm yüzünün çözümü değildir; en iyi de yüzeye çıkmış sivilcede işe yarar. Sen bandı sadece gece mi kullanıyorsun, gündüz de mi? #ciltbakımı #ciltbakimi #sivilce #skincaretips #skincare",
+    "slides": [
+      {
+        "text": "Sivilce bandı kullanmadan önce *keşke bilseydim*",
+        "sub": "3. madde bandın neden düştüğünü anlatıyor"
+      },
+      {
+        "title": "En iyi *yüzeydeki* sivilcede çalışır",
+        "body": "Düz hidrokolloid bantlar, başı çıkmış sivilcedeki sıvıyı emer. Cilt altındaki derin şişliklerde çekecek bir şey yoktur."
+      },
+      {
+        "title": "Asıl marifeti: *sıkmamanı* sağlamak",
+        "body": "Bant sivilceyi kapattığı için parmakların ona ulaşamaz. Sıkma isteği geldiğinde bu, işin yarısı demek."
+      },
+      {
+        "title": "*Temiz ve kuru* cilde yapıştır",
+        "body": "Önce bant, sonra rutininin geri kalanı etrafına. Altında serum ya da nemlendirici varsa bant tutmaz."
+      },
+      {
+        "title": "*Beyazlayınca* değiştir",
+        "body": "Ortasının beyazlaması sıvıyı emdiği anlamına gelir. Aynı bantla devam etme; nazikçe çıkar, yenisini yapıştır."
+      },
+      {
+        "title": "Kısa *bant kuralları*",
+        "items": [
+          "Bir sivilceye bir bant",
+          "*Yavaşça* soy, asla çekip koparma",
+          "İlaçlı bant mı? O bölgeye başka *sivilce ürünü* sürme"
+        ]
+      },
+      {
+        "title": "Bant tek bir sivilceye bakar. *Işılda*'yı *tüm yüzünü* tarayıp rutinini planlaman için geliştirdim."
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-20-1-mineral-vs-chemical-spf",
+  "title": "Mineral vs chemical SPF",
+  "date": "2026-11-20",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F7",
+  "mentions_app": true,
+  "caption": "Mineral or chemical sunscreen is one of the most asked SPF questions, and online it can sound like a big fight. Both filter types protect your skin when the formula is broad spectrum and you apply enough. The real difference is mostly feel, finish and what your skin tolerates, and that matters even in winter. Team mineral or team chemical, and why? #sunscreen #spf #skincaretips #winterskincare",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Mineral vs chemical SPF: what's the *real* difference?",
+      "sub": "slide 4 settles it",
+      "photo": "applying sunscreen face"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Mineral filters sit *on top*",
+      "body": "Zinc oxide and titanium dioxide form a layer on your skin that blocks UV. The trade-off: they can leave a white cast.",
+      "photo": "white sunscreen cream"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Chemical filters *absorb* UV",
+      "body": "Filters like avobenzone soak up UV rays in the top layer of skin. They usually feel lighter and blend in clear.",
+      "photo": "sunscreen lotion hand"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "So which one *wins*?",
+      "body": "Neither, on paper. Broad spectrum SPF 30 or higher protects either way. The difference is how it feels on your skin.",
+      "photo": "woman sunlight face"
+    },
+    {
+      "type": "list",
+      "title": "Choose by *your skin*",
+      "items": [
+        "Sensitive skin? Many find *mineral* gentler",
+        "Hate white cast? Try *chemical* or tinted mineral",
+        "Dry winter skin? Pick a *moisturizing* formula"
+      ],
+      "photo": "skincare products shelf"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "The best one is the one you *wear*",
+      "body": "Every day, winter included. A formula you like enough to reapply beats a perfect one sitting in your drawer.",
+      "photo": "woman applying sunscreen"
+    },
+    {
+      "type": "app",
+      "title": "SPF picked? I built *Glowtrack* to scan your skin and plan the *morning steps* before it.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Mineral mi kimyasal mı güneş kremi",
+    "caption": "Mineral mi kimyasal mı, güneş kremiyle ilgili en çok sorulan sorulardan biri ve internette kocaman bir kavgaymış gibi anlatılıyor. Geniş spektrumlu olduğu ve yeterince sürdüğün sürece iki filtre türü de cildini korur. Asıl fark dokusu, bıraktığı his ve cildinin hangisini sevdiği; bu kışın da geçerli. Sen hangi taraftasın, neden? #ciltbakımı #ciltbakimi #güneşkremi #spf #skincare",
+    "slides": [
+      {
+        "text": "Mineral mi kimyasal mı? *Asıl fark* ne?",
+        "sub": "4. slayt meseleyi kapatıyor"
+      },
+      {
+        "title": "Mineral filtreler *üstte* durur",
+        "body": "Çinko oksit ve titanyum dioksit cildin üstünde UV'yi engelleyen bir katman oluşturur. Bedeli: beyaz iz bırakabilir."
+      },
+      {
+        "title": "Kimyasal filtreler UV'yi *emer*",
+        "body": "Avobenzon gibi filtreler UV ışınlarını cildin üst katmanında emer. Genelde daha hafif hissettirir, iz bırakmadan yedirilir."
+      },
+      {
+        "title": "Peki hangisi *kazanır*?",
+        "body": "Kâğıt üstünde hiçbiri. Geniş spektrumlu ve SPF 30+ olduğu sürece ikisi de korur. Fark, cildinde nasıl hissettirdiğinde."
+      },
+      {
+        "title": "*Cildine* göre seç",
+        "items": [
+          "Hassas cilt mi? Çoğu kişi *mineral* olanı daha nazik buluyor",
+          "Beyaz izden nefret mi? *Kimyasal* ya da renkli mineral dene",
+          "Kışın kuruyor musun? *Nemlendirici* dokulu formül seç"
+        ]
+      },
+      {
+        "title": "En iyisi *süreceğin* olandır",
+        "body": "Her gün, kışın da. Tekrar sürecek kadar sevdiğin bir krem, çekmecede bekleyen mükemmel kremden iyidir."
+      },
+      {
+        "title": "Güneş kremin hazır mı? *Işılda*'yı cildini tarayıp ondan önceki *sabah adımlarını* planlaman için geliştirdim."
+      }
+    ]
+  }
+}
