@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-21-2-glasses-wearers",
+  "title": "Skincare for glasses wearers",
+  "date": "2026-11-21",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F8",
+  "mentions_app": true,
+  "caption": "Glasses sit on the same spots of your face for hours, so the frames end up being part of your skincare whether you plan it or not. A few small habits keep the nose pads clean, your SPF where it belongs and pressure marks to a minimum. Glasses wearers, which of these did you already know? #glasses #skincaretips #skincareroutine #glassesgirl #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "If you wear *glasses* every day, save this",
+      "sub": "#2 is why your pads keep slipping",
+      "photo": "woman wearing glasses"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Your nose pads need *washing* too",
+      "body": "Pads and frames pick up oil, sweat and makeup, then sit on your skin all day. Wash them with mild soap and water.",
+      "photo": "eyeglasses on table"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Skincare first, *glasses* last",
+      "body": "Let moisturizer and SPF settle for a few minutes before frames go back on, so the pads don't slide or smear.",
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Frames don't replace *sunscreen*",
+      "body": "They shade a thin strip at most. Put SPF on your nose bridge and under your eyes before the glasses go on.",
+      "photo": "woman applying sunscreen face"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Red marks? Check the *fit*",
+      "body": "Frames that pinch press and rub the same spot all day. An optician can usually adjust the nose pads and arms.",
+      "photo": "woman adjusting glasses"
+    },
+    {
+      "type": "list",
+      "title": "Your glasses *routine*",
+      "items": [
+        "Wash frames and pads *weekly*",
+        "SPF first, frames *after*",
+        "Give your nose a *break* at home"
+      ],
+      "photo": "woman glasses smiling"
+    },
+    {
+      "type": "app",
+      "title": "Frames off, quick scan. I built *Glowtrack* to score your skin and track it *weekly*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Gözlük takanlar için cilt bakımı",
+    "caption": "Gözlük saatlerce yüzünün aynı noktalarında duruyor, yani istesen de istemesen de cilt bakımının bir parçası oluyor. Birkaç küçük alışkanlıkla burun pedlerini temiz, güneş kremini doğru yerde ve kırmızı izleri en az seviyede tutabilirsin. Gözlüklüler, bunlardan hangisini zaten biliyordun? #ciltbakımı #ciltbakimi #gözlük #skincaretips #skincare",
+    "slides": [
+      {
+        "text": "Her gün *gözlük* takıyorsan bunu kaydet",
+        "sub": "2. madde pedlerin neden kaydığını anlatıyor"
+      },
+      {
+        "title": "Burun pedlerinin de *yıkanması* lazım",
+        "body": "Pedler ve çerçeve yağı, teri ve makyajı toplar, sonra bütün gün cildinde durur. Ilık su ve hafif sabunla yıka."
+      },
+      {
+        "title": "Önce bakım, *gözlük* en son",
+        "body": "Nemlendirici ve güneş kremi birkaç dakika otursun, gözlüğü sonra tak. Yoksa pedler kayar, ürün her yere bulaşır."
+      },
+      {
+        "title": "Gözlük *güneş kremi* yerine geçmez",
+        "body": "En fazla ince bir şeridi gölgeler. Gözlüğü takmadan önce burun kemerine ve göz altına da güneş kremi sür."
+      },
+      {
+        "title": "Kırmızı iz mi var? *Oturuşa* bak",
+        "body": "Sıkan bir çerçeve bütün gün aynı noktaya bastırır ve sürtünür. Gözlükçün pedleri ve sapları çoğu zaman ayarlayabilir."
+      },
+      {
+        "title": "Gözlüklüler için *günlük rutin*",
+        "items": [
+          "Çerçeve ve pedleri *haftada bir* yıka",
+          "Önce güneş kremi, *sonra* gözlük",
+          "Evdeyken burnuna biraz *mola* ver"
+        ]
+      },
+      {
+        "title": "Gözlüğü çıkar, hızlıca tara. *Işılda*'yı cildini puanlayıp *her hafta* takip etmen için geliştirdim."
+      }
+    ]
+  }
+}

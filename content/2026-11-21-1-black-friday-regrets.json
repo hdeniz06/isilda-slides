@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-21-1-black-friday-regrets",
+  "title": "Black Friday skincare regrets",
+  "date": "2026-11-21",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F2",
+  "mentions_app": true,
+  "caption": "Black Friday makes it easy to fill a cart with everything that went viral this year, but a sale is a bad reason to change your whole routine at once. These four buys are the ones most likely to sit half-used on your shelf or leave your skin guessing. What's already in your cart this year? #blackfriday #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "4 Black Friday skincare buys you'll *regret*",
+      "sub": "#3 is in almost every cart",
+      "photo": "online shopping laptop"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Five new actives at *once*",
+      "body": "If your skin reacts, you won't know which one caused it. Add one new product at a time, a few weeks apart.",
+      "photo": "skincare products shelf"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Backups of something you *haven't tried*",
+      "body": "Three bottles of an untested product lock you in. Buy one first, then restock once you know your skin likes it.",
+      "photo": "shopping bags"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "A *second* bottle of the same active",
+      "body": "Already have a retinol or exfoliating acid open? Layering two of the same type adds irritation risk, not a better routine.",
+      "photo": "serum dropper bottle"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Viral buys for the *wrong skin type*",
+      "body": "A rich balm made for dry skin can feel heavy on oily skin. Check who it's made for, not how viral it is.",
+      "photo": "face cream jar"
+    },
+    {
+      "type": "list",
+      "title": "Actually worth the *cart*",
+      "items": [
+        "Restocks of what you *already use*",
+        "Your everyday *SPF*",
+        "A gentle cleanser that *works* for you"
+      ],
+      "photo": "minimal skincare products"
+    },
+    {
+      "type": "app",
+      "title": "Know your skin first. *Glowtrack* scans it and builds a routine you can *shop for*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "İndirimde pişman olunacak alışverişler",
+    "caption": "Kasım indirimleri, bu yıl viral olan her şeyi sepete atmayı çok kolaylaştırıyor ama indirim, rutinini bir anda baştan değiştirmek için iyi bir sebep değil. Bu dört alışveriş genelde rafta yarım kalıyor ya da cildini ne olduğunu anlamadan zorluyor. Senin sepetinde şu an ne var? #ciltbakımı #ciltbakimi #efsanecuma #indirim #skincaretips",
+    "slides": [
+      {
+        "text": "İndirimde *pişman olacağın* 4 cilt bakımı alışverişi",
+        "sub": "3. madde neredeyse her sepette"
+      },
+      {
+        "title": "Aynı anda *beş yeni* aktif",
+        "body": "Cildin tepki verirse hangisinin yaptığını bilemezsin. Yeni ürünleri birer birer, birkaç hafta arayla ekle."
+      },
+      {
+        "title": "*Denemediğin* ürünün yedekleri",
+        "body": "Hiç denemediğin bir üründen üç tane almak seni ona mahkûm eder. Önce bir tane al, cildin severse stokla."
+      },
+      {
+        "title": "Aynı aktiften *ikinci* şişe",
+        "body": "Açık bir retinolün ya da asitli peelingin varsa ikincisi rutini güçlendirmez, sadece tahriş riskini artırır."
+      },
+      {
+        "title": "*Yanlış cilt tipine* viral alışveriş",
+        "body": "Kuru cilt için yapılmış yoğun bir balm, yağlı ciltte ağır gelebilir. Ne kadar viral olduğuna değil, kimin için yapıldığına bak."
+      },
+      {
+        "title": "Sepete *gerçekten değer* olanlar",
+        "items": [
+          "Zaten kullandıklarının *yedeği*",
+          "Her gün sürdüğün *güneş kremi*",
+          "Cildine *uyan* nazik bir temizleyici"
+        ]
+      },
+      {
+        "title": "Sepete eklemeden önce cildini tanı. *Işılda* cildini tarar ve sana uygun *rutini* çıkarır."
+      }
+    ]
+  }
+}
