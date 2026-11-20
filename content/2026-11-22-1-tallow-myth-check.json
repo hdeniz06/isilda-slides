@@ -1,5 +1,5 @@
 {
-  "id": "2026-11-22-1-beef-tallow-myth",
+  "id": "2026-11-22-1-tallow-myth-check",
   "title": "Beef tallow myth check",
   "date": "2026-11-22",
   "slot": 1,
@@ -12,7 +12,7 @@
       "type": "hook",
       "text": "Beef tallow isn't a *miracle* moisturizer",
       "sub": "#3 matters if you break out",
-      "photo": "cream jar wooden table"
+      "photo": "face cream jar"
     },
     {
       "type": "point",
@@ -26,7 +26,7 @@
       "num": 2,
       "title": "The research is *thin*",
       "body": "Most of the hype comes from personal stories. There's little research comparing tallow to a regular moisturizer.",
-      "photo": "woman reading product label"
+      "photo": "skincare products shelf"
     },
     {
       "type": "point",
@@ -40,7 +40,7 @@
       "num": 4,
       "title": "Homemade jars can *spoil*",
       "body": "DIY tallow skips preservatives and quality checks. Fats can go rancid, so smell and dates matter.",
-      "photo": "homemade cream jar"
+      "photo": "cosmetic cream jar"
     },
     {
       "type": "list",

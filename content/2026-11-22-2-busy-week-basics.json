@@ -1,5 +1,5 @@
 {
-  "id": "2026-11-22-2-busy-week-fallback",
+  "id": "2026-11-22-2-busy-week-basics",
   "title": "Busy holiday week routine",
   "date": "2026-11-22",
   "slot": 2,
@@ -12,7 +12,7 @@
       "type": "hook",
       "text": "Holiday week is when your skincare *falls apart*",
       "sub": "the 2-minute fallback is on slide 6",
-      "photo": "tired woman night"
+      "photo": "tired woman bed"
     },
     {
       "type": "point",
@@ -26,7 +26,7 @@
       "num": 2,
       "title": "Moisturizer is the step to *keep*",
       "body": "Late nights, heating and travel all dry skin out. If you do one thing after cleansing, *moisturize*.",
-      "photo": "moisturizer cream face"
+      "photo": "woman applying moisturizer"
     },
     {
       "type": "point",
