@@ -1,18 +1,18 @@
-slide 1: pixabay px-8087301 (face cream jar)
-slide 2: pixabay px-3397146 (skincare balm jar)
-slide 3: pixabay px-6594694 (skincare products shelf)
-slide 4: pixabay px-2209147 (woman looking mirror skin)
-slide 5: pixabay px-6487694 (cosmetic cream jar)
-slide 6: pixabay px-1335487 (woman applying face cream)
+slide 1: pixabay px-6894724 (skincare cream)
+slide 2: pixabay px-7304948 (skincare balm jar)
+slide 3: pixabay px-1433631 (cosmetics bottles)
+slide 4: pixabay px-2359568 (woman looking mirror skin)
+slide 5: pixabay px-4509194 (cosmetic cream jar)
+slide 6: no photo for 'woman applying face cream', rendering without
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-22-1-tallow-myth-check en+tr
-slide 1: pixabay px-4185917 (tired woman bed)
-slide 2: pixabay px-2416039 (removing makeup cotton pad)
-slide 3: pixabay px-6551183 (woman applying moisturizer)
-slide 4: pixabay px-10368646 (woman sleeping bed)
-slide 5: pixabay px-6592565 (woman applying sunscreen face)
-slide 6: pixabay px-6106917 (woman skincare bathroom)
+rendered 2026-11-22-1-tallow-truth en+tr
+slide 1: pixabay px-593134 (tired woman bed)
+slide 2: pixabay px-5272763 (removing makeup cotton pad)
+slide 3: pixabay px-814218 (face cream)
+slide 4: pixabay px-5076104 (woman sleeping bed)
+slide 5: pixabay px-755943 (sunscreen)
+slide 6: pixabay px-2211243 (woman skincare bathroom)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-22-2-busy-week-basics en+tr
+rendered 2026-11-22-2-busy-week-minimum en+tr
