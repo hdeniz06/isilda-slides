@@ -1,5 +1,5 @@
 {
-  "id": "2026-11-22-2-busy-week-basics",
+  "id": "2026-11-22-2-busy-week-minimum",
   "title": "Busy holiday week routine",
   "date": "2026-11-22",
   "slot": 2,
@@ -26,7 +26,7 @@
       "num": 2,
       "title": "Moisturizer is the step to *keep*",
       "body": "Late nights, heating and travel all dry skin out. If you do one thing after cleansing, *moisturize*.",
-      "photo": "woman applying moisturizer"
+      "photo": "face cream"
     },
     {
       "type": "point",
@@ -40,7 +40,7 @@
       "num": 4,
       "title": "Mornings: *SPF* still goes on",
       "body": "Errands, drives and window seats all count. Moisturizer plus SPF is a full routine on busy days.",
-      "photo": "woman applying sunscreen face"
+      "photo": "sunscreen"
     },
     {
       "type": "list",

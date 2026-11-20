@@ -1,5 +1,5 @@
 {
-  "id": "2026-11-22-1-tallow-myth-check",
+  "id": "2026-11-22-1-tallow-truth",
   "title": "Beef tallow myth check",
   "date": "2026-11-22",
   "slot": 1,
@@ -12,7 +12,7 @@
       "type": "hook",
       "text": "Beef tallow isn't a *miracle* moisturizer",
       "sub": "#3 matters if you break out",
-      "photo": "face cream jar"
+      "photo": "skincare cream"
     },
     {
       "type": "point",
@@ -26,7 +26,7 @@
       "num": 2,
       "title": "The research is *thin*",
       "body": "Most of the hype comes from personal stories. There's little research comparing tallow to a regular moisturizer.",
-      "photo": "skincare products shelf"
+      "photo": "cosmetics bottles"
     },
     {
       "type": "point",
