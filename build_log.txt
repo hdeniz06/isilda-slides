@@ -1,18 +1,18 @@
-slide 1: pixabay px-5906362 (online shopping laptop)
-slide 2: pixabay px-8375344 (skincare products shelf)
-slide 3: pixabay px-18774 (shopping bags)
-slide 4: pixabay px-1490788 (serum dropper bottle)
-slide 5: pixabay px-5581800 (face cream jar)
-slide 6: pixabay px-4644143 (minimal skincare products)
+slide 1: pixabay px-1830178 (cream jar wooden table)
+slide 2: pixabay px-3397280 (skincare balm jar)
+slide 3: pixabay px-420173 (woman reading product label)
+slide 4: pixabay px-4731823 (woman looking mirror skin)
+slide 5: pixabay px-182851 (homemade cream jar)
+slide 6: pixabay px-2333326 (woman applying face cream)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-21-1-black-friday-regrets en+tr
-slide 1: pixabay px-4755130 (woman wearing glasses)
-slide 2: pixabay px-7144593 (eyeglasses on table)
-slide 3: pixabay px-8277925 (woman applying face cream)
-slide 4: pixabay px-4639123 (woman applying sunscreen face)
-slide 5: pixabay px-5091185 (woman adjusting glasses)
-slide 6: pixabay px-2350506 (woman glasses smiling)
+rendered 2026-11-22-1-beef-tallow-myth en+tr
+slide 1: pixabay px-7311234 (tired woman night)
+slide 2: pixabay px-4873600 (removing makeup cotton pad)
+slide 3: pixabay px-1322703 (moisturizer cream face)
+slide 4: pixabay px-2570927 (woman sleeping bed)
+slide 5: pixabay px-657753 (woman applying sunscreen face)
+slide 6: pixabay px-6802907 (woman skincare bathroom)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-21-2-glasses-wearers en+tr
+rendered 2026-11-22-2-busy-week-fallback en+tr
