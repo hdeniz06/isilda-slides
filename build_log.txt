@@ -1,18 +1,9 @@
-slide 1: pixabay px-6894724 (skincare cream)
-slide 2: pixabay px-7304948 (skincare balm jar)
-slide 3: pixabay px-1433631 (cosmetics bottles)
-slide 4: pixabay px-2359568 (woman looking mirror skin)
-slide 5: pixabay px-4509194 (cosmetic cream jar)
-slide 6: no photo for 'woman applying face cream', rendering without
+slide 1: reused pixabay photo
+slide 2: reused pixabay photo
+slide 3: reused pixabay photo
+slide 4: reused pixabay photo
+slide 5: reused pixabay photo
+slide 6: pixabay px-10406821 (moisturizer)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
 rendered 2026-11-22-1-tallow-truth en+tr
-slide 1: pixabay px-593134 (tired woman bed)
-slide 2: pixabay px-5272763 (removing makeup cotton pad)
-slide 3: pixabay px-814218 (face cream)
-slide 4: pixabay px-5076104 (woman sleeping bed)
-slide 5: pixabay px-755943 (sunscreen)
-slide 6: pixabay px-2211243 (woman skincare bathroom)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-11-22-2-busy-week-minimum en+tr
