@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-22-2-busy-week-fallback",
+  "title": "Busy holiday week routine",
+  "date": "2026-11-22",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F12",
+  "mentions_app": true,
+  "caption": "Holiday week means late nights, travel and zero energy for a ten-step routine. You don't need one. Keeping a few basics going is enough to get through the busy days, and the full routine can wait until things calm down. What's the one step you never skip, even when you're exhausted? #holidayskincare #skincareroutine #skincaretips #thanksgiving #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Holiday week is when your skincare *falls apart*",
+      "sub": "the 2-minute fallback is on slide 6",
+      "photo": "tired woman night"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Makeup and SPF still *come off*",
+      "body": "Even at 1 a.m., one gentle cleanse beats sleeping in makeup. One step is enough on rough nights.",
+      "photo": "removing makeup cotton pad"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Moisturizer is the step to *keep*",
+      "body": "Late nights, heating and travel all dry skin out. If you do one thing after cleansing, *moisturize*.",
+      "photo": "moisturizer cream face"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Skip actives on *wiped-out* nights",
+      "body": "Missing one retinol or acid night won't undo your progress. Piling them onto tired, irritated skin can sting.",
+      "photo": "woman sleeping bed"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Mornings: *SPF* still goes on",
+      "body": "Errands, drives and window seats all count. Moisturizer plus SPF is a full routine on busy days.",
+      "photo": "woman applying sunscreen face"
+    },
+    {
+      "type": "list",
+      "title": "Your 2-minute *fallback*",
+      "items": [
+        "Gentle *cleanse*",
+        "*Moisturize*",
+        "*SPF* in the morning"
+      ],
+      "photo": "woman skincare bathroom"
+    },
+    {
+      "type": "app",
+      "title": "Back to normal after the holidays? *Glowtrack* scans your skin and shows where your *score* landed.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Yoğun haftada yedek rutin",
+    "caption": "Yoğun haftalar geç saatler, yolculuk ve on adımlık rutine hiç enerji kalmaması demek. Ama o rutine ihtiyacın yok; birkaç temel adımı sürdürmek o günleri atlatmaya yeter, gerisi işler sakinleşince geri gelir. Sen en yorgun gecende bile hangi adımı asla atlamıyorsun? #ciltbakımı #ciltbakimi #ciltbakımrutini #skincare #skincaretips",
+    "slides": [
+      {
+        "text": "Yoğun haftalarda cilt bakımın *dağılıyor* mu?",
+        "sub": "2 dakikalık yedek plan 6. slaytta"
+      },
+      {
+        "title": "Makyaj ve güneş kremi *mutlaka* çıksın",
+        "body": "Saat gece 1 olsa bile tek bir nazik yıkama, makyajla uyumaktan iyidir. Zor gecelerde tek adım yeter."
+      },
+      {
+        "title": "Bırakmayacağın adım: *nemlendirici*",
+        "body": "Geç saatler, kalorifer ve yolculuk cildi kurutur. Yüzünü yıkadıktan sonra tek bir şey yapacaksan *nemlendir*."
+      },
+      {
+        "title": "Çok yorgunsan aktifleri *atla*",
+        "body": "Bir gece retinol ya da asit atlamak emeğini boşa çıkarmaz. Yorgun, tahriş olmuş cilde üst üste sürmek ise yakabilir."
+      },
+      {
+        "title": "Sabahları *güneş kremi* şart",
+        "body": "Ayak işleri, araba yolculuğu, cam kenarı; hepsi sayılır. Yoğun günlerde nemlendirici artı güneş kremi tam bir rutindir."
+      },
+      {
+        "title": "2 dakikalık *yedek planın*",
+        "items": [
+          "Nazikçe *yıka*",
+          "*Nemlendir*",
+          "Sabah *güneş kremi*"
+        ]
+      },
+      {
+        "title": "Yoğun hafta bitti mi? *Işılda* cildini tarar ve *cilt skorunun* nerede olduğunu gösterir."
+      }
+    ]
+  }
+}

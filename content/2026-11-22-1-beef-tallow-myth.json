@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-22-1-beef-tallow-myth",
+  "title": "Beef tallow myth check",
+  "date": "2026-11-22",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F5",
+  "mentions_app": true,
+  "caption": "Beef tallow keeps showing up as the miracle fix for dry winter skin. It can seal in moisture like other rich balms, but the research is thin and it isn't for every skin type. Here's what's real before you buy a jar. Have you tried tallow on your face, and how did it go? #beeftallow #skincaremyths #dryskin #winterskincare #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Beef tallow isn't a *miracle* moisturizer",
+      "sub": "#3 matters if you break out",
+      "photo": "cream jar wooden table"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "What tallow *actually* is",
+      "body": "Rendered animal fat. Its fatty acids help seal moisture in, which is what any *occlusive* layer already does.",
+      "photo": "skincare balm jar"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "The research is *thin*",
+      "body": "Most of the hype comes from personal stories. There's little research comparing tallow to a regular moisturizer.",
+      "photo": "woman reading product label"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Rich fats can *clog* pores",
+      "body": "If your skin is oily or breakout-prone, a heavy fat layer may not suit it. Patch test before your whole face.",
+      "photo": "woman looking mirror skin"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Homemade jars can *spoil*",
+      "body": "DIY tallow skips preservatives and quality checks. Fats can go rancid, so smell and dates matter.",
+      "photo": "homemade cream jar"
+    },
+    {
+      "type": "list",
+      "title": "What dry winter skin *needs*",
+      "items": [
+        "A moisturizer with *ceramides*",
+        "A richer layer at *night*",
+        "*Lukewarm* water, not hot"
+      ],
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "app",
+      "title": "Thinking about tallow? Scan first: *Glowtrack* checks your skin and builds a *winter routine* for it.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Beef tallow mucize mi?",
+    "caption": "Beef tallow, yani sığır iç yağı, kış kuruluğuna mucize çözüm diye her yerde karşımıza çıkıyor. Diğer zengin balmlar gibi nemi hapsedebilir ama araştırması az ve her cilde uygun değil. Kavanozu almadan önce gerçekte ne bildiğimizi bil. Sen yüzünde denedin mi, nasıl gitti? #ciltbakımı #ciltbakimi #kurucilt #kışbakımı #skincaremyths",
+    "slides": [
+      {
+        "text": "Sığır iç yağı *mucize* nemlendirici değil",
+        "sub": "Sivilceye yatkınsan 3. maddeye bak"
+      },
+      {
+        "title": "Tallow *aslında* ne?",
+        "body": "Eritilmiş hayvansal yağ. İçindeki yağ asitleri nemi hapseder; bunu zaten her *kapatıcı* katman yapıyor."
+      },
+      {
+        "title": "Araştırma *çok az*",
+        "body": "Övgülerin çoğu kişisel deneyimlerden geliyor. Tallow'u sıradan bir nemlendiriciyle karşılaştıran araştırma yok denecek kadar az."
+      },
+      {
+        "title": "Ağır yağlar *gözenek* tıkayabilir",
+        "body": "Cildin yağlıysa ya da sivilceye yatkınsa bu kadar yoğun bir katman sana uymayabilir. Tüm yüze sürmeden önce küçük bir alanda dene."
+      },
+      {
+        "title": "Ev yapımı kavanoz *bozulabilir*",
+        "body": "Ev yapımı tallow'da koruyucu da kalite kontrolü de yok. Yağ zamanla ekşir; kokusuna ve tarihine dikkat et."
+      },
+      {
+        "title": "Kışın kuru cilt *neye* ihtiyaç duyar?",
+        "items": [
+          "*Seramidli* bir nemlendirici",
+          "Gece biraz daha *yoğun* bir katman",
+          "Sıcak değil, *ılık* su"
+        ]
+      },
+      {
+        "title": "Tallow'u denemeden önce bir tara: *Işılda* cildine bakıp sana özel bir *kış rutini* hazırlıyor."
+      }
+    ]
+  }
+}
