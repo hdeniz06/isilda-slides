@@ -1,9 +1,18 @@
-slide 1: reused pixabay photo
-slide 2: reused pixabay photo
-slide 3: reused pixabay photo
-slide 4: reused pixabay photo
-slide 5: reused pixabay photo
-slide 6: pixabay px-10406821 (moisturizer)
+slide 1: pixabay px-10226777 (makeup brushes)
+slide 2: pixabay px-2110545 (foundation brush makeup)
+slide 3: pixabay px-824707 (makeup brush set)
+slide 4: pixabay px-3179178 (woman applying makeup)
+slide 5: pixabay px-4266713 (makeup sponge)
+slide 6: pixabay px-6267690 (washing hands sink)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-22-1-tallow-truth en+tr
+rendered 2026-11-23-1-dirty-makeup-brushes en+tr
+slide 1: pixabay px-6466907 (woman applying eye cream)
+slide 2: pixabay px-3353699 (eye cream jar)
+slide 3: pixabay px-3289326 (woman touching face mirror)
+slide 4: pixabay px-2766253 (face moisturizer cream)
+slide 5: pixabay px-4438530 (woman eyes closeup)
+slide 6: pixabay px-4713405 (skincare products)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-11-23-2-eye-cream-vs-moisturizer en+tr
