@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-23-2-eye-cream-vs-moisturizer",
+  "title": "Eye cream vs moisturizer",
+  "date": "2026-11-23",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F7",
+  "mentions_app": true,
+  "caption": "Eye cream is one of those steps people buy without knowing if they need it. It's a moisturizer too, just made for the thinner, more sensitive skin around your eyes. Here's when a separate jar makes sense and when your regular moisturizer can do the job. Do you use an eye cream, or one moisturizer for everything? #eyecream #skincareroutine #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Eye cream vs moisturizer: *actually* different?",
+      "sub": "#4 is what labels won't tell you",
+      "photo": "woman applying eye cream"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Both are *moisturizers*",
+      "body": "Eye creams moisturize too. They usually come in smaller jars with gentler formulas for the thinner skin there.",
+      "photo": "eye cream jar"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "When eye cream *makes sense*",
+      "body": "If your regular moisturizer stings or makes your eyes water, a gentle formula made for that area is worth trying.",
+      "photo": "woman touching face mirror"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "When your moisturizer is *enough*",
+      "body": "If it's fragrance-free and comfortable near your eyes, it can usually cover that area too. One less jar.",
+      "photo": "face moisturizer cream"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Neither *erases* dark circles",
+      "body": "Genetics and shadows play a big part. No cream can promise to remove them, whatever the label says.",
+      "photo": "woman eyes closeup"
+    },
+    {
+      "type": "list",
+      "title": "Whichever you pick, it should be:",
+      "items": [
+        "*Fragrance-free*",
+        "Comfortable, *no stinging*",
+        "Something you'll use *daily*"
+      ],
+      "photo": "skincare products"
+    },
+    {
+      "type": "app",
+      "title": "One jar or two? *Glowtrack* scans your face and builds a routine around *your* skin.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Göz kremi mi, nemlendirici mi?",
+    "caption": "Göz kremi, gerçekten gerekip gerekmediğini bilmeden aldığımız adımlardan biri. O da bir nemlendirici, sadece göz çevresindeki daha ince ve hassas cilt için yapılmış. Ayrı bir kavanozun ne zaman mantıklı olduğunu, ne zaman normal nemlendiricinin yettiğini anlattım. Sen göz kremi kullanıyor musun, yoksa her yere tek nemlendirici mi? #ciltbakımı #ciltbakimi #gözkremi #ciltbakımrutini #skincare",
+    "slides": [
+      {
+        "text": "Göz kremi ve nemlendirici: *gerçekten* farklı mı?",
+        "sub": "4. madde etiketlerin söylemediği"
+      },
+      {
+        "title": "İkisi de *nemlendirici*",
+        "body": "Göz kremi de nemlendirir. Genelde daha küçük kavanozda ve oradaki ince cilt için daha yumuşak bir formülle gelir."
+      },
+      {
+        "title": "Göz kremi ne zaman *mantıklı*?",
+        "body": "Normal nemlendiricin batıyor ya da gözünü sulandırıyorsa, o bölge için yapılmış yumuşak bir formülü denemeye değer."
+      },
+      {
+        "title": "Nemlendiricin ne zaman *yeter*?",
+        "body": "Parfümsüzse ve göz çevresinde rahatsız etmiyorsa genelde orayı da kapsar. Bir kavanoz eksik."
+      },
+      {
+        "title": "İkisi de morlukları *silmez*",
+        "body": "Genetik ve gölgeler büyük rol oynar. Etikette ne yazarsa yazsın, hiçbir krem morlukları yok etmeyi vaat edemez."
+      },
+      {
+        "title": "Hangisini seçersen seç, şunlar olsun:",
+        "items": [
+          "*Parfümsüz*",
+          "Rahat, *batmayan*",
+          "Her gün *kullanacağın* bir şey"
+        ]
+      },
+      {
+        "title": "Tek kavanoz mu, iki mi? *Işılda* yüzünü tarar ve rutinini *senin* cildine göre kurar."
+      }
+    ]
+  }
+}

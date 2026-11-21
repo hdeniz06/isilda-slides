@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-23-1-dirty-makeup-brushes",
+  "title": "Makeup brush wash signs",
+  "date": "2026-11-23",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F4",
+  "mentions_app": true,
+  "caption": "Your makeup brushes and sponges touch your face every single day, but most of us forget to wash them. Old product, oil and dust build up in the bristles and end up back on your skin. Here are the signs it's time, plus an easy way to clean them. When did you last wash your brushes? #makeupbrushes #skincaretips #makeuphacks #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Your makeup brushes need a *wash* if…",
+      "sub": "#4 is the sponge check",
+      "photo": "makeup brushes"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Foundation goes on *streaky*",
+      "body": "Old product builds up in the bristles, so new layers drag and look patchy instead of blending smoothly.",
+      "photo": "foundation brush makeup"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "The bristles feel *stiff*",
+      "body": "Dried product glues bristles together. A clean brush feels soft and fans out evenly again.",
+      "photo": "makeup brush set"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "It *smells* like old makeup",
+      "body": "Oil, sweat and leftover product sit in the bristles between uses. If you can smell it, it's overdue.",
+      "photo": "woman applying makeup"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Your sponge stays *stained*",
+      "body": "If it won't rinse clean or bounce back after washing, it's worn out. Replace it instead of scrubbing harder.",
+      "photo": "makeup sponge"
+    },
+    {
+      "type": "list",
+      "title": "How to wash them *right*",
+      "items": [
+        "*Lukewarm* water and gentle soap",
+        "Rinse until the water runs *clear*",
+        "Dry flat or bristles *down*"
+      ],
+      "photo": "washing hands sink"
+    },
+    {
+      "type": "app",
+      "title": "Tools sorted. *Glowtrack* scans your skin and builds the routine you'll wear *under* that makeup.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Makyaj fırçası yıkama işaretleri",
+    "caption": "Makyaj fırçaların ve süngerin her gün yüzüne değiyor ama çoğumuz onları yıkamayı unutuyoruz. Kıllarda biriken eski ürün, yağ ve toz tekrar cildine taşınıyor. Yıkama zamanının geldiğini gösteren işaretler ve kolay bir temizlik yöntemi burada. Sen fırçalarını en son ne zaman yıkadın? #ciltbakımı #ciltbakimi #makyajfırçası #makyaj #skintok",
+    "slides": [
+      {
+        "text": "Makyaj fırçan *yıkanmayı* bekliyor, eğer…",
+        "sub": "4. madde sünger testi"
+      },
+      {
+        "title": "Fondöten *iz iz* kalıyor",
+        "body": "Kıllarda eski ürün birikince yeni katman yayılmıyor, sürükleniyor ve yer yer lekeli görünüyor."
+      },
+      {
+        "title": "Kıllar *sertleşmiş*",
+        "body": "Kuruyan ürün kılları birbirine yapıştırır. Temiz fırça yumuşaktır ve kılları eşit şekilde açılır."
+      },
+      {
+        "title": "Eski makyaj gibi *kokuyor*",
+        "body": "Yağ, ter ve ürün kalıntısı kullanımlar arasında kıllarda bekler. Koku alıyorsan yıkama çoktan gecikmiş."
+      },
+      {
+        "title": "Süngerin *lekesi* çıkmıyor",
+        "body": "Yıkayınca temizlenmiyor ve eski şekline dönmüyorsa ömrünü doldurmuştur. Daha sert ovmak yerine yenisini al."
+      },
+      {
+        "title": "Doğru yıkamanın *yolu*",
+        "items": [
+          "*Ilık* su ve yumuşak bir sabun",
+          "Su *berrak* akana kadar durula",
+          "Düz ya da kıllar *aşağı* bakacak şekilde kurut"
+        ]
+      },
+      {
+        "title": "Fırçalar tamam. *Işılda* cildini tarar ve makyajının *altına* süreceğin rutini hazırlar."
+      }
+    ]
+  }
+}
