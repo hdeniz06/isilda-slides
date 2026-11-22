@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-24-1-morning-after-feast",
+  "title": "The morning after the feast",
+  "date": "2026-11-24",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F6",
+  "mentions_app": true,
+  "caption": "Big holiday dinners, late nights and salty food can make your skin look different the next morning, and it's easy to panic in the mirror. Most of it is temporary, so this isn't the moment to overhaul your routine. Here's what to do and what to skip after the feast. What's the first thing you notice on your skin the morning after a big dinner? #thanksgiving #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "The *morning after* the feast fools your mirror",
+      "sub": "#3 is the one everyone skips",
+      "photo": "woman looking in mirror morning"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "That puffiness is usually *temporary*",
+      "body": "Salty food and a late night can leave your face looking puffier the next morning. It often settles as the day goes on.",
+      "photo": "holiday dinner table"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Don't *scrub* it away",
+      "body": "A rough-looking morning isn't a reason for extra exfoliating or a strong peel. Gentle cleanser, moisturizer, SPF. That's it.",
+      "photo": "gentle face cleanser"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Makeup off, *even at 1am*",
+      "body": "Long nights are when people skip it. A quick cleanse before bed beats sleeping in a full face of makeup.",
+      "photo": "removing makeup cotton pad"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Back to your *normal* routine",
+      "body": "Water, your usual bedtime and your usual steps. No new products to fix one night.",
+      "photo": "glass of water"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "Judge your skin *days later*",
+      "body": "One morning after a big dinner says very little. Look again later in the week, in the same light.",
+      "photo": "woman bathroom mirror"
+    },
+    {
+      "type": "app",
+      "title": "Post-feast skin check? *Glowtrack* scans your skin and compares your score with *last week's*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Bayram sofrasının ertesi sabahı",
+    "caption": "Uzun sofralar, geç saatler ve tuzlu yemekler ertesi sabah cildini farklı gösterebilir, aynaya bakınca panik yapmak çok kolay. Çoğu geçici, yani rutinini baştan değiştirmenin zamanı değil. Büyük bir yemeğin ertesi sabahı ne yapmalı, neyi atlamalı, anlattım. Sen ağır bir akşam yemeğinden sonra sabah cildinde ilk neyi fark ediyorsun? #ciltbakımı #ciltbakimi #ciltbakımrutini #skincare #skintok",
+    "slides": [
+      {
+        "text": "Ağır bir sofranın *ertesi sabahı* aynaya güvenme",
+        "sub": "3. maddeyi herkes atlıyor"
+      },
+      {
+        "title": "O şişlik genelde *geçici*",
+        "body": "Tuzlu yemek ve geç yatmak ertesi sabah yüzünü daha şiş gösterebilir. Çoğu zaman gün içinde kendiliğinden toparlanır."
+      },
+      {
+        "title": "Ovarak *gidermeye* çalışma",
+        "body": "Kötü görünen bir sabah ekstra peeling ya da sert bir maske için sebep değil. Nazik temizleyici, nemlendirici, güneş kremi. Bu kadar."
+      },
+      {
+        "title": "Gece 1'de bile *makyajı sil*",
+        "body": "Uzun gecelerde ilk atlanan adım bu. Yatmadan önce hızlı bir temizlik, tam makyajla uyumaktan iyidir."
+      },
+      {
+        "title": "*Normal* rutinine dön",
+        "body": "Su, her zamanki yatış saatin ve her zamanki adımların. Tek bir geceyi düzeltmek için yeni ürüne gerek yok."
+      },
+      {
+        "title": "Cildini *birkaç gün sonra* değerlendir",
+        "body": "Büyük bir yemeğin ertesi sabahı pek bir şey söylemez. Hafta içinde, aynı ışıkta tekrar bak."
+      },
+      {
+        "title": "Sofradan sonra cilt kontrolü mü? *Işılda* cildini tarar ve skorunu *geçen haftayla* karşılaştırır."
+      }
+    ]
+  }
+}

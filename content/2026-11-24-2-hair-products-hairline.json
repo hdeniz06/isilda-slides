@@ -1,0 +1,91 @@
+{
+  "id": "2026-11-24-2-hair-products-hairline",
+  "title": "Hair products and your hairline",
+  "date": "2026-11-24",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F3",
+  "mentions_app": true,
+  "caption": "Hair oils, sprays, dry shampoo and leave-ins don't stay in your hair. They can end up on your forehead and along your hairline, right on top of the skincare you just applied. A few small changes to the order you do things can keep them where they belong. Do you do your hair before or after your skincare? #skincaretips #haircare #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Stop doing your hair *after* your skincare",
+      "sub": "slide 4 is the 5-second fix",
+      "photo": "woman styling hair mirror"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Hair products *land on* your face",
+      "body": "Oils, sprays, dry shampoo and leave-ins drift onto your forehead and hairline, right over the skincare you just applied.",
+      "photo": "woman using hairspray"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Watch your *hairline*",
+      "body": "Bumps right along your hairline or forehead? Hair products touching your skin are one common reason worth checking.",
+      "photo": "woman forehead closeup"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Hair *first*, then face",
+      "body": "Style your hair, wipe your hairline, then do your skincare. That way your face gets the last word.",
+      "photo": "washing face sink"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "*Cover* your face when spraying",
+      "body": "Hold a hand or a cloth over your face for hairspray or dry shampoo. Five seconds, less product on skin.",
+      "photo": "hair spray bottle"
+    },
+    {
+      "type": "point",
+      "num": 5,
+      "title": "Keep oils off the *roots*",
+      "body": "Put hair oil on the lengths and ends, not near your face. Wash your hands before touching your skin.",
+      "photo": "hair oil bottle"
+    },
+    {
+      "type": "app",
+      "title": "Hair first, face second. I built *Glowtrack* to scan your skin and plan the *face part*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Saç ürünleri ve saç çizgisi",
+    "caption": "Saç yağı, sprey, kuru şampuan ve durulanmayan bakım ürünleri saçında kalmıyor. Alnına ve saç çizgine, yani az önce sürdüğün cilt bakımının tam üstüne gelebiliyor. Sıralamada yapacağın küçük değişiklikler onları ait oldukları yerde tutar. Sen saçını cilt bakımından önce mi yapıyorsun, sonra mı? #ciltbakımı #ciltbakimi #saçbakımı #skincare #skintok",
+    "slides": [
+      {
+        "text": "Saçını cilt bakımından *sonra* yapmayı bırak",
+        "sub": "4. slayttaki çözüm 5 saniye"
+      },
+      {
+        "title": "Saç ürünleri *yüzüne* iniyor",
+        "body": "Yağlar, spreyler, kuru şampuan ve bakım kremleri alnına ve saç çizgine, az önce sürdüğün cilt bakımının üstüne iner."
+      },
+      {
+        "title": "*Saç çizgine* dikkat et",
+        "body": "Tam saç dibinde ya da alnında sivilceler mi var? Saç ürünlerinin cildine değmesi kontrol etmeye değer yaygın bir sebep."
+      },
+      {
+        "title": "*Önce* saç, sonra yüz",
+        "body": "Saçını yap, saç çizgini sil, sonra cilt bakımına geç. Böylece son sözü yüzün söyler."
+      },
+      {
+        "title": "Sprey sıkarken yüzünü *kapat*",
+        "body": "Saç spreyi ya da kuru şampuan sıkarken elini veya bir bezi yüzüne tut. Beş saniye, cildinde daha az ürün."
+      },
+      {
+        "title": "Yağı *saç diplerinden* uzak tut",
+        "body": "Saç yağını boylara ve uçlara sür, yüzüne yakın yerlere değil. Cildine dokunmadan önce ellerini yıka."
+      },
+      {
+        "title": "Önce saç, sonra yüz. Cildini tarayıp *yüz kısmını* planlaman için Işılda'yı geliştirdim."
+      }
+    ]
+  }
+}
