@@ -1,18 +1,18 @@
-slide 1: pixabay px-10226777 (makeup brushes)
-slide 2: pixabay px-2110545 (foundation brush makeup)
-slide 3: pixabay px-824707 (makeup brush set)
-slide 4: pixabay px-3179178 (woman applying makeup)
-slide 5: pixabay px-4266713 (makeup sponge)
-slide 6: pixabay px-6267690 (washing hands sink)
+slide 1: pixabay px-6480689 (woman looking in mirror morning)
+slide 2: pixabay px-850337 (holiday dinner table)
+slide 3: pixabay px-1733337 (gentle face cleanser)
+slide 4: pixabay px-5272754 (removing makeup cotton pad)
+slide 5: pixabay px-5593287 (glass of water)
+slide 6: pixabay px-6673164 (woman bathroom mirror)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-23-1-dirty-makeup-brushes en+tr
-slide 1: pixabay px-6466907 (woman applying eye cream)
-slide 2: pixabay px-3353699 (eye cream jar)
-slide 3: pixabay px-3289326 (woman touching face mirror)
-slide 4: pixabay px-2766253 (face moisturizer cream)
-slide 5: pixabay px-4438530 (woman eyes closeup)
-slide 6: pixabay px-4713405 (skincare products)
+rendered 2026-11-24-1-morning-after-feast en+tr
+slide 1: pixabay px-6578079 (woman styling hair mirror)
+slide 2: pixabay px-7294148 (woman using hairspray)
+slide 3: pixabay px-1141279 (woman forehead closeup)
+slide 4: pixabay px-335746 (washing face sink)
+slide 5: pixabay px-2429927 (hair spray bottle)
+slide 6: pixabay px-4945463 (hair oil bottle)
 slide 7: app screenshot 0
 slide 7: app screenshot 0 (tr)
-rendered 2026-11-23-2-eye-cream-vs-moisturizer en+tr
+rendered 2026-11-24-2-hair-products-hairline en+tr
