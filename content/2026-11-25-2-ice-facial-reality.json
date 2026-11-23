@@ -1,0 +1,89 @@
+{
+  "id": "2026-11-25-2-ice-facial-reality",
+  "title": "What an ice facial actually does",
+  "date": "2026-11-25",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F9",
+  "mentions_app": true,
+  "caption": "Ice facials, ice rollers and dunking your face in ice water keep going viral, with big promises about pores and aging. The real effect is simpler: cold can make your face look less puffy for a while, and that's about it. Here's what to expect and how to try it gently. Have you tried icing your face, and did you notice anything? #icefacial #skincaretips #skincaremyths #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "What a *2-minute* ice facial actually does",
+      "sub": "#3 is the part videos skip",
+      "photo": "ice cubes closeup"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "It *depuffs*, for a while",
+      "body": "Cold can make your face look less puffy and a bit tighter right after. It's a short-term look, not a lasting change.",
+      "photo": "woman touching face mirror"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "It won't *shrink* your pores",
+      "body": "Pores can look a little smaller while your skin is cold. Once it warms up, they're the same size as before.",
+      "photo": "woman face closeup"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "It's not an *anti-aging* step",
+      "body": "Ice doesn't do the long-term work of sunscreen, moisturizer or a retinoid. Think of it as a fun extra.",
+      "photo": "sunscreen bottle"
+    },
+    {
+      "type": "list",
+      "title": "If you *try* it",
+      "items": [
+        "Wrap ice in a cloth, no bare cubes",
+        "Keep it moving, a minute or two max",
+        "Skip it on irritated or windburned skin",
+        "Moisturize *after*"
+      ],
+      "photo": "bowl of ice water"
+    },
+    {
+      "type": "app",
+      "title": "Ice is the extra. I built *Glowtrack* to scan your skin and plan your *everyday steps*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Yüze buz gerçekte ne yapar?",
+    "caption": "Yüze buz sürmek, buz roller ve yüzü buzlu suya batırmak gözenek ve yaşlanmayla ilgili büyük vaatlerle viral olmaya devam ediyor. Gerçek etkisi daha basit: soğuk, yüzünü bir süreliğine daha az şiş gösterebilir, o kadar. Ne beklemen gerektiğini ve nazikçe nasıl deneyeceğini anlattım. Sen yüzüne hiç buz uyguladın mı, bir fark gördün mü? #ciltbakımı #ciltbakimi #ciltbakımımitleri #icefacial #skincare",
+    "slides": [
+      {
+        "text": "Yüzüne *2 dakika* buz sürersen aslında ne olur?",
+        "sub": "3. maddeyi videolarda kimse söylemiyor"
+      },
+      {
+        "title": "Şişliği *alır*, ama bir süreliğine",
+        "body": "Soğuk, hemen sonrasında yüzünü daha az şiş ve biraz daha gergin gösterebilir. Bu kalıcı bir değişim değil, kısa süreli bir görünüm."
+      },
+      {
+        "title": "Gözeneklerini *küçültmez*",
+        "body": "Cilt soğukken gözenekler biraz daha küçük görünebilir. Isınınca eski boyutlarına döner."
+      },
+      {
+        "title": "*Yaşlanma karşıtı* bir adım değil",
+        "body": "Buz; güneş kremi, nemlendirici ya da retinoidin uzun vadede yaptığı işi yapmaz. Eğlenceli bir ekstra gibi düşün."
+      },
+      {
+        "title": "*Denemek* istersen",
+        "items": [
+          "Buzu bir beze sar, çıplak sürme",
+          "Sürekli hareket ettir, en fazla 1–2 dakika",
+          "Tahriş olmuş ya da rüzgârdan kızarmış ciltte yapma",
+          "Sonrasında *nemlendir*"
+        ]
+      },
+      {
+        "title": "Buz işin ekstrası. *Işılda*'yı, cildini tarayıp *günlük adımlarını* planlasın diye geliştirdim."
+      }
+    ]
+  }
+}

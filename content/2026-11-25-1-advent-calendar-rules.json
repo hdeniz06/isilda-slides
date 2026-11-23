@@ -1,0 +1,89 @@
+{
+  "id": "2026-11-25-1-advent-calendar-rules",
+  "title": "Skincare advent calendar rules",
+  "date": "2026-11-25",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F11",
+  "mentions_app": true,
+  "caption": "Skincare advent calendars are everywhere right now, and opening a new mini every day makes it tempting to try everything at once. More new products in one week means more chances for irritation, and no way to tell which one caused it. Three simple rules keep it fun. Are you getting a skincare advent calendar this year, or building your own? #adventcalendar #skincaretips #skincareroutine #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Got a skincare *advent calendar*? Only *3 rules*",
+      "sub": "#2 is the one everyone breaks",
+      "photo": "christmas gift box"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "One *new* product at a time",
+      "body": "Don't open ten minis and layer them all tonight. Try one, give it a few days, then move to the next.",
+      "photo": "skincare bottles shelf"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Patch test the *strong* ones",
+      "body": "Acids, retinol or anything heavily scented: dab a little on your inner arm for a few days before your face.",
+      "photo": "cream on arm"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Don't *stack* the actives",
+      "body": "An exfoliating mini and a retinol mini on the same night is a lot. Keep strong products on different nights.",
+      "photo": "serum dropper bottle"
+    },
+    {
+      "type": "list",
+      "title": "Save this for *December*",
+      "items": [
+        "Open daily, *try* slowly",
+        "One new product, then wait",
+        "Patch test acids and retinol",
+        "Strong minis on separate nights"
+      ],
+      "photo": "christmas cosmetics"
+    },
+    {
+      "type": "app",
+      "title": "24 minis, one face. *Glowtrack* scans your skin and builds the *routine* you'll add them to.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Advent takvimi için 3 kural",
+    "caption": "Cilt bakımı advent takvimleri bu aralar her yerde ve her gün yeni bir mini ürün açınca hepsini hemen denemek çok cazip geliyor. Aynı hafta ne kadar çok yeni ürün denersen tahriş ihtimali o kadar artar, hangisinden olduğunu da anlayamazsın. Bu üç basit kural keyfini kaçırmadan işini görür. Bu yıl advent takvimi alıyor musun, yoksa kendin mi hazırlıyorsun? #ciltbakımı #ciltbakimi #adventtakvimi #ciltbakımrutini #skincare",
+    "slides": [
+      {
+        "text": "*Advent takvimin* mi var? Sadece *3 kural*",
+        "sub": "2. kuralı herkes bozuyor"
+      },
+      {
+        "title": "Her seferinde *tek* yeni ürün",
+        "body": "On mini ürünü açıp bu akşam hepsini üst üste sürme. Birini dene, birkaç gün bekle, sonra sıradakine geç."
+      },
+      {
+        "title": "Güçlü olanları önce *test et*",
+        "body": "Asitler, retinol ya da yoğun kokulu ürünler: yüzüne sürmeden önce birkaç gün kolunun iç kısmında dene."
+      },
+      {
+        "title": "Aktifleri *üst üste* koyma",
+        "body": "Aynı akşam hem peeling yapan bir mini hem retinol fazla gelir. Güçlü ürünleri farklı akşamlara böl."
+      },
+      {
+        "title": "*Aralık* için kaydet",
+        "items": [
+          "Her gün aç, *yavaş* dene",
+          "Tek yeni ürün, sonra bekle",
+          "Asit ve retinolü önce test et",
+          "Güçlü minileri ayrı akşamlara koy"
+        ]
+      },
+      {
+        "title": "24 mini ürün, tek bir yüz. *Işılda* cildini tarar ve bunları ekleyeceğin *rutini* oluşturur."
+      }
+    ]
+  }
+}
