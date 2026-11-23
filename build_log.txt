@@ -1,18 +1,16 @@
-slide 1: pixabay px-6480689 (woman looking in mirror morning)
-slide 2: pixabay px-850337 (holiday dinner table)
-slide 3: pixabay px-1733337 (gentle face cleanser)
-slide 4: pixabay px-5272754 (removing makeup cotton pad)
-slide 5: pixabay px-5593287 (glass of water)
-slide 6: pixabay px-6673164 (woman bathroom mirror)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-11-24-1-morning-after-feast en+tr
-slide 1: pixabay px-6578079 (woman styling hair mirror)
-slide 2: pixabay px-7294148 (woman using hairspray)
-slide 3: pixabay px-1141279 (woman forehead closeup)
-slide 4: pixabay px-335746 (washing face sink)
-slide 5: pixabay px-2429927 (hair spray bottle)
-slide 6: pixabay px-4945463 (hair oil bottle)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-11-24-2-hair-products-hairline en+tr
+slide 1: pixabay px-2105155 (christmas gift box)
+slide 2: pixabay px-2099473 (skincare bottles shelf)
+slide 3: pixabay px-1275668 (cream on arm)
+slide 4: pixabay px-1887237 (serum dropper bottle)
+slide 5: pixabay px-1063136 (christmas cosmetics)
+slide 6: app screenshot 0
+slide 6: app screenshot 0 (tr)
+rendered 2026-11-25-1-advent-calendar-rules en+tr
+slide 1: pixabay px-8236115 (ice cubes closeup)
+slide 2: pixabay px-2750465 (woman touching face mirror)
+slide 3: pixabay px-2346216 (woman face closeup)
+slide 4: pixabay px-1431054 (sunscreen bottle)
+slide 5: pixabay px-7758193 (bowl of ice water)
+slide 6: app screenshot 0
+slide 6: app screenshot 0 (tr)
+rendered 2026-11-25-2-ice-facial-reality en+tr
