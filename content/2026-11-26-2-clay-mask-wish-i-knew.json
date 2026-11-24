@@ -55,7 +55,7 @@
     },
     {
       "type": "app",
-      "title": "Clay for oily spots, cream for the rest. *Glowtrack* scans your skin and builds a routine for *both*.",
+      "title": "Clay for oily spots, cream elsewhere. *Glowtrack* scans your skin and plans *both*.",
       "screenshot": 0
     }
   ],
@@ -93,7 +93,7 @@
         ]
       },
       {
-        "title": "Yağlı yerlere kil, gerisine krem. *Işılda* cildini tarar ve *iki bölgeye de* uyan bir rutin kurar."
+        "title": "Yağlı yerlere kil, gerisine krem. *Işılda* cildini tarar, *ikisini de* planlar."
       }
     ]
   }
