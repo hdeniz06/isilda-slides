@@ -1,16 +1,18 @@
-slide 1: pixabay px-2105155 (christmas gift box)
-slide 2: pixabay px-2099473 (skincare bottles shelf)
-slide 3: pixabay px-1275668 (cream on arm)
-slide 4: pixabay px-1887237 (serum dropper bottle)
-slide 5: pixabay px-1063136 (christmas cosmetics)
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-11-25-1-advent-calendar-rules en+tr
-slide 1: pixabay px-8236115 (ice cubes closeup)
-slide 2: pixabay px-2750465 (woman touching face mirror)
-slide 3: pixabay px-2346216 (woman face closeup)
-slide 4: pixabay px-1431054 (sunscreen bottle)
-slide 5: pixabay px-7758193 (bowl of ice water)
-slide 6: app screenshot 0
-slide 6: app screenshot 0 (tr)
-rendered 2026-11-25-2-ice-facial-reality en+tr
+slide 1: pixabay px-1617469 (skincare products white)
+slide 2: pixabay px-5475914 (cosmetic bottles minimal)
+slide 3: pixabay px-4246084 (plant leaves cosmetics)
+slide 4: pixabay px-7058119 (woman reading product label)
+slide 5: pixabay px-5828239 (cream jar closeup)
+slide 6: pixabay px-10195371 (skincare bottles bathroom)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-11-26-1-label-words en+tr
+slide 1: pixabay px-5951779 (woman clay face mask)
+slide 2: pixabay px-3649771 (green clay mask bowl)
+slide 3: pixabay px-5241481 (woman face mask mirror)
+slide 4: pixabay px-335747 (washing face sink)
+slide 5: no photo for 'woman applying face cream', rendering without
+slide 6: pixabay px-5136259 (clay mask jar)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-11-26-2-clay-mask-wish-i-knew en+tr
