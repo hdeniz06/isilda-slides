@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-26-1-label-words",
+  "title": "4 label words that prove nothing",
+  "date": "2026-11-26",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F2",
+  "mentions_app": true,
+  "caption": "Clean, natural, hypoallergenic, dermatologist-tested: these words sound reassuring, but in the US none of them comes with an official definition or a set test. They tell you more about the marketing than about how a product will treat your skin. Here's what's worth checking instead. Which label word made you buy something? #skincaretips #cleanbeauty #skincaremyths #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "4 label words that *prove* nothing",
+      "sub": "#4 sounds the most official",
+      "photo": "skincare products white"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "*Clean* has no official definition",
+      "body": "In the US, clean skincare has no legal definition. Each brand decides what to leave out, and their lists don't match.",
+      "photo": "cosmetic bottles minimal"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "*Natural* doesn't mean gentle",
+      "body": "The FDA hasn't defined natural for cosmetics. Plant extracts and essential oils can still irritate sensitive skin.",
+      "photo": "plant leaves cosmetics"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "*Hypoallergenic* isn't a guarantee",
+      "body": "There's no federal standard for this word. Brands can use it without a required test, so you can still react.",
+      "photo": "woman reading product label"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "*Dermatologist-tested* skips the results",
+      "body": "It tells you someone tested it. Not how many people, for how long, or what they found.",
+      "photo": "cream jar closeup"
+    },
+    {
+      "type": "list",
+      "title": "What to check *instead*",
+      "items": [
+        "The full ingredient list",
+        "Fragrance-free, if your skin is touchy",
+        "Broad spectrum, SPF 30+ on sunscreen",
+        "A *patch test* before your whole face"
+      ],
+      "photo": "skincare bottles bathroom"
+    },
+    {
+      "type": "app",
+      "title": "Labels can't see your skin. *Glowtrack* scans it and builds a routine around *what it needs*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Hiçbir şey kanıtlamayan 4 etiket kelimesi",
+    "caption": "Temiz, doğal, hipoalerjenik, dermatolog testli... Kulağa güven verici geliyorlar ama hiçbiri tek başına ürünün senin cildine nasıl davranacağını söylemiyor. Bu kelimeler ürünü değil, çoğu zaman pazarlamayı anlatıyor. Bunların yerine neye bakman gerektiğini de ekledim. Sen hangi etiket kelimesine kanıp bir şey aldın? #ciltbakımı #ciltbakimi #ciltbakımımitleri #skincare #skintok",
+    "slides": [
+      {
+        "text": "Etiketteki bu 4 kelime *hiçbir şey* kanıtlamıyor",
+        "sub": "4. madde en resmi görüneni"
+      },
+      {
+        "title": "*Temiz* kelimesinin ortak bir tanımı yok",
+        "body": "\"Temiz\" cilt bakımının herkesin kabul ettiği bir tanımı yok. Her marka neyi çıkaracağına kendi karar veriyor, listeler birbirini tutmuyor."
+      },
+      {
+        "title": "*Doğal* demek nazik demek değil",
+        "body": "Bitki özleri ve uçucu yağlar da hassas ciltte tahrişe yol açabilir. Doğal olması cildine uygun olduğunu göstermez."
+      },
+      {
+        "title": "*Hipoalerjenik* bir garanti değil",
+        "body": "Bu kelime alerji riskini azaltmaya çalışıldığını anlatır, alerji yapmayacağını değil. Yine de tepki verebilirsin."
+      },
+      {
+        "title": "*Dermatolog testli* sonucu söylemiyor",
+        "body": "Birinin test ettiğini söylüyor. Kaç kişiyle, ne kadar sürede ve ne bulunduğunu söylemiyor."
+      },
+      {
+        "title": "Bunun *yerine* şunlara bak",
+        "items": [
+          "İçerik listesinin tamamı",
+          "Cildin hassassa parfümsüz olması",
+          "Güneş kreminde geniş spektrum ve en az SPF 30",
+          "Tüm yüze sürmeden önce *yama testi*"
+        ]
+      },
+      {
+        "title": "Etiket cildini göremez. *Işılda* cildini tarar ve rutinini *ihtiyacına göre* kurar."
+      }
+    ]
+  }
+}

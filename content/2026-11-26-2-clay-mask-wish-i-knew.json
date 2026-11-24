@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-26-2-clay-mask-wish-i-knew",
+  "title": "What I wish I knew about clay masks",
+  "date": "2026-11-26",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F10",
+  "mentions_app": true,
+  "caption": "Clay masks are great at soaking up oil, which is exactly why they can leave winter skin feeling tight and dry if you use them the wrong way. A few small changes make them a lot kinder to your face: where you put it, when you rinse, and what comes after. Do you wait for your mask to crack or rinse it early? #claymask #facemask #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "What I wish I knew about *clay masks*",
+      "sub": "save it for mask night",
+      "photo": "woman clay face mask"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Don't wait for it to *crack*",
+      "body": "Fully dried clay can pull extra moisture from your skin. Rinse while it's still slightly damp, within the time on the pack.",
+      "photo": "green clay mask bowl"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "It's for your *oily* zones",
+      "body": "Clay soaks up oil. Use it where you get shiny, like your T-zone, and skip dry or flaky patches.",
+      "photo": "woman face mask mirror"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "*Rinse* it, don't scrub it",
+      "body": "Lukewarm water and a soft cloth with gentle pressure. Scrubbing hard at clay is rough on your skin.",
+      "photo": "washing face sink"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Moisturize *right after*",
+      "body": "Clay can leave skin tight, especially in winter. Follow with your usual moisturizer while your face is still a little damp.",
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "list",
+      "title": "Before you *mask*",
+      "items": [
+        "Start on clean skin",
+        "Patch test a new mask first",
+        "Skip it if your skin feels raw",
+        "Once or twice a week is *plenty*"
+      ],
+      "photo": "clay mask jar"
+    },
+    {
+      "type": "app",
+      "title": "Clay for oily spots, cream for the rest. *Glowtrack* scans your skin and builds a routine for *both*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Kil maskesi hakkında keşke önceden bilseydim",
+    "caption": "Kil maskeleri yağı çekmekte çok iyi; kışın cildi gergin ve kuru bırakabilmelerinin sebebi de tam olarak bu. Birkaç küçük değişiklik maskeyi cildine çok daha nazik yapıyor: nereye sürdüğün, ne zaman yıkadığın ve sonrasında ne sürdüğün. Sen maskenin çatlamasını bekliyor musun, yoksa erken mi yıkıyorsun? #ciltbakımı #ciltbakimi #kilmaskesi #yüzmaskesi #skincare",
+    "slides": [
+      {
+        "text": "*Kil maskesi* hakkında keşke önceden bilseydim",
+        "sub": "maske gecesi için kaydet"
+      },
+      {
+        "title": "*Çatlamasını* bekleme",
+        "body": "Tamamen kuruyan kil cildindeki nemi de çekebilir. Paketteki süreyi aşmadan, hâlâ hafif nemliyken yıka."
+      },
+      {
+        "title": "Sadece *yağlanan* bölgelere",
+        "body": "Kil yağı çeker. Parlayan yerlere, mesela T bölgene sür; kuru ya da pul pul olan yerleri atla."
+      },
+      {
+        "title": "*Yıka*, ovalayarak çıkarma",
+        "body": "Ilık su ve yumuşak bir bezle nazikçe al. Kili sertçe ovalamak cildini yıpratır."
+      },
+      {
+        "title": "Hemen ardından *nemlendir*",
+        "body": "Kil, özellikle kışın cildi gergin bırakabilir. Yüzün hâlâ hafif nemliyken her zamanki nemlendiricini sür."
+      },
+      {
+        "title": "Maskeden *önce*",
+        "items": [
+          "Temiz ciltle başla",
+          "Yeni maskede önce yama testi yap",
+          "Cildin tahriş olmuşsa hiç sürme",
+          "Haftada 1–2 kez *yeterli*"
+        ]
+      },
+      {
+        "title": "Yağlı yerlere kil, gerisine krem. *Işılda* cildini tarar ve *iki bölgeye de* uyan bir rutin kurar."
+      }
+    ]
+  }
+}
