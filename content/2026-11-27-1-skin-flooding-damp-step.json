@@ -1,0 +1,89 @@
+{
+  "id": "2026-11-27-1-skin-flooding-damp-step",
+  "title": "Skin flooding, the damp step",
+  "date": "2026-11-27",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F1",
+  "mentions_app": true,
+  "caption": "Skin flooding is all over TikTok right now: thin, hydrating layers on damp skin, sealed with moisturizer. The idea is simple, but it only works if you start damp and finish with something that locks the water in, especially in dry winter air. Have you tried skin flooding yet, and how many layers do you use? #skinflooding #dryskin #winterskincare #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "You're probably *skin flooding* on dry skin",
+      "sub": "the damp step is the whole trick",
+      "photo": "woman face mist spray"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Start with a *damp* face",
+      "body": "Wash with a gentle cleanser and leave your face slightly wet. Hydrating ingredients like hyaluronic acid work best with water around.",
+      "photo": "woman washing face"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Mist, then a *hydrating* serum",
+      "body": "Keep skin damp with a light mist or a splash of water, then press in a hydrating serum or essence.",
+      "photo": "serum dropper bottle"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "*Seal* it in",
+      "body": "Finish with moisturizer while skin is still damp. Skip this and the water can evaporate into dry winter air.",
+      "photo": "woman applying moisturizer"
+    },
+    {
+      "type": "list",
+      "title": "Keep it *simple*",
+      "items": [
+        "2–3 light layers, not 8",
+        "Save retinol and acids for another night",
+        "Patch test anything new",
+        "Feels sticky? Use *less*"
+      ],
+      "photo": "skincare bottles bathroom"
+    },
+    {
+      "type": "app",
+      "title": "Thirsty winter skin? *Glowtrack* scans it, gives you a skin score and builds your *hydration* routine.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Skin flooding: nemli cilt adımı",
+    "caption": "Skin flooding şu an TikTok'un her yerinde: nemli cilde ince ince nem katmanları, en sonda da nemlendiriciyle kilitleme. Fikir basit ama ancak nemli ciltle başlayıp suyu içeride tutan bir kremle bitirirsen işe yarıyor, özellikle kışın kuru havada. Sen skin flooding denedin mi, kaç katman sürüyorsun? #ciltbakımı #ciltbakimi #kuruCilt #kışCiltBakımı #skinflooding",
+    "slides": [
+      {
+        "text": "Skin flooding yapıyorsan *ilk adımı* atlıyorsun",
+        "sub": "bütün sır nemli ciltte"
+      },
+      {
+        "title": "Yüzün *nemliyken* başla",
+        "body": "Yüzünü nazik bir temizleyiciyle yıka, kurulamadan hafif ıslak bırak. Hyaluronik asit gibi nem çekiciler ortamda su olunca daha iyi çalışır."
+      },
+      {
+        "title": "Önce sprey, sonra *nem* serumu",
+        "body": "Hafif bir yüz spreyi ya da biraz suyla cildini nemli tut, ardından nemlendirici serumunu ya da esansını bastırarak sür."
+      },
+      {
+        "title": "Nemi *kilitle*",
+        "body": "Cildin hâlâ nemliyken kremini sür. Bu adımı atlarsan o su kışın kuru havasında buharlaşıp gidebilir."
+      },
+      {
+        "title": "*Sade* tut",
+        "items": [
+          "8 değil, 2–3 hafif katman",
+          "Retinol ve asitleri başka geceye sakla",
+          "Yeni ürünü önce yama testinden geçir",
+          "Yapış yapış mı? *Azalt*"
+        ]
+      },
+      {
+        "title": "Cildin kışın susuz mu kalıyor? *Işılda* cildini tarar, skor verir ve *nem* rutinini kurar."
+      }
+    ]
+  }
+}

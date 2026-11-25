@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-27-2-water-wont-fix-dry-skin",
+  "title": "Drinking water vs dry skin",
+  "date": "2026-11-27",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F5",
+  "mentions_app": true,
+  "caption": "Drinking enough water is good for your whole body, but chugging extra glasses isn't a shortcut for dry, flaky winter skin. Most of that tightness comes from your skin's outer layer losing moisture to cold air and indoor heat, so the fixes happen on the outside. How many glasses of water did you drink today, and is your skin still dry? #dryskin #winterskincare #skincaremyths #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "More water won't fix your *flaky* winter skin",
+      "sub": "here's what actually helps",
+      "photo": "woman drinking water glass"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Water still *matters*",
+      "body": "Staying hydrated is good for your whole body. It's just not a shortcut for dry, flaky winter skin.",
+      "photo": "glass of water"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Dryness starts on the *outside*",
+      "body": "Cold air outdoors and heaters indoors pull moisture from your skin's outer layer. That's where flakes and tightness show up.",
+      "photo": "winter window frost"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Moisturize while skin is *damp*",
+      "body": "Apply moisturizer within a few minutes of washing, while skin is still a little damp, to help hold that water in.",
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Turn down the *hot* water",
+      "body": "Long, hot showers strip your skin's natural oils. Keep them short and lukewarm, then pat dry instead of rubbing.",
+      "photo": "shower water"
+    },
+    {
+      "type": "list",
+      "title": "Small winter *swaps*",
+      "items": [
+        "Gentle, non-foaming cleanser",
+        "Richer cream at night",
+        "Humidifier in your bedroom",
+        "SPF on *sunny* winter days"
+      ],
+      "photo": "humidifier bedroom"
+    },
+    {
+      "type": "app",
+      "title": "Still dry after all that water? *Glowtrack* scans your skin and plans the *outside* part.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Su içmek ve kuru cilt",
+    "caption": "Yeterince su içmek bütün vücudun için iyi, ama fazladan bardaklar kışın kuruyan, pul pul olan cildin kısa yolu değil. O gerginliğin çoğu, cildinin en dış katmanının soğuk havaya ve kaloriferlere nem kaptırmasından geliyor; yani çözüm dışarıda. Bugün kaç bardak su içtin, cildin hâlâ kuru mu? #ciltbakımı #ciltbakimi #kuruCilt #kışCiltBakımı #skincare",
+    "slides": [
+      {
+        "text": "Daha çok su içmek *kuru cildi* kurtarmaz",
+        "sub": "asıl işe yarayanlar sırada"
+      },
+      {
+        "title": "Su yine de *önemli*",
+        "body": "Yeterince su içmek bütün vücudun için iyi. Sadece kışın kuruyan, pul pul olan cildin kısa yolu değil."
+      },
+      {
+        "title": "Kuruluk *dışarıdan* başlar",
+        "body": "Dışarıda soğuk hava, içeride kalorifer cildinin en dış katmanından nemi çeker. Pul pul olma ve gerginlik tam orada çıkar."
+      },
+      {
+        "title": "Cildin *nemliyken* kremle",
+        "body": "Yüzünü yıkadıktan sonraki birkaç dakika içinde, cildin hâlâ biraz nemliyken kremini sür; o su içeride kalsın."
+      },
+      {
+        "title": "*Sıcak* suyu kıs",
+        "body": "Uzun ve sıcak duşlar cildin doğal yağını alır. Kısa ve ılık tut, sonra ovalamadan hafifçe kurula."
+      },
+      {
+        "title": "Küçük kış *değişiklikleri*",
+        "items": [
+          "Köpürmeyen, nazik temizleyici",
+          "Geceleri daha zengin bir krem",
+          "Yatak odasında nemlendirici cihaz",
+          "Güneşli kış günlerinde de *SPF*"
+        ]
+      },
+      {
+        "title": "O kadar suya rağmen hâlâ kuru mu? *Işılda* cildini tarar, *dış* bakımı senin için planlar."
+      }
+    ]
+  }
+}
