@@ -1,0 +1,96 @@
+{
+  "id": "2026-11-28-2-scrub-vs-acid",
+  "title": "Scrub vs acid exfoliant",
+  "date": "2026-11-28",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F7",
+  "mentions_app": true,
+  "caption": "Grainy scrubs and acid exfoliants both clear away dead skin, but they do it in very different ways. One works by friction, the other by loosening the bonds between cells, and in dry winter months the gentler choice matters more than ever. Are you team scrub or team acid, and how often do you use it? #exfoliation #skincaretips #winterskincare #dryskin #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Face scrub vs acid: which is *gentler*?",
+      "sub": "slide 4 tells you which one is yours",
+      "photo": "woman face scrub"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Scrubs *rub* it off",
+      "body": "Grainy scrubs remove dead skin with friction. Rough particles plus hard pressure can leave skin *red* and raw.",
+      "photo": "exfoliating scrub cream"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Acids *loosen* it",
+      "body": "AHAs and BHAs loosen the bonds between dead skin cells, no rubbing needed. Too much can still sting and dry you out.",
+      "photo": "serum dropper bottle"
+    },
+    {
+      "type": "list",
+      "title": "Which one *fits* you?",
+      "items": [
+        "Dry or sensitive: a mild acid, rarely, or a soft washcloth",
+        "Oily, thicker skin: BHA or a gentle scrub",
+        "Prone to dark marks: go *extra* gentle"
+      ],
+      "photo": "woman looking mirror skin"
+    },
+    {
+      "type": "list",
+      "title": "Rules for *both*",
+      "items": [
+        "Never both on the same day",
+        "1–2 times a week is plenty in winter",
+        "Skip on sunburned or broken skin",
+        "Acids raise sun sensitivity, so wear *SPF*"
+      ],
+      "photo": "skincare products bathroom"
+    },
+    {
+      "type": "app",
+      "title": "Scrub or acid? I built *Glowtrack* to scan your skin and build a *gentler* routine.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Taneli peeling mi, asit mi",
+    "caption": "Taneli peelingler de asitli peelingler de ölü deriyi alır ama bunu çok farklı yollarla yapar. Biri sürtünmeyle çalışır, diğeri hücreler arasındaki bağı gevşeterek; kışın kuruyan ciltte hangisinin daha nazik olduğu da daha çok önem kazanıyor. Sen taneli peeling mi kullanıyorsun, asitli mi, haftada kaç kez? #ciltbakımı #ciltbakimi #peeling #kışCiltBakımı #skincare",
+    "slides": [
+      {
+        "text": "Taneli peeling mi, asit mi: hangisi *nazik*?",
+        "sub": "4. slayt sana uygun olanı söylüyor"
+      },
+      {
+        "title": "Taneli peeling *sürterek* alır",
+        "body": "Taneli peelingler ölü deriyi sürtünmeyle alır. Pürüzlü taneler ve sert bastırmak cildi *kızarık* ve hassas bırakabilir."
+      },
+      {
+        "title": "Asit *gevşeterek* alır",
+        "body": "AHA ve BHA'lar ölü hücreler arasındaki bağı gevşetir, ovmaya gerek kalmaz. Fazlası yine de yakabilir ve kurutabilir."
+      },
+      {
+        "title": "Hangisi *sana* göre?",
+        "items": [
+          "Kuru ya da hassas: hafif bir asit, seyrek ya da yumuşak bir havlu",
+          "Yağlı, kalın cilt: BHA ya da yumuşak bir peeling",
+          "Kolay leke kalıyorsa: *ekstra* nazik ol"
+        ]
+      },
+      {
+        "title": "*İkisi* için de kurallar",
+        "items": [
+          "Asla aynı gün ikisi birden",
+          "Kışın haftada 1–2 kez yeter",
+          "Güneş yanığı ya da açık yara varsa sürme",
+          "Asitler güneş hassasiyetini artırır, *SPF* şart"
+        ]
+      },
+      {
+        "title": "Taneli mi, asitli mi? Cildini tarayıp ona *nazik* bir rutin kursun diye *Işılda*'yı geliştirdim."
+      }
+    ]
+  }
+}

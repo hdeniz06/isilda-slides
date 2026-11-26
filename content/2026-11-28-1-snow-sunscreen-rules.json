@@ -1,0 +1,89 @@
+{
+  "id": "2026-11-28-1-snow-sunscreen-rules",
+  "title": "Snow season sunscreen rules",
+  "date": "2026-11-28",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F12",
+  "mentions_app": true,
+  "caption": "Ski and snowboard season is starting, and the sun on the slopes is sneakier than it feels. Snow reflects a big share of UV back at your face, altitude makes it stronger, and cold air hides the warning signs until evening. Do you wear sunscreen on the slopes, or only in summer? #skiseason #sunscreen #winterskincare #spf #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "Ski season changes your *sunscreen* rules",
+      "sub": "#3 is the spot everyone misses",
+      "photo": "skier snowy mountain"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Snow *bounces* the sun back",
+      "body": "Snow can reflect up to 80% of UV rays, so the sun reaches your face from above *and* below.",
+      "photo": "snow mountain sunshine"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Higher slopes, *stronger* UV",
+      "body": "UV gets stronger as you go up, and cold air hides it. You won't feel a burn building until later.",
+      "photo": "snowboarder mountain top"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Cover the *forgotten* spots",
+      "body": "Under your chin, nose, ears and lips catch reflected light. Use an SPF lip balm and don't skip the edges.",
+      "photo": "woman winter hat snow"
+    },
+    {
+      "type": "list",
+      "title": "Your *slope* checklist",
+      "items": [
+        "Broad-spectrum SPF 30+ before you head out",
+        "Reapply every 2 hours, sooner if sweaty",
+        "Goggles or sunglasses for your eyes",
+        "A *rich* moisturizer for wind and cold"
+      ],
+      "photo": "ski goggles snow"
+    },
+    {
+      "type": "app",
+      "title": "Slopes, wind, cold. *Glowtrack* scans your skin after each trip and tracks your *skin score*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Karda güneş kremi kuralları",
+    "caption": "Kayak ve kar tatili sezonu başlıyor; dağdaki güneş göründüğünden çok daha sinsi. Kar UV ışınlarının büyük kısmını yüzüne geri yansıtıyor, yükseklik etkisini artırıyor, soğuk hava da yanmayı akşama kadar hissettirmiyor. Sen karda güneş kremi sürüyor musun, yoksa sadece yazın mı? #ciltbakımı #ciltbakimi #güneşkremi #kışCiltBakımı #skincare",
+    "slides": [
+      {
+        "text": "Karda *güneş kremi* kuralları değişiyor",
+        "sub": "3. maddeyi herkes atlıyor"
+      },
+      {
+        "title": "Kar güneşi *geri yansıtır*",
+        "body": "Kar, UV ışınlarının %80'e kadarını yansıtabilir. Yani güneş yüzüne hem yukarıdan *hem* aşağıdan gelir."
+      },
+      {
+        "title": "Yükseldikçe UV *güçlenir*",
+        "body": "Dağa çıktıkça UV artar, soğuk hava da bunu saklar. Yandığını çoğu zaman akşam fark edersin."
+      },
+      {
+        "title": "*Unutulan* yerleri kapat",
+        "body": "Çene altı, burun, kulaklar ve dudaklar yansıyan ışığı alır. SPF'li dudak balmı kullan, kenarları atlama."
+      },
+      {
+        "title": "*Pist* kontrol listen",
+        "items": [
+          "Çıkmadan önce geniş spektrumlu SPF 30+",
+          "2 saatte bir yenile, terlediysen daha sık",
+          "Gözlerin için kayak gözlüğü ya da güneş gözlüğü",
+          "Rüzgâr ve soğuğa karşı *yoğun* bir nemlendirici"
+        ]
+      },
+      {
+        "title": "Kar, rüzgâr, soğuk. *Işılda* her tatilden sonra cildini tarar ve *cilt skorunu* takip eder."
+      }
+    ]
+  }
+}
