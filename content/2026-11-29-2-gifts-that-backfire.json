@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-29-2-gifts-that-backfire",
+  "title": "Skincare gifts that backfire",
+  "date": "2026-11-29",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F2",
+  "mentions_app": true,
+  "caption": "Gift shopping season is here, and skincare is one of the easiest things to grab and one of the easiest to get wrong. Strong actives, heavy fragrance and gadgets depend a lot on the person's skin, while a few simple picks work for almost anyone. What's the best skincare gift you've ever received? #skincaregifts #giftideas #holidayshopping #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "4 skincare gifts that quietly *backfire*",
+      "sub": "safer picks on slide 6",
+      "photo": "gift box wrapping"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "*Strong actives*",
+      "body": "Retinol or at-home acid peels need a slow start and the right skin. As surprise gifts, they often sting or go unused.",
+      "photo": "serum dropper bottle"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "*Heavily scented* sets",
+      "body": "Fragrance is a common trigger for sensitive skin. That cozy bath set can leave dry winter skin itchy.",
+      "photo": "bath gift set"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "*Needle* gadgets",
+      "body": "At-home microneedling rollers can irritate skin and are hard to keep clean. That's a tool to discuss with a professional.",
+      "photo": "face roller skincare"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "*Acne* kits",
+      "body": "A gift that targets a \"problem\" can feel like a comment on their face. Let people pick those for themselves.",
+      "photo": "woman mirror face"
+    },
+    {
+      "type": "list",
+      "title": "Gifts that *actually* land",
+      "items": [
+        "Fragrance-free hand cream",
+        "Lip balm with SPF",
+        "A soft headband for wash time",
+        "A gift card, so *they* choose"
+      ],
+      "photo": "hand cream tube"
+    },
+    {
+      "type": "app",
+      "title": "Gifts are a guess. With *Glowtrack*, anyone can scan their skin and get *their own* routine.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Ters tepen cilt bakımı hediyeleri",
+    "caption": "Yılbaşı hediyesi telaşı başladı; cilt bakımı ürünleri hem en kolay alınan hem de en kolay yanlış seçilen hediyelerden. Güçlü aktifler, yoğun parfüm ve aletler tamamen kişinin cildine bağlıyken birkaç sade seçenek neredeyse herkese uyar. Şimdiye kadar aldığın en iyi cilt bakımı hediyesi neydi? #ciltbakımı #ciltbakimi #yılbaşıhediyesi #hediyefikirleri #skincare",
+    "slides": [
+      {
+        "text": "Ters tepen 4 cilt bakımı *hediyesi*",
+        "sub": "Daha iyi seçenekler 6. slaytta"
+      },
+      {
+        "title": "*Güçlü aktifler*",
+        "body": "Retinol ya da evde asit peeling yavaş başlangıç ve doğru cilt ister. Sürpriz hediye olunca ya yakar ya köşede kalır."
+      },
+      {
+        "title": "*Yoğun kokulu* setler",
+        "body": "Parfüm, hassas ciltte sık görülen bir tetikleyici. O şirin banyo seti kışın kuruyan cildi kaşındırabilir."
+      },
+      {
+        "title": "*İğneli* aletler",
+        "body": "Evde dermaroller cildi tahriş edebilir ve temiz tutması zor. Bu, bir uzmanla konuşulması gereken bir alet."
+      },
+      {
+        "title": "*Sivilce* setleri",
+        "body": "Bir \"sorunu\" hedefleyen hediye, yüzü hakkında yorum gibi algılanabilir. Bunları herkes kendisi seçsin."
+      },
+      {
+        "title": "*Gerçekten* sevilen hediyeler",
+        "items": [
+          "Parfümsüz el kremi",
+          "SPF'li dudak balmı",
+          "Yüz yıkarken takılan yumuşak saç bandı",
+          "Hediye kartı, seçim *onun* olsun"
+        ]
+      },
+      {
+        "title": "Hediye dediğin tahmindir. *Işılda* ile herkes cildini tarar ve *kendine özel* bir rutin alır."
+      }
+    ]
+  }
+}

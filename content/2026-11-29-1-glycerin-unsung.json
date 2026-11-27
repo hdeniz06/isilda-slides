@@ -1,0 +1,89 @@
+{
+  "id": "2026-11-29-1-glycerin-unsung",
+  "title": "Glycerin, the unsung humectant",
+  "date": "2026-11-29",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F6",
+  "mentions_app": true,
+  "caption": "Glycerin rarely gets the hype that hyaluronic acid or retinol get, yet it sits near the top of the ingredient list in many cleansers, serums and moisturizers. It is cheap, gentle and well studied, and in dry winter air it works best under a cream that seals it in. Did you know glycerin was already in your routine? #glycerin #skincareingredients #winterskincare #dryskin #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "The *cheapest* ingredient in your moisturizer works hardest",
+      "sub": "you've probably scrolled right past it",
+      "photo": "moisturizer cream jar"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Meet *glycerin*",
+      "body": "It's a humectant: it pulls water into the outer layer of your skin. Skincare has relied on it for decades.",
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Why it's *everywhere*",
+      "body": "It's cheap, gentle and well studied, so it shows up in cleansers, serums and moisturizers, often near the top of the list.",
+      "photo": "skincare bottles shelf"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "The winter *catch*",
+      "body": "In very dry air, humectants need a seal on top. Pair glycerin with a cream containing petrolatum or shea butter.",
+      "photo": "winter window frost"
+    },
+    {
+      "type": "list",
+      "title": "How to *spot* it",
+      "items": [
+        "Listed as glycerin or glycerol",
+        "Higher on the list means more of it",
+        "Feels *slightly sticky* in high amounts",
+        "Suits most skin types"
+      ],
+      "photo": "reading product label"
+    },
+    {
+      "type": "app",
+      "title": "Glycerin is step one. *Glowtrack* scans your skin and plans the rest of your *routine*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Gliserin, sessiz kahraman",
+    "caption": "Gliserin, hyaluronik asit ya da retinol kadar konuşulmaz ama pek çok temizleyicinin, serumun ve nemlendiricinin içerik listesinde en üstlerdedir. Ucuz, nazik ve iyi araştırılmış bir nem çekici; kışın kuru havada ise üstüne kilitleyici bir krem sürüldüğünde en iyi sonucu verir. Gliserinin zaten rutininde olduğunu biliyor muydun? #ciltbakımı #ciltbakimi #gliserin #kışCiltBakımı #skincare",
+    "slides": [
+      {
+        "text": "Nemlendiricindeki en *ucuz* içerik en çok çalışanı",
+        "sub": "Etikette büyük ihtimalle gözünden kaçtı"
+      },
+      {
+        "title": "Tanış: *gliserin*",
+        "body": "Nem çekici bir içerik: suyu cildin en üst katmanına çeker. Cilt bakımında onlarca yıldır kullanılıyor."
+      },
+      {
+        "title": "Neden *her yerde*?",
+        "body": "Ucuz, nazik ve iyi araştırılmış. Bu yüzden temizleyicide, serumda, nemlendiricide, çoğu zaman listenin başlarında karşına çıkar."
+      },
+      {
+        "title": "Kışın *püf noktası*",
+        "body": "Çok kuru havada nem çekicinin üstü kapatılmalı. Gliserini vazelin ya da shea yağı içeren bir kremle birlikte kullan."
+      },
+      {
+        "title": "Etikette nasıl *bulursun*?",
+        "items": [
+          "Glycerin ya da glycerol yazar",
+          "Listede ne kadar yukarıdaysa o kadar çok var",
+          "Yüksek oranda *hafif yapışkan* hissettirir",
+          "Çoğu cilt tipine uyar"
+        ]
+      },
+      {
+        "title": "Gliserin işin başı. Gerisi için *Işılda*'yı geliştirdim: cildini tarar, rutinini *kurar*."
+      }
+    ]
+  }
+}
