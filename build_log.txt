@@ -1,17 +1,8 @@
-slide 1: pixabay px-4946162 (moisturizer cream jar)
-slide 2: no photo for 'woman applying face cream', rendering without
-slide 3: pixabay px-196623 (skincare bottles shelf)
-slide 4: pixabay px-431334 (winter window frost)
-slide 5: pixabay px-857021 (reading product label)
+slide 1: reused pixabay photo
+slide 2: pixabay px-10579975 (face cream skin)
+slide 3: reused pixabay photo
+slide 4: reused pixabay photo
+slide 5: reused pixabay photo
 slide 6: app screenshot 0
 slide 6: app screenshot 0 (tr)
 rendered 2026-11-29-1-glycerin-unsung en+tr
-slide 1: pixabay px-6857763 (gift box wrapping)
-slide 2: pixabay px-1071355 (serum dropper bottle)
-slide 3: pixabay px-5313923 (bath gift set)
-slide 4: pixabay px-3191096 (face roller skincare)
-slide 5: pixabay px-5805571 (woman mirror face)
-slide 6: pixabay px-4278668 (hand cream tube)
-slide 7: app screenshot 0
-slide 7: app screenshot 0 (tr)
-rendered 2026-11-29-2-gifts-that-backfire en+tr
