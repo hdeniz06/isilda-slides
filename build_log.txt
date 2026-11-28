@@ -1,8 +1,17 @@
-slide 1: reused pixabay photo
-slide 2: pixabay px-10579975 (face cream skin)
-slide 3: reused pixabay photo
-slide 4: reused pixabay photo
-slide 5: reused pixabay photo
+slide 1: pixabay px-7458180 (humidifier steam bedroom)
+slide 2: pixabay px-5154773 (humidifier mist)
+slide 3: pixabay px-9283111 (water bottle glass)
+slide 4: pixabay px-5073829 (cleaning sponge water)
+slide 5: no photo for 'woman applying face cream', rendering without
+slide 6: pixabay px-4634827 (cozy bedroom night)
+slide 7: app screenshot 0
+slide 7: app screenshot 0 (tr)
+rendered 2026-11-30-1-humidifier-mistakes en+tr
+slide 1: pixabay px-1851469 (man beard portrait)
+slide 2: pixabay px-2634974 (man washing face)
+slide 3: pixabay px-875597 (man applying face cream)
+slide 4: pixabay px-1672986 (man shaving razor)
+slide 5: pixabay px-10093262 (man outdoor winter sun)
 slide 6: app screenshot 0
 slide 6: app screenshot 0 (tr)
-rendered 2026-11-29-1-glycerin-unsung en+tr
+rendered 2026-11-30-2-beard-skin-basics en+tr
