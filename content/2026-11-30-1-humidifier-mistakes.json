@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-30-1-humidifier-mistakes",
+  "title": "Humidifier mistakes",
+  "date": "2026-11-30",
+  "slot": 1,
+  "style": "photo",
+  "hook_formula": "F1",
+  "mentions_app": true,
+  "caption": "Heating season pulls moisture out of indoor air, and a humidifier is one of the easiest fixes for dry winter skin. It only helps if it's set up right: the right humidity, clean water and a clean tank. Do you sleep with a humidifier on in winter? #humidifier #dryskin #winterskincare #skincaretips #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "You're probably using your *humidifier* wrong",
+      "sub": "#3 is the gross one",
+      "photo": "humidifier steam bedroom"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Running it *too high*",
+      "body": "Aim for about 30–50% indoor humidity. Much higher can lead to mold and dust mites. A cheap hygrometer tells you the number.",
+      "photo": "humidifier mist"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Filling it with *tap water*",
+      "body": "Minerals in tap water can come out as fine white dust. Distilled or demineralized water keeps the mist cleaner.",
+      "photo": "water bottle glass"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Never cleaning the *tank*",
+      "body": "Standing water grows mold and bacteria, and the mist blows it into your room. Empty and refill daily, clean it as the manual says.",
+      "photo": "cleaning sponge water"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "Skipping your *moisturizer*",
+      "body": "Humid air helps, but it doesn't replace the basics. Moisturize on damp skin right after washing, especially at night.",
+      "photo": "woman applying face cream"
+    },
+    {
+      "type": "list",
+      "title": "Set it up *right*",
+      "items": [
+        "In your bedroom while you sleep",
+        "A few feet from the bed, not *at your face*",
+        "Check the hygrometer now and then",
+        "Dry the tank before storing it"
+      ],
+      "photo": "cozy bedroom night"
+    },
+    {
+      "type": "app",
+      "title": "Humidifier on? I built *Glowtrack* to scan your skin and track its score all *dry season*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Hava nemlendirici hataları",
+    "caption": "Kaloriferler yandıkça evdeki hava kuruyor; hava nemlendirici de kuru kış cildi için en kolay çözümlerden biri. Ama ancak doğru kurulursa işe yarıyor: doğru nem oranı, temiz su ve temiz hazne. Sen kışın uyurken hava nemlendirici açıyor musun? #ciltbakımı #ciltbakimi #kurucilt #kışbakımı #skincare",
+    "slides": [
+      {
+        "text": "Hava nemlendiricini *yanlış* kullanıyor olabilirsin",
+        "sub": "3. madde biraz iğrenç"
+      },
+      {
+        "title": "Nemi *fazla* açmak",
+        "body": "Evde yaklaşık %30–50 nem yeterli. Çok daha fazlası küf ve toz akarına zemin hazırlar. Ucuz bir nem ölçer sana rakamı söyler."
+      },
+      {
+        "title": "*Musluk suyu* koymak",
+        "body": "Musluk suyundaki mineraller etrafa ince beyaz toz olarak çıkabilir. Saf ya da demineralize su buharı daha temiz tutar."
+      },
+      {
+        "title": "Hazneyi hiç *temizlememek*",
+        "body": "Bekleyen suda küf ve bakteri ürer, buhar da bunu odana yayar. Suyu her gün boşaltıp tazele, hazneyi kılavuzdaki gibi temizle."
+      },
+      {
+        "title": "*Kremi* atlamak",
+        "body": "Nemli hava yardımcı olur ama temel bakımın yerini tutmaz. Yüzünü yıkadıktan hemen sonra, cilt nemliyken kremini sür; özellikle gece."
+      },
+      {
+        "title": "*Doğru* kurulum",
+        "items": [
+          "Uyurken yatak odanda",
+          "Yatağa biraz mesafeli, *yüzüne* doğru değil",
+          "Nem ölçere arada bir bak",
+          "Kaldırmadan önce hazneyi kurula"
+        ]
+      },
+      {
+        "title": "Nemlendirici açık mı? *Işılda*'yı cildini tarayıp *kış boyunca* skorunu takip etmen için geliştirdim."
+      }
+    ]
+  }
+}

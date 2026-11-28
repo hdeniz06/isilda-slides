@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-30-2-beard-skin-basics",
+  "title": "Skincare under a beard",
+  "date": "2026-11-30",
+  "slot": 2,
+  "style": "photo",
+  "hook_formula": "F8",
+  "mentions_app": true,
+  "caption": "A beard covers your skin, but that skin still needs washing, moisture and sun protection, especially in dry winter weather. A few small habits make a big difference, from how you wash to which way you shave the edges. Beard owners, what's the one step you never skip? #beardcare #mensskincare #skincaretips #winterskincare #skintok",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "If you have a *beard*, save this",
+      "sub": "#2 is the one most people skip",
+      "photo": "man beard portrait"
+    },
+    {
+      "type": "point",
+      "num": 1,
+      "title": "Wash the skin *under* it",
+      "body": "Work your cleanser down to the skin, not just the hair. Oil and dead skin collect underneath. Rinse well so nothing stays behind.",
+      "photo": "man washing face"
+    },
+    {
+      "type": "point",
+      "num": 2,
+      "title": "Moisturize the *skin*, not the hair",
+      "body": "Winter dries the skin beneath your beard too. Massage a light moisturizer or beard oil into the roots, where it actually reaches skin.",
+      "photo": "man applying face cream"
+    },
+    {
+      "type": "point",
+      "num": 3,
+      "title": "Shave the edges *with the grain*",
+      "body": "Wet the skin first, use shaving cream, and shave in the direction your hair grows. Rinse the blade after each swipe.",
+      "photo": "man shaving razor"
+    },
+    {
+      "type": "point",
+      "num": 4,
+      "title": "SPF on what's *showing*",
+      "body": "Your beard doesn't cover your cheeks, nose, forehead or neck. Those still get sun every day, winter included.",
+      "photo": "man outdoor winter sun"
+    },
+    {
+      "type": "app",
+      "title": "Beard skin counts. I built *Glowtrack* to scan your face and build a routine that *fits*.",
+      "screenshot": 0
+    }
+  ],
+  "tr": {
+    "title": "Sakal altındaki cilt",
+    "caption": "Sakal cildini örtüyor ama altındaki cilt de temizlenmeyi, nemi ve güneş korumasını istiyor, hele bu kuru kış havasında. Nasıl yıkadığından kenarları hangi yöne tıraş ettiğine kadar birkaç küçük alışkanlık çok fark ediyor. Sakallılar, sizin asla atlamadığınız adım hangisi? #ciltbakımı #ciltbakimi #sakalbakımı #erkekbakımı #skincare",
+    "slides": [
+      {
+        "text": "Sakalın varsa bunu *kaydet*",
+        "sub": "Çoğu kişi 2. maddeyi atlıyor"
+      },
+      {
+        "title": "Sakalın *altını* yıka",
+        "body": "Temizleyiciyi sadece kıllara değil, cilde kadar ulaştır. Altında yağ ve ölü deri birikir. İyice durula ki kalıntı kalmasın."
+      },
+      {
+        "title": "Kılı değil, *cildi* nemlendir",
+        "body": "Kış, sakalın altındaki cildi de kurutur. Hafif bir krem ya da sakal yağını köklere masaj yaparak sür ki cilde ulaşsın."
+      },
+      {
+        "title": "Kenarları *kıl yönünde* al",
+        "body": "Önce cildi ıslat, tıraş köpüğü kullan ve kılın çıktığı yönde tıraş ol. Her geçişten sonra jileti durula."
+      },
+      {
+        "title": "*Açıkta kalana* SPF",
+        "body": "Sakal yanaklarını, burnunu, alnını ve boynunu örtmüyor. Oralar kış dahil her gün güneş görüyor."
+      },
+      {
+        "title": "Sakallı cilt de cilttir. *Işılda*'yı yüzünü tarayıp sana *uyan* bir rutin çıkarması için geliştirdim."
+      }
+    ]
+  }
+}
